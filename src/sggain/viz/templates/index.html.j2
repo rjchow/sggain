@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title }}</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+  <style>
+    :root { --ink: #18231f; --paper: #f4efe3; --moss: #265c42; --clay: #b85c38; }
+    body { margin: 0; font-family: Georgia, "Times New Roman", serif; color: var(--ink); background: radial-gradient(circle at top left, #d9ead1, var(--paper) 42%); }
+    header { padding: 28px 36px 12px; }
+    h1 { margin: 0; font-size: clamp(32px, 5vw, 64px); letter-spacing: -0.04em; }
+    main { display: grid; grid-template-columns: 360px 1fr; gap: 18px; padding: 18px 36px 36px; }
+    #map { height: 58vh; border: 3px solid var(--ink); box-shadow: 8px 8px 0 var(--moss); }
+    #profile { height: 260px; background: white; border: 2px solid var(--ink); margin-top: 18px; }
+    aside { background: rgba(255,255,255,0.72); border: 2px solid var(--ink); padding: 16px; max-height: 78vh; overflow: auto; }
+    label { display: block; margin: 10px 0 4px; font-weight: bold; }
+    select, input { width: 100%; padding: 8px; border: 1px solid var(--ink); background: white; }
+    table { width: 100%; border-collapse: collapse; margin-top: 14px; font-size: 14px; }
+    td, th { border-bottom: 1px solid #cabf9b; padding: 6px; text-align: left; }
+    tr { cursor: pointer; }
+    tr.selected { background: #f0c36a; }
+    .stat { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 12px; }
+    .stat div { background: #fff; border: 1px solid var(--ink); padding: 8px; }
+    @media (max-width: 900px) { main { grid-template-columns: 1fr; padding: 14px; } header { padding: 20px 14px 0; } }
+  </style>
+</head>
+<body>
+<header>
+  <h1>Singapore Gain Routes</h1>
+  <p>Static local dashboard for high-ascent walking and hiking candidates.</p>
+</header>
+<main>
+  <aside>
+    <label for="budget">Budget</label>
+    <select id="budget"><option value="">All</option></select>
+    <label for="mode">Mode</label>
+    <select id="mode"><option value="">All</option></select>
+    <label for="ranking">Ranking</label>
+    <select id="ranking"><option value="ascent">Ascent</option><option value="density" selected>Gain density</option><option value="confidence">Confidence</option></select>
+    <label for="maxRoutes">Max routes shown</label>
+    <input id="maxRoutes" type="number" min="1" value="{{ max_routes_shown_default }}">
+    <div id="stats" class="stat"></div>
+    <table>
+      <thead><tr><th>Route</th><th>km</th><th>gain</th></tr></thead>
+      <tbody id="routes"></tbody>
+    </table>
+  </aside>
+  <section>
+    <div id="map"></div>
+    <div id="profile"></div>
+  </section>
+</main>
+<script>
+const ROUTES = {{ routes | tojson }};
+const ROUTE_GEOJSON = {{ route_geojson | tojson }};
+const ROUTE_SAMPLES = {{ route_samples | tojson }};
+let routeLayer, selectedLayer, markers = [];
+const budgetSelect = document.getElementById('budget');
+const modeSelect = document.getElementById('mode');
+const rankingSelect = document.getElementById('ranking');
+const maxRoutesInput = document.getElementById('maxRoutes');
+const map = L.map('map').setView([1.3521, 103.8198], 11);
+L.tileLayer({{ tile_url | tojson }}, { maxZoom: {{ tile_max_zoom }}, attribution: {{ tile_attribution | tojson }} }).addTo(map);
+
+for (const route of ROUTES) {
+  budgetSelect.add(new Option(`${route.budget_km} km`, route.budget_km));
+}
+[...new Set(ROUTES.map(r => r.mode))].forEach(modeValue => modeSelect.add(new Option(modeValue, modeValue)));
+budgetSelect.addEventListener('change', renderTable);
+modeSelect.addEventListener('change', renderTable);
+rankingSelect.addEventListener('change', renderTable);
+maxRoutesInput.addEventListener('change', renderTable);
+populateFilters();
+routeLayer = L.geoJSON(ROUTE_GEOJSON, {
+  style: { color: '#7c8f67', weight: 3, opacity: 0.65 },
+  onEachFeature: (feature, layer) => {
+    const routeId = feature.properties.route_id;
+    layer.on('click', () => selectRouteById(routeId));
+    layer.bindTooltip(feature.properties.display_name || routeId, { sticky: true });
+  }
+}).addTo(map);
+if (routeLayer.getBounds().isValid()) map.fitBounds(routeLayer.getBounds(), { padding: [20, 20] });
+renderTable();
+
+function populateFilters() {
+  const seen = new Set();
+  [...budgetSelect.options].forEach(option => {
+    if (option.value && seen.has(option.value)) option.remove();
+    seen.add(option.value);
+  });
+}
+
+function filteredRoutes() {
+  const sorters = {
+    ascent: (a, b) => b.ascent_m - a.ascent_m,
+    density: (a, b) => b.gain_density_m_per_km - a.gain_density_m_per_km,
+    confidence: (a, b) => b.source_confidence - a.source_confidence,
+  };
+  return ROUTES
+    .filter(r => !budgetSelect.value || String(r.budget_km) === budgetSelect.value)
+    .filter(r => !modeSelect.value || r.mode === modeSelect.value)
+    .sort(sorters[rankingSelect.value])
+    .slice(0, Number(maxRoutesInput.value || 25));
+}
+
+function renderTable() {
+  const rows = filteredRoutes();
+  routes.innerHTML = '';
+  rows.forEach((route, index) => {
+    const tr = document.createElement('tr');
+    tr.dataset.routeId = route.route_id;
+    tr.innerHTML = `<td><a href="routes/${route.route_id}.html">${route.display_name || route.route_id}</a></td><td>${(route.distance_m / 1000).toFixed(2)}</td><td>${route.ascent_m.toFixed(1)}</td>`;
+    tr.onclick = () => selectRoute(route, tr);
+    routes.appendChild(tr);
+    if (index === 0) selectRoute(route, tr);
+  });
+}
+
+function selectRouteById(routeId) {
+  const route = ROUTES.find(item => item.route_id === routeId);
+  if (!route) return;
+  const row = document.querySelector(`tr[data-route-id="${routeId}"]`);
+  selectRoute(route, row);
+}
+
+function selectRoute(route, row) {
+  document.querySelectorAll('tr.selected').forEach(item => item.classList.remove('selected'));
+  if (row) row.classList.add('selected');
+  const samples = ROUTE_SAMPLES[route.route_id] || [];
+  if (!samples.length) return;
+    if (selectedLayer) selectedLayer.remove();
+    markers.forEach(marker => marker.remove());
+    markers = [];
+    const latlngs = samples.map(s => [s.lat, s.lon]);
+    selectedLayer = L.polyline(latlngs, { color: '#b85c38', weight: 6, opacity: 0.95 }).addTo(map);
+    map.fitBounds(selectedLayer.getBounds(), { padding: [20, 20] });
+    markers.push(L.marker(latlngs[0]).addTo(map).bindPopup('Start'));
+    markers.push(L.marker(latlngs[latlngs.length - 1]).addTo(map).bindPopup('End'));
+    for (const sample of samples) {
+      if (Math.abs(sample.cum_distance_m % 1000) < 10 && sample.cum_distance_m > 0) {
+        markers.push(L.circleMarker([sample.lat, sample.lon], { radius: 4, color: '#265c42' }).addTo(map).bindPopup(`${sample.cum_distance_km.toFixed(1)} km`));
+      }
+      if (Math.abs(sample.grade_smooth_pct) >= 12) {
+        markers.push(L.circleMarker([sample.lat, sample.lon], { radius: 3, color: '#b85c38' }).addTo(map));
+      }
+    }
+    stats.innerHTML = `<div><b>${route.ascent_m.toFixed(1)} m</b><br>ascent</div><div><b>${(route.distance_m / 1000).toFixed(2)} km</b><br>distance</div><div><b>${route.gain_density_m_per_km.toFixed(1)}</b><br>m/km</div><div><b>${route.source_confidence.toFixed(2)}</b><br>confidence</div>`;
+    Plotly.newPlot('profile', [{ x: samples.map(s => s.cum_distance_km), y: samples.map(s => s.elevation_smooth_m), type: 'scatter', mode: 'lines', line: { color: '#265c42', width: 3 } }], { margin: { t: 18, r: 18, b: 42, l: 48 }, xaxis: { title: 'km' }, yaxis: { title: 'm' } }, { displayModeBar: false });
+}
+</script>
+</body>
+</html>

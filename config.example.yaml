@@ -1,0 +1,61 @@
+project_root: .
+data_dir: data
+outputs_dir: outputs
+
+budgets_km: [5, 10, 15, 20]
+modes: [loop, point_to_point]
+
+path_processing:
+  split_intersections: false
+  node_precision_m: 0.01
+  endpoint_snap_tolerance_m: 5.0
+
+contours:
+  folderpath_patterns: [contour, height]
+  densify_spacing_m: 100
+  max_interpolation_points: 50000
+
+elevation:
+  edge_sample_spacing_m: 10
+  smooth_window_m: 30
+  plausible_min_m: -20
+  plausible_max_m: 200
+
+routing:
+  beam_width: 400
+  max_routes_per_budget: 100
+  max_start_nodes:
+  start_node_grid_m: 1500
+  max_start_nodes_per_grid: 4
+  route_diversity_grid_m: 3000
+  max_routes_per_grid: 1
+  frontier_grid_m: 3000
+  max_frontier_states_per_grid: 3
+  jaccard_similarity_threshold: 0.85
+  length_jaccard_similarity_threshold: 0.78
+  length_containment_similarity_threshold: 0.88
+  min_ascent_m: 30
+  landmark_path_name_patterns:
+    - Summit Path
+    - South View Path
+    - Cave Path
+
+visualization:
+  steep_grade_threshold_pct: 12
+  sample_spacing_m: 10
+  max_routes_shown_default: 100
+  tile_url: https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png
+  tile_attribution: '&copy; OpenStreetMap contributors &copy; CARTO'
+  tile_max_zoom: 20
+
+sources:
+  data_gov:
+    nparks_tracks: d_306cc1018cb733346681883ee6d73054
+    central_nature_reserve: d_84e6db6c43ffb8b17803334ec2b5c95d
+    park_connector_loop: d_a69ef89737379f231d2ae93fd1c5707f
+    national_map_line: d_10480c0b59e65663dfae1028ff4aa8bb
+  osm:
+    enabled: true
+    singapore_bbox_wgs84: [103.55, 1.15, 104.12, 1.55]
+    geofabrik_url: https://download.geofabrik.de/asia/malaysia-singapore-brunei-latest.osm.pbf
+    local_path:

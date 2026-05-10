@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title }}</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+  <style>
+    :root { --ink: #18231f; --paper: #f4efe3; --moss: #265c42; --clay: #b85c38; }
+    body { margin: 0; font-family: Georgia, "Times New Roman", serif; color: var(--ink); background: var(--paper); }
+    header { padding: 24px 32px; background: linear-gradient(90deg, #d9ead1, #f0c36a); border-bottom: 3px solid var(--ink); }
+    h1 { margin: 0; font-size: clamp(30px, 5vw, 56px); }
+    main { display: grid; grid-template-columns: 1fr 360px; gap: 18px; padding: 24px 32px; }
+    #map { height: 68vh; border: 3px solid var(--ink); }
+    #profile { height: 280px; background: white; border: 2px solid var(--ink); margin-top: 18px; }
+    aside { background: white; border: 2px solid var(--ink); padding: 16px; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+    .grid div, .warning { border: 1px solid var(--ink); padding: 8px; }
+    a { color: var(--clay); font-weight: bold; }
+    @media (max-width: 900px) { main { grid-template-columns: 1fr; padding: 14px; } header { padding: 18px 14px; } }
+  </style>
+</head>
+<body>
+<header>
+  <h1>{{ route.display_name }}</h1>
+  <p>{{ route.route_id }}</p>
+  <p><a href="../index.html">Back to dashboard</a></p>
+</header>
+<main>
+  <section>
+    <div id="map"></div>
+    <div id="profile"></div>
+  </section>
+  <aside>
+    <h2>Stats</h2>
+    <div class="grid">
+      <div><b>{{ "%.1f"|format(route.ascent_m) }} m</b><br>ascent</div>
+      <div><b>{{ "%.1f"|format(route.descent_m) }} m</b><br>descent</div>
+      <div><b>{{ "%.2f"|format(route.distance_m / 1000) }} km</b><br>distance</div>
+      <div><b>{{ "%.1f"|format(route.gain_density_m_per_km) }}</b><br>m/km</div>
+      <div><b>{{ "%.2f"|format(route.source_confidence) }}</b><br>confidence</div>
+      <div><b>{{ route.mode }}</b><br>mode</div>
+    </div>
+    <h2>Downloads</h2>
+    <p><a href="../../routes/{{ route.route_id }}.gpx">GPX</a> · <a href="../../routes/{{ route.route_id }}.geojson">GeoJSON</a></p>
+    <h2>Warnings</h2>
+    {% if route.warnings %}
+      {% for warning in route.warnings %}<p class="warning">{{ warning }}</p>{% endfor %}
+    {% else %}
+      <p class="warning">No route geometry warnings.</p>
+    {% endif %}
+    <h2>Steep Sections</h2>
+    {% if steep_sections %}
+      {% for section in steep_sections %}
+        <p class="warning">{{ "%.0f"|format(section.start_distance_m) }}-{{ "%.0f"|format(section.end_distance_m) }} m, max {{ "%.1f"|format(section.max_abs_grade_pct) }}%</p>
+      {% endfor %}
+    {% else %}
+      <p class="warning">No steep sections above threshold.</p>
+    {% endif %}
+    <h2>Sources</h2>
+    <p class="warning">Primary source diagnostics are encoded per sample and edge in generated JSON outputs.</p>
+  </aside>
+</main>
+<script>
+const SAMPLES = {{ samples | tojson }};
+const ROUTE = {{ route | tojson }};
+const map = L.map('map').setView([1.3521, 103.8198], 12);
+L.tileLayer({{ tile_url | tojson }}, { maxZoom: {{ tile_max_zoom }}, attribution: {{ tile_attribution | tojson }} }).addTo(map);
+const latlngs = SAMPLES.map(s => [s.lat, s.lon]);
+const line = L.polyline(latlngs, { color: '#b85c38', weight: 6 }).addTo(map);
+map.fitBounds(line.getBounds(), { padding: [20, 20] });
+L.marker(latlngs[0]).addTo(map).bindPopup('Start');
+L.marker(latlngs[latlngs.length - 1]).addTo(map).bindPopup('End');
+for (const sample of SAMPLES) {
+  if (Math.abs(sample.cum_distance_m % 1000) < 10 && sample.cum_distance_m > 0) {
+    L.circleMarker([sample.lat, sample.lon], { radius: 5, color: '#265c42' }).addTo(map).bindPopup(`${sample.cum_distance_km.toFixed(1)} km`);
+  }
+  if (Math.abs(sample.cum_distance_m % 500) < 10 && sample.cum_distance_m > 0) {
+    L.marker([sample.lat, sample.lon], { opacity: 0.7 }).addTo(map).bindPopup('Direction marker');
+  }
+  if (Math.abs(sample.grade_smooth_pct) >= 12) {
+    L.circleMarker([sample.lat, sample.lon], { radius: 4, color: '#b85c38', fillOpacity: 0.8 }).addTo(map);
+  }
+  if (sample.highway === 'steps') {
+    L.circleMarker([sample.lat, sample.lon], { radius: 3, color: '#111', fillColor: '#f0c36a', fillOpacity: 0.9 }).addTo(map).bindPopup(`Steps${sample.path_name ? ': ' + sample.path_name : ''}`);
+  }
+}
+Plotly.newPlot('profile', [
+  { x: SAMPLES.map(s => s.cum_distance_km), y: SAMPLES.map(s => s.elevation_smooth_m), type: 'scatter', mode: 'lines', line: { color: '#265c42', width: 3 }, name: 'Elevation' },
+  { x: SAMPLES.map(s => s.cum_distance_km), y: SAMPLES.map(s => s.grade_smooth_pct), type: 'scatter', mode: 'lines', yaxis: 'y2', line: { color: '#b85c38', width: 1 }, name: 'Grade %' }
+], { margin: { t: 18, r: 42, b: 42, l: 48 }, xaxis: { title: 'km' }, yaxis: { title: 'm' }, yaxis2: { overlaying: 'y', side: 'right', title: '%' } });
+</script>
+</body>
+</html>
