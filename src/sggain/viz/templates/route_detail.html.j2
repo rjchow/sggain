@@ -44,7 +44,7 @@
       <div><b>{{ route.mode }}</b><br>mode</div>
     </div>
     <h2>Downloads</h2>
-    <p><a href="../../routes/{{ route.route_id }}.gpx">GPX</a> · <a href="../../routes/{{ route.route_id }}.geojson">GeoJSON</a></p>
+    <p><a href="{{ route.route_id }}.gpx">GPX</a> · <a href="{{ route.route_id }}.geojson">GeoJSON</a></p>
     <h2>Warnings</h2>
     {% if route.warnings %}
       {% for warning in route.warnings %}<p class="warning">{{ warning }}</p>{% endfor %}

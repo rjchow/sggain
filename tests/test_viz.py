@@ -6,7 +6,7 @@ from shapely.geometry import LineString, Point
 from sggain.routing.graph import build_multidigraph
 from sggain.routing.search import RouteResult
 from sggain.viz.data import build_route_samples, detect_steep_sections
-from sggain.viz.map_data import routes_to_feature_collection
+from sggain.viz.map_data import route_display_name, routes_to_feature_collection
 from sggain.viz.render import render_visualization
 
 
@@ -71,6 +71,10 @@ def test_steep_sections_and_html_rendering(tmp_path):
     route, graph = _route_and_graph()
     samples = build_route_samples(route, graph, spacing_m=10)
     steep = detect_steep_sections(samples, threshold_pct=12)
+    route_artifact_dir = tmp_path.parent / "routes"
+    route_artifact_dir.mkdir()
+    (route_artifact_dir / "r001.gpx").write_text("<gpx></gpx>")
+    (route_artifact_dir / "r001.geojson").write_text("{}")
 
     render_visualization([route], graph, tmp_path)
 
@@ -80,8 +84,14 @@ def test_steep_sections_and_html_rendering(tmp_path):
     assert (tmp_path / "assets" / "route_summary.json").exists()
     assert (tmp_path / "assets" / "routes.geojson").exists()
     assert (tmp_path / "assets" / "route_samples" / "r001.json").exists()
+    assert (tmp_path / "routes" / "r001.gpx").exists()
+    assert (tmp_path / "routes" / "r001.geojson").exists()
     assert "tile.openstreetmap.org" not in (tmp_path / "index.html").read_text()
-    assert "tile.openstreetmap.org" not in (tmp_path / "routes" / "r001.html").read_text()
+    detail_html = (tmp_path / "routes" / "r001.html").read_text()
+    assert "tile.openstreetmap.org" not in detail_html
+    assert 'href="r001.gpx"' in detail_html
+    assert 'href="r001.geojson"' in detail_html
+    assert "../../routes/" not in detail_html
     assert "fetch('assets/" not in (tmp_path / "index.html").read_text()
     assert "ROUTE_GEOJSON" in (tmp_path / "index.html").read_text()
     assert "ROUTE_SAMPLES" in (tmp_path / "index.html").read_text()
@@ -112,3 +122,17 @@ def test_render_visualization_removes_stale_detail_and_sample_files(tmp_path):
 
     assert not stale_detail.exists()
     assert not stale_sample.exists()
+
+
+def test_display_name_uses_area_when_path_name_is_missing():
+    route, _graph = _route_and_graph()
+    route.mode = "point_to_point"
+    samples = [
+        {"lat": 1.3540, "lon": 103.7770, "path_name": None},
+        {"lat": 1.3550, "lon": 103.7780, "path_name": None},
+    ]
+
+    name = route_display_name(route, samples)
+
+    assert name.startswith("Bukit Timah Nature Reserve route")
+    assert "Point To Point" not in name

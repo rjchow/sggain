@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import math
+import shutil
 from pathlib import Path
 from typing import Any
 
@@ -22,6 +23,7 @@ def render_visualization(routes: list[RouteResult], graph, output_dir: str | Pat
     samples_dir.mkdir(parents=True, exist_ok=True)
     detail_dir.mkdir(parents=True, exist_ok=True)
     _remove_stale_visualization_outputs(samples_dir, detail_dir)
+    route_artifact_dir = cfg.outputs_dir / "routes" if cfg is not None else out.parent / "routes"
 
     threshold = 12.0 if cfg is None else float(cfg.get("visualization.steep_grade_threshold_pct", 12))
     tile_url = (
@@ -67,6 +69,7 @@ def render_visualization(routes: list[RouteResult], graph, output_dir: str | Pat
         )
     )
     for route in routes:
+        _copy_route_downloads(route, route_artifact_dir, detail_dir)
         (detail_dir / f"{route.route_id}.html").write_text(
             detail_template.render(
                 route=summaries_by_id[route.route_id],
@@ -92,6 +95,17 @@ def _remove_stale_visualization_outputs(samples_dir: Path, detail_dir: Path) -> 
     for path in detail_dir.glob("*.html"):
         if path.is_file():
             path.unlink()
+    for pattern in ("*.gpx", "*.geojson"):
+        for path in detail_dir.glob(pattern):
+            if path.is_file():
+                path.unlink()
+
+
+def _copy_route_downloads(route: RouteResult, route_artifact_dir: Path, detail_dir: Path) -> None:
+    for suffix in ("gpx", "geojson"):
+        source = route_artifact_dir / f"{route.route_id}.{suffix}"
+        if source.exists():
+            shutil.copyfile(source, detail_dir / source.name)
 
 
 def _dump_json(payload: Any) -> str:
