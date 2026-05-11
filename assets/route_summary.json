@@ -1,0 +1,1930 @@
+[
+  {
+    "route_id": "point_to_point_10000m_001",
+    "budget_km": 10.0,
+    "mode": "point_to_point",
+    "rank": 1,
+    "distance_m": 5568.881754665213,
+    "ascent_m": 278.17007705755356,
+    "descent_m": 276.7959210914901,
+    "gain_density_m_per_km": 49.95079610453615,
+    "source_confidence": 0.9392857142857141,
+    "directed_edge_ids": [
+      "osm_018206:rev",
+      "central_nature_reserve_000444:fwd",
+      "central_nature_reserve_000463:fwd",
+      "central_nature_reserve_000126:fwd",
+      "nparks_tracks_013668:rev",
+      "central_nature_reserve_000128:rev",
+      "central_nature_reserve_000445:rev",
+      "nparks_tracks_013590:fwd",
+      "central_nature_reserve_000125:rev",
+      "central_nature_reserve_000446:fwd",
+      "central_nature_reserve_000127:fwd",
+      "central_nature_reserve_000391:fwd",
+      "nparks_tracks_013302:rev",
+      "central_nature_reserve_000114:rev"
+    ],
+    "undirected_edge_ids": [
+      "osm_018206",
+      "central_nature_reserve_000444",
+      "central_nature_reserve_000463",
+      "central_nature_reserve_000126",
+      "nparks_tracks_013668",
+      "central_nature_reserve_000128",
+      "central_nature_reserve_000445",
+      "nparks_tracks_013590",
+      "central_nature_reserve_000125",
+      "central_nature_reserve_000446",
+      "central_nature_reserve_000127",
+      "central_nature_reserve_000391",
+      "nparks_tracks_013302",
+      "central_nature_reserve_000114"
+    ],
+    "node_ids": [
+      "n014559",
+      "n014561",
+      "n014493",
+      "n014494",
+      "n014563",
+      "n014562",
+      "n014494",
+      "n014493",
+      "n014494",
+      "n014562",
+      "n016186",
+      "n014209",
+      "n014210",
+      "n014209",
+      "n016182"
+    ],
+    "warnings": [],
+    "display_name": "Bukit Timah Nature Reserve: South View Path - 5.57 km, 278 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_001",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 1,
+    "distance_m": 4361.943494819295,
+    "ascent_m": 260.1832672921452,
+    "descent_m": 140.47617622851638,
+    "gain_density_m_per_km": 59.64847265930115,
+    "source_confidence": 0.9178571428571427,
+    "directed_edge_ids": [
+      "osm_018206:rev",
+      "central_nature_reserve_000444:fwd",
+      "central_nature_reserve_000463:fwd",
+      "central_nature_reserve_000126:fwd",
+      "nparks_tracks_013668:rev",
+      "central_nature_reserve_000128:rev",
+      "central_nature_reserve_000445:rev",
+      "nparks_tracks_013590:fwd",
+      "central_nature_reserve_000125:rev",
+      "central_nature_reserve_000446:fwd",
+      "central_nature_reserve_000127:fwd",
+      "central_nature_reserve_000391:fwd",
+      "nparks_tracks_013302:rev",
+      "osm_018210:fwd"
+    ],
+    "undirected_edge_ids": [
+      "osm_018206",
+      "central_nature_reserve_000444",
+      "central_nature_reserve_000463",
+      "central_nature_reserve_000126",
+      "nparks_tracks_013668",
+      "central_nature_reserve_000128",
+      "central_nature_reserve_000445",
+      "nparks_tracks_013590",
+      "central_nature_reserve_000125",
+      "central_nature_reserve_000446",
+      "central_nature_reserve_000127",
+      "central_nature_reserve_000391",
+      "nparks_tracks_013302",
+      "osm_018210"
+    ],
+    "node_ids": [
+      "n014559",
+      "n014561",
+      "n014493",
+      "n014494",
+      "n014563",
+      "n014562",
+      "n014494",
+      "n014493",
+      "n014494",
+      "n014562",
+      "n016186",
+      "n014209",
+      "n014210",
+      "n014209",
+      "n014210"
+    ],
+    "warnings": [],
+    "display_name": "Bukit Timah Nature Reserve: South View Path - 4.36 km, 260 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_002",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 2,
+    "distance_m": 4013.9146815268987,
+    "ascent_m": 189.57956872197013,
+    "descent_m": 229.6999035153314,
+    "gain_density_m_per_km": 47.230592517191674,
+    "source_confidence": 0.9277777777777777,
+    "directed_edge_ids": [
+      "osm_049438:fwd",
+      "central_nature_reserve_000445:rev",
+      "nparks_tracks_013667:rev",
+      "central_nature_reserve_000444:fwd",
+      "nparks_tracks_013590:fwd",
+      "central_nature_reserve_000125:rev",
+      "central_nature_reserve_000446:fwd",
+      "central_nature_reserve_000127:fwd",
+      "central_nature_reserve_000114:rev"
+    ],
+    "undirected_edge_ids": [
+      "osm_049438",
+      "central_nature_reserve_000445",
+      "nparks_tracks_013667",
+      "central_nature_reserve_000444",
+      "nparks_tracks_013590",
+      "central_nature_reserve_000125",
+      "central_nature_reserve_000446",
+      "central_nature_reserve_000127",
+      "central_nature_reserve_000114"
+    ],
+    "node_ids": [
+      "n016764",
+      "n014494",
+      "n014493",
+      "n014561",
+      "n014493",
+      "n014494",
+      "n014562",
+      "n016186",
+      "n014209",
+      "n016182"
+    ],
+    "warnings": [],
+    "display_name": "Bukit Timah Nature Reserve: Cave Path - 4.01 km, 190 m gain"
+  },
+  {
+    "route_id": "point_to_point_10000m_002",
+    "budget_km": 10.0,
+    "mode": "point_to_point",
+    "rank": 2,
+    "distance_m": 5072.724734842741,
+    "ascent_m": 123.3821762590537,
+    "descent_m": 119.40588132290978,
+    "gain_density_m_per_km": 24.32266340248771,
+    "source_confidence": 0.8666666666666667,
+    "directed_edge_ids": [
+      "nparks_tracks_012967:fwd",
+      "central_nature_reserve_000033:rev",
+      "osm_050638:rev"
+    ],
+    "undirected_edge_ids": [
+      "nparks_tracks_012967",
+      "central_nature_reserve_000033",
+      "osm_050638"
+    ],
+    "node_ids": [
+      "n013884",
+      "n013885",
+      "n013884",
+      "n087736"
+    ],
+    "warnings": [],
+    "display_name": "Dairy Farm Nature Park route - 5.07 km, 123 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_004",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 4,
+    "distance_m": 2178.7929132608583,
+    "ascent_m": 105.88157106627885,
+    "descent_m": 84.63695781632549,
+    "gain_density_m_per_km": 48.59643632116132,
+    "source_confidence": 0.85,
+    "directed_edge_ids": [
+      "nparks_tracks_013503:rev",
+      "central_nature_reserve_000410:rev",
+      "nparks_tracks_013504:fwd",
+      "osm_000350:fwd",
+      "osm_000356:fwd"
+    ],
+    "undirected_edge_ids": [
+      "nparks_tracks_013503",
+      "central_nature_reserve_000410",
+      "nparks_tracks_013504",
+      "osm_000350",
+      "osm_000356"
+    ],
+    "node_ids": [
+      "n014409",
+      "n014408",
+      "n014410",
+      "n014408",
+      "n017210",
+      "n017001"
+    ],
+    "warnings": [],
+    "display_name": "MacRitchie: HSBC Treetop Walk + Petaling Boardwalk - 2.18 km, 106 m gain"
+  },
+  {
+    "route_id": "loop_05000m_002",
+    "budget_km": 5.0,
+    "mode": "loop",
+    "rank": 2,
+    "distance_m": 2704.559240235429,
+    "ascent_m": 105.88157106627884,
+    "descent_m": 105.52776506696542,
+    "gain_density_m_per_km": 39.14928890855501,
+    "source_confidence": 0.9750000000000001,
+    "directed_edge_ids": [
+      "nparks_tracks_013503:rev",
+      "central_nature_reserve_000410:rev",
+      "nparks_tracks_013504:fwd",
+      "central_nature_reserve_000409:fwd"
+    ],
+    "undirected_edge_ids": [
+      "nparks_tracks_013503",
+      "central_nature_reserve_000410",
+      "nparks_tracks_013504",
+      "central_nature_reserve_000409"
+    ],
+    "node_ids": [
+      "n014409",
+      "n014408",
+      "n014410",
+      "n014408",
+      "n014409"
+    ],
+    "warnings": [],
+    "display_name": "MacRitchie loop - 2.70 km, 106 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_005",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 5,
+    "distance_m": 4700.951718352341,
+    "ascent_m": 97.89773723180849,
+    "descent_m": 92.75265688728759,
+    "gain_density_m_per_km": 20.825088853735586,
+    "source_confidence": 0.9875,
+    "directed_edge_ids": [
+      "nparks_tracks_012967:fwd",
+      "central_nature_reserve_000033:rev",
+      "nparks_tracks_012968:rev",
+      "nparks_tracks_012969:rev"
+    ],
+    "undirected_edge_ids": [
+      "nparks_tracks_012967",
+      "central_nature_reserve_000033",
+      "nparks_tracks_012968",
+      "nparks_tracks_012969"
+    ],
+    "node_ids": [
+      "n013884",
+      "n013885",
+      "n013884",
+      "n013886",
+      "n013887"
+    ],
+    "warnings": [],
+    "display_name": "Dairy Farm Nature Park route - 4.70 km, 98 m gain"
+  },
+  {
+    "route_id": "loop_05000m_003",
+    "budget_km": 5.0,
+    "mode": "loop",
+    "rank": 3,
+    "distance_m": 3732.907639921265,
+    "ascent_m": 90.36592449169112,
+    "descent_m": 90.4811105454061,
+    "gain_density_m_per_km": 24.207918654423803,
+    "source_confidence": 0.975,
+    "directed_edge_ids": [
+      "central_nature_reserve_000033:rev",
+      "nparks_tracks_012967:fwd"
+    ],
+    "undirected_edge_ids": [
+      "central_nature_reserve_000033",
+      "nparks_tracks_012967"
+    ],
+    "node_ids": [
+      "n013885",
+      "n013884",
+      "n013885"
+    ],
+    "warnings": [],
+    "display_name": "Dairy Farm Nature Park loop - 3.73 km, 90 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_006",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 6,
+    "distance_m": 2880.394064595807,
+    "ascent_m": 89.54400667444168,
+    "descent_m": 54.96088497222801,
+    "gain_density_m_per_km": 31.08741535578987,
+    "source_confidence": 0.65,
+    "directed_edge_ids": [
+      "osm_005030:rev",
+      "osm_005176:fwd"
+    ],
+    "undirected_edge_ids": [
+      "osm_005030",
+      "osm_005176"
+    ],
+    "node_ids": [
+      "n024102",
+      "n024101",
+      "n024346"
+    ],
+    "warnings": [],
+    "display_name": "Rifle Range Nature Park route - 2.88 km, 90 m gain"
+  },
+  {
+    "route_id": "point_to_point_10000m_003",
+    "budget_km": 10.0,
+    "mode": "point_to_point",
+    "rank": 3,
+    "distance_m": 9325.577229690321,
+    "ascent_m": 84.63071223095176,
+    "descent_m": 64.63071223095176,
+    "gain_density_m_per_km": 9.07511783415493,
+    "source_confidence": 0.8666666666666666,
+    "directed_edge_ids": [
+      "nparks_tracks_013748:rev",
+      "osm_000923:rev",
+      "central_nature_reserve_000026:fwd"
+    ],
+    "undirected_edge_ids": [
+      "nparks_tracks_013748",
+      "osm_000923",
+      "central_nature_reserve_000026"
+    ],
+    "node_ids": [
+      "n014625",
+      "n014624",
+      "n016114",
+      "n016115"
+    ],
+    "warnings": [],
+    "display_name": "MacRitchie: MacRitchie Nature Trail - 9.33 km, 85 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_007",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 7,
+    "distance_m": 2994.4535219952413,
+    "ascent_m": 83.87486070926137,
+    "descent_m": 75.50622291351775,
+    "gain_density_m_per_km": 28.010072653715632,
+    "source_confidence": 0.65,
+    "directed_edge_ids": [
+      "osm_004120:fwd",
+      "osm_051490:rev",
+      "osm_004203:rev",
+      "osm_022946:rev",
+      "osm_004010:rev"
+    ],
+    "undirected_edge_ids": [
+      "osm_004120",
+      "osm_051490",
+      "osm_004203",
+      "osm_022946",
+      "osm_004010"
+    ],
+    "node_ids": [
+      "n022791",
+      "n022792",
+      "n022299",
+      "n022298",
+      "n022243",
+      "n022613"
+    ],
+    "warnings": [],
+    "display_name": "Zhenghua: Jalan Kwok Min - 2.99 km, 84 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_008",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 8,
+    "distance_m": 1723.0456970497555,
+    "ascent_m": 73.42458132173087,
+    "descent_m": 53.42458132173087,
+    "gain_density_m_per_km": 42.61325247928734,
+    "source_confidence": 0.65,
+    "directed_edge_ids": [
+      "osm_006864:rev"
+    ],
+    "undirected_edge_ids": [
+      "osm_006864"
+    ],
+    "node_ids": [
+      "n026848",
+      "n026847"
+    ],
+    "warnings": [],
+    "display_name": "Jurong West route - 1.72 km, 73 m gain"
+  },
+  {
+    "route_id": "point_to_point_10000m_004",
+    "budget_km": 10.0,
+    "mode": "point_to_point",
+    "rank": 4,
+    "distance_m": 5977.583235857846,
+    "ascent_m": 72.75186128987656,
+    "descent_m": 66.9762467383335,
+    "gain_density_m_per_km": 12.170781805840617,
+    "source_confidence": 0.65,
+    "directed_edge_ids": [
+      "osm_000386:fwd",
+      "osm_011961:fwd",
+      "osm_011960:fwd",
+      "osm_000407:rev",
+      "osm_000424:fwd"
+    ],
+    "undirected_edge_ids": [
+      "osm_000386",
+      "osm_011961",
+      "osm_011960",
+      "osm_000407",
+      "osm_000424"
+    ],
+    "node_ids": [
+      "n017258",
+      "n017259",
+      "n033673",
+      "n017295",
+      "n017290",
+      "n017326"
+    ],
+    "warnings": [],
+    "display_name": "Pulau Ubin: Pasir Avenue - 5.98 km, 73 m gain"
+  },
+  {
+    "route_id": "point_to_point_10000m_005",
+    "budget_km": 10.0,
+    "mode": "point_to_point",
+    "rank": 5,
+    "distance_m": 7345.050493876181,
+    "ascent_m": 65.75532408322567,
+    "descent_m": 59.43185015077907,
+    "gain_density_m_per_km": 8.952331115769475,
+    "source_confidence": 0.85,
+    "directed_edge_ids": [
+      "park_connector_loop_000980:fwd",
+      "park_connector_loop_000432:rev",
+      "park_connector_loop_000214:rev",
+      "park_connector_loop_000213:fwd",
+      "osm_015915:fwd"
+    ],
+    "undirected_edge_ids": [
+      "park_connector_loop_000980",
+      "park_connector_loop_000432",
+      "park_connector_loop_000214",
+      "park_connector_loop_000213",
+      "osm_015915"
+    ],
+    "node_ids": [
+      "n000540",
+      "n007839",
+      "n016467",
+      "n016468",
+      "n016467",
+      "n039205"
+    ],
+    "warnings": [],
+    "display_name": "Changi route - 7.35 km, 66 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_009",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 9,
+    "distance_m": 1141.6089651360671,
+    "ascent_m": 65.09831472458448,
+    "descent_m": 39.31436930018802,
+    "gain_density_m_per_km": 57.02330369911338,
+    "source_confidence": 0.65,
+    "directed_edge_ids": [
+      "osm_023067:fwd"
+    ],
+    "undirected_edge_ids": [
+      "osm_023067"
+    ],
+    "node_ids": [
+      "n017554",
+      "n048996"
+    ],
+    "warnings": [],
+    "display_name": "Bukit Batok route - 1.14 km, 65 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_003",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 3,
+    "distance_m": 478.8322983681643,
+    "ascent_m": 64.09121420855331,
+    "descent_m": 35.091493146650464,
+    "gain_density_m_per_km": 133.84897891594375,
+    "source_confidence": 0.78,
+    "directed_edge_ids": [
+      "osm_018208:fwd",
+      "osm_018209:fwd",
+      "osm_009034:fwd",
+      "central_nature_reserve_000449:rev",
+      "nparks_tracks_013589:fwd"
+    ],
+    "undirected_edge_ids": [
+      "osm_018208",
+      "osm_018209",
+      "osm_009034",
+      "central_nature_reserve_000449",
+      "nparks_tracks_013589"
+    ],
+    "node_ids": [
+      "n014491",
+      "n042306",
+      "n029996",
+      "n014492",
+      "n014491",
+      "n014492"
+    ],
+    "warnings": [],
+    "display_name": "Bukit Timah Nature Reserve: Summit Path - 0.48 km, 64 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_010",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 10,
+    "distance_m": 716.617872102837,
+    "ascent_m": 63.306723601329765,
+    "descent_m": 27.65863728041363,
+    "gain_density_m_per_km": 88.3409778988111,
+    "source_confidence": 0.93,
+    "directed_edge_ids": [
+      "osm_050602:fwd",
+      "nparks_tracks_007460:fwd",
+      "nparks_tracks_007484:fwd",
+      "nparks_tracks_002668:fwd",
+      "nparks_tracks_002671:rev"
+    ],
+    "undirected_edge_ids": [
+      "osm_050602",
+      "nparks_tracks_007460",
+      "nparks_tracks_007484",
+      "nparks_tracks_002668",
+      "nparks_tracks_002671"
+    ],
+    "node_ids": [
+      "n087680",
+      "n008874",
+      "n009090",
+      "n004283",
+      "n004280",
+      "n004283"
+    ],
+    "warnings": [],
+    "display_name": "Kent Ridge route - 0.72 km, 63 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_011",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 11,
+    "distance_m": 4873.55648836029,
+    "ascent_m": 62.23743540832644,
+    "descent_m": 55.57629145938061,
+    "gain_density_m_per_km": 12.770434806074496,
+    "source_confidence": 0.7899999999999999,
+    "directed_edge_ids": [
+      "osm_007562:rev",
+      "osm_007563:rev",
+      "nparks_tracks_013834:rev",
+      "osm_000224:rev",
+      "nparks_tracks_013904:fwd"
+    ],
+    "undirected_edge_ids": [
+      "osm_007562",
+      "osm_007563",
+      "nparks_tracks_013834",
+      "osm_000224",
+      "nparks_tracks_013904"
+    ],
+    "node_ids": [
+      "n027881",
+      "n027880",
+      "n014691",
+      "n014689",
+      "n014732",
+      "n014682"
+    ],
+    "warnings": [],
+    "display_name": "Changi Village: Jalan Durian - 4.87 km, 62 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_012",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 12,
+    "distance_m": 582.7392919564375,
+    "ascent_m": 59.49297099564659,
+    "descent_m": 3.3616459894539616,
+    "gain_density_m_per_km": 102.09191625968816,
+    "source_confidence": 0.72,
+    "directed_edge_ids": [
+      "osm_002750:rev",
+      "osm_000209:fwd",
+      "osm_031150:fwd",
+      "nparks_tracks_008291:fwd",
+      "osm_014821:rev"
+    ],
+    "undirected_edge_ids": [
+      "osm_002750",
+      "osm_000209",
+      "osm_031150",
+      "nparks_tracks_008291",
+      "osm_014821"
+    ],
+    "node_ids": [
+      "n020697",
+      "n009537",
+      "n017014",
+      "n009568",
+      "n008722",
+      "n025423"
+    ],
+    "warnings": [],
+    "display_name": "Southern Ridges: Marang Trail - 0.58 km, 59 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_013",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 13,
+    "distance_m": 4616.301892687413,
+    "ascent_m": 59.39900333886765,
+    "descent_m": 62.18739824694154,
+    "gain_density_m_per_km": 12.867226780154992,
+    "source_confidence": 0.65,
+    "directed_edge_ids": [
+      "osm_000386:fwd",
+      "osm_011961:fwd",
+      "osm_011960:fwd",
+      "osm_000407:rev"
+    ],
+    "undirected_edge_ids": [
+      "osm_000386",
+      "osm_011961",
+      "osm_011960",
+      "osm_000407"
+    ],
+    "node_ids": [
+      "n017258",
+      "n017259",
+      "n033673",
+      "n017295",
+      "n017290"
+    ],
+    "warnings": [],
+    "display_name": "Pulau Ubin: Pasir Avenue - 4.62 km, 59 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_014",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 14,
+    "distance_m": 708.9298564762742,
+    "ascent_m": 57.83423949068012,
+    "descent_m": 17.83423949068012,
+    "gain_density_m_per_km": 81.57963578815031,
+    "source_confidence": 0.65,
+    "directed_edge_ids": [
+      "osm_006886:fwd"
+    ],
+    "undirected_edge_ids": [
+      "osm_006886"
+    ],
+    "node_ids": [
+      "n026887",
+      "n026888"
+    ],
+    "warnings": [],
+    "display_name": "Jurong West route - 0.71 km, 58 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_015",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 15,
+    "distance_m": 3884.0424827962597,
+    "ascent_m": 56.589092033687955,
+    "descent_m": 54.37930728065134,
+    "gain_density_m_per_km": 14.56963776383503,
+    "source_confidence": 0.65,
+    "directed_edge_ids": [
+      "osm_006898:rev"
+    ],
+    "undirected_edge_ids": [
+      "osm_006898"
+    ],
+    "node_ids": [
+      "n026909",
+      "n026908"
+    ],
+    "warnings": [],
+    "display_name": "Western Catchment route - 3.88 km, 57 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_016",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 16,
+    "distance_m": 3243.6912967680396,
+    "ascent_m": 54.37776304214989,
+    "descent_m": 52.10539250237218,
+    "gain_density_m_per_km": 16.764160971893656,
+    "source_confidence": 0.86,
+    "directed_edge_ids": [
+      "nparks_tracks_013900:rev",
+      "nparks_tracks_013838:rev",
+      "osm_004078:fwd",
+      "osm_000224:rev",
+      "nparks_tracks_013904:fwd"
+    ],
+    "undirected_edge_ids": [
+      "nparks_tracks_013900",
+      "nparks_tracks_013838",
+      "osm_004078",
+      "osm_000224",
+      "nparks_tracks_013904"
+    ],
+    "node_ids": [
+      "n013657",
+      "n014693",
+      "n014687",
+      "n014689",
+      "n014732",
+      "n014682"
+    ],
+    "warnings": [],
+    "display_name": "Changi Village: Jalan Durian - 3.24 km, 54 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_017",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 17,
+    "distance_m": 4995.904830517465,
+    "ascent_m": 53.479080373171634,
+    "descent_m": 33.47908037317164,
+    "gain_density_m_per_km": 10.704583491361742,
+    "source_confidence": 0.9,
+    "directed_edge_ids": [
+      "park_connector_loop_000980:fwd"
+    ],
+    "undirected_edge_ids": [
+      "park_connector_loop_000980"
+    ],
+    "node_ids": [
+      "n000540",
+      "n007839"
+    ],
+    "warnings": [],
+    "display_name": "Changi route - 5.00 km, 53 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_018",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 18,
+    "distance_m": 2835.5036801348588,
+    "ascent_m": 53.31027809697177,
+    "descent_m": 51.8128856569299,
+    "gain_density_m_per_km": 18.800990621333384,
+    "source_confidence": 0.65,
+    "directed_edge_ids": [
+      "osm_006056:fwd",
+      "osm_010150:fwd",
+      "osm_006045:rev",
+      "osm_006044:rev",
+      "osm_006043:fwd"
+    ],
+    "undirected_edge_ids": [
+      "osm_006056",
+      "osm_010150",
+      "osm_006045",
+      "osm_006044",
+      "osm_006043"
+    ],
+    "node_ids": [
+      "n025663",
+      "n025664",
+      "n025649",
+      "n025648",
+      "n025646",
+      "n025647"
+    ],
+    "warnings": [],
+    "display_name": "Jurong West route - 2.84 km, 53 m gain"
+  },
+  {
+    "route_id": "loop_05000m_004",
+    "budget_km": 5.0,
+    "mode": "loop",
+    "rank": 4,
+    "distance_m": 846.7026014949591,
+    "ascent_m": 50.9074004348754,
+    "descent_m": 50.9074004348754,
+    "gain_density_m_per_km": 60.12429906910884,
+    "source_confidence": 0.65,
+    "directed_edge_ids": [
+      "osm_006056:fwd",
+      "osm_010150:fwd",
+      "osm_010142:fwd",
+      "osm_010143:fwd"
+    ],
+    "undirected_edge_ids": [
+      "osm_006056",
+      "osm_010150",
+      "osm_010142",
+      "osm_010143"
+    ],
+    "node_ids": [
+      "n025663",
+      "n025664",
+      "n025649",
+      "n025650",
+      "n025663"
+    ],
+    "warnings": [],
+    "display_name": "Jurong West loop - 0.85 km, 51 m gain"
+  },
+  {
+    "route_id": "point_to_point_20000m_001",
+    "budget_km": 20.0,
+    "mode": "point_to_point",
+    "rank": 1,
+    "distance_m": 15743.859211387244,
+    "ascent_m": 50.825199410450125,
+    "descent_m": 41.372568916220445,
+    "gain_density_m_per_km": 3.228255456812596,
+    "source_confidence": 1.0,
+    "directed_edge_ids": [
+      "nparks_tracks_011705:fwd",
+      "nparks_tracks_011931:fwd",
+      "nparks_tracks_011702:rev",
+      "nparks_tracks_011932:fwd",
+      "nparks_tracks_011706:fwd"
+    ],
+    "undirected_edge_ids": [
+      "nparks_tracks_011705",
+      "nparks_tracks_011931",
+      "nparks_tracks_011702",
+      "nparks_tracks_011932",
+      "nparks_tracks_011706"
+    ],
+    "node_ids": [
+      "n012941",
+      "n012942",
+      "n012938",
+      "n012937",
+      "n012943",
+      "n012936"
+    ],
+    "warnings": [],
+    "display_name": "Southern Ridges to Kent Ridge route - 15.74 km, 51 m gain"
+  },
+  {
+    "route_id": "point_to_point_15000m_001",
+    "budget_km": 15.0,
+    "mode": "point_to_point",
+    "rank": 1,
+    "distance_m": 13033.091340505216,
+    "ascent_m": 50.82519941045011,
+    "descent_m": 21.372568916220423,
+    "gain_density_m_per_km": 3.899704075002663,
+    "source_confidence": 1.0,
+    "directed_edge_ids": [
+      "nparks_tracks_011705:fwd",
+      "nparks_tracks_011931:fwd",
+      "nparks_tracks_011702:rev"
+    ],
+    "undirected_edge_ids": [
+      "nparks_tracks_011705",
+      "nparks_tracks_011931",
+      "nparks_tracks_011702"
+    ],
+    "node_ids": [
+      "n012941",
+      "n012942",
+      "n012938",
+      "n012937"
+    ],
+    "warnings": [],
+    "display_name": "Southern Ridges to Kent Ridge route - 13.03 km, 51 m gain"
+  },
+  {
+    "route_id": "loop_10000m_001",
+    "budget_km": 10.0,
+    "mode": "loop",
+    "rank": 1,
+    "distance_m": 6147.713160069924,
+    "ascent_m": 50.63277963920489,
+    "descent_m": 50.632779639204884,
+    "gain_density_m_per_km": 8.236034818291522,
+    "source_confidence": 0.975,
+    "directed_edge_ids": [
+      "central_nature_reserve_000269:rev",
+      "nparks_tracks_013748:fwd"
+    ],
+    "undirected_edge_ids": [
+      "central_nature_reserve_000269",
+      "nparks_tracks_013748"
+    ],
+    "node_ids": [
+      "n014625",
+      "n014624",
+      "n014625"
+    ],
+    "warnings": [],
+    "display_name": "MacRitchie loop - 6.15 km, 51 m gain"
+  },
+  {
+    "route_id": "point_to_point_15000m_002",
+    "budget_km": 15.0,
+    "mode": "point_to_point",
+    "rank": 2,
+    "distance_m": 10216.095839093934,
+    "ascent_m": 50.32562295824479,
+    "descent_m": 31.78430233424967,
+    "gain_density_m_per_km": 4.926111084986471,
+    "source_confidence": 0.65,
+    "directed_edge_ids": [
+      "osm_006093:fwd",
+      "osm_006094:fwd",
+      "osm_006913:rev",
+      "osm_006914:fwd",
+      "osm_006912:fwd"
+    ],
+    "undirected_edge_ids": [
+      "osm_006093",
+      "osm_006094",
+      "osm_006913",
+      "osm_006914",
+      "osm_006912"
+    ],
+    "node_ids": [
+      "n025717",
+      "n025718",
+      "n025719",
+      "n026930",
+      "n026929",
+      "n026928"
+    ],
+    "warnings": [],
+    "display_name": "Western Catchment: Jalan Murai - 10.22 km, 50 m gain"
+  },
+  {
+    "route_id": "point_to_point_10000m_006",
+    "budget_km": 10.0,
+    "mode": "point_to_point",
+    "rank": 6,
+    "distance_m": 8691.011774827864,
+    "ascent_m": 50.325622958244786,
+    "descent_m": 31.784302334249666,
+    "gain_density_m_per_km": 5.79053673635617,
+    "source_confidence": 0.65,
+    "directed_edge_ids": [
+      "osm_006093:fwd",
+      "osm_006094:fwd",
+      "osm_006913:rev",
+      "osm_006914:fwd"
+    ],
+    "undirected_edge_ids": [
+      "osm_006093",
+      "osm_006094",
+      "osm_006913",
+      "osm_006914"
+    ],
+    "node_ids": [
+      "n025717",
+      "n025718",
+      "n025719",
+      "n026930",
+      "n026929"
+    ],
+    "warnings": [],
+    "display_name": "Western Catchment: Jalan Murai - 8.69 km, 50 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_019",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 19,
+    "distance_m": 1945.3434060060752,
+    "ascent_m": 49.05936572259128,
+    "descent_m": 37.90786348136077,
+    "gain_density_m_per_km": 25.218871676396486,
+    "source_confidence": 0.65,
+    "directed_edge_ids": [
+      "osm_003767:fwd",
+      "osm_023009:fwd",
+      "osm_023008:rev",
+      "osm_003769:rev",
+      "osm_023007:rev"
+    ],
+    "undirected_edge_ids": [
+      "osm_003767",
+      "osm_023009",
+      "osm_023008",
+      "osm_003769",
+      "osm_023007"
+    ],
+    "node_ids": [
+      "n022245",
+      "n022246",
+      "n048955",
+      "n022247",
+      "n022248",
+      "n022247"
+    ],
+    "warnings": [],
+    "display_name": "Zhenghua route - 1.95 km, 49 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_020",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 20,
+    "distance_m": 1586.999910267323,
+    "ascent_m": 47.111673255226535,
+    "descent_m": 29.818113281115632,
+    "gain_density_m_per_km": 29.68599616826115,
+    "source_confidence": 0.93,
+    "directed_edge_ids": [
+      "nparks_tracks_004635:rev",
+      "nparks_tracks_004636:fwd",
+      "nparks_tracks_004257:fwd",
+      "nparks_tracks_004774:fwd",
+      "osm_004775:fwd"
+    ],
+    "undirected_edge_ids": [
+      "nparks_tracks_004635",
+      "nparks_tracks_004636",
+      "nparks_tracks_004257",
+      "nparks_tracks_004774",
+      "osm_004775"
+    ],
+    "node_ids": [
+      "n005425",
+      "n005288",
+      "n005425",
+      "n005426",
+      "n005984",
+      "n005987"
+    ],
+    "warnings": [],
+    "display_name": "Bishan-Ang Mo Kio route - 1.59 km, 47 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_021",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 21,
+    "distance_m": 2710.6391060796077,
+    "ascent_m": 45.356654436115186,
+    "descent_m": 30.1416625359575,
+    "gain_density_m_per_km": 16.73282671027145,
+    "source_confidence": 0.65,
+    "directed_edge_ids": [
+      "osm_057103:rev",
+      "osm_011981:fwd",
+      "osm_000433:rev",
+      "osm_056483:rev",
+      "osm_011978:rev"
+    ],
+    "undirected_edge_ids": [
+      "osm_057103",
+      "osm_011981",
+      "osm_000433",
+      "osm_056483",
+      "osm_011978"
+    ],
+    "node_ids": [
+      "n017342",
+      "n033690",
+      "n017342",
+      "n017341",
+      "n017315",
+      "n017311"
+    ],
+    "warnings": [],
+    "display_name": "Pulau Ubin: Upper Pasir Merah Road + Pasir Merah Link - 2.71 km, 45 m gain"
+  },
+  {
+    "route_id": "point_to_point_10000m_007",
+    "budget_km": 10.0,
+    "mode": "point_to_point",
+    "rank": 7,
+    "distance_m": 7677.026072099609,
+    "ascent_m": 43.565034327448984,
+    "descent_m": 35.64228099481009,
+    "gain_density_m_per_km": 5.674727937394418,
+    "source_confidence": 0.9,
+    "directed_edge_ids": [
+      "park_connector_loop_000865:fwd",
+      "park_connector_loop_000866:fwd",
+      "park_connector_loop_000056:rev",
+      "park_connector_loop_000869:rev",
+      "park_connector_loop_000868:rev"
+    ],
+    "undirected_edge_ids": [
+      "park_connector_loop_000865",
+      "park_connector_loop_000866",
+      "park_connector_loop_000056",
+      "park_connector_loop_000869",
+      "park_connector_loop_000868"
+    ],
+    "node_ids": [
+      "n004014",
+      "n016406",
+      "n016405",
+      "n016404",
+      "n004626",
+      "n004613"
+    ],
+    "warnings": [],
+    "display_name": "Punggol route - 7.68 km, 44 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_022",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 22,
+    "distance_m": 1227.8953552890268,
+    "ascent_m": 43.402695492688096,
+    "descent_m": 20.332689436346495,
+    "gain_density_m_per_km": 35.34722670440577,
+    "source_confidence": 0.65,
+    "directed_edge_ids": [
+      "osm_019375:rev"
+    ],
+    "undirected_edge_ids": [
+      "osm_019375"
+    ],
+    "node_ids": [
+      "n043892",
+      "n008867"
+    ],
+    "warnings": [],
+    "display_name": "Kent Ridge route - 1.23 km, 43 m gain"
+  },
+  {
+    "route_id": "loop_15000m_001",
+    "budget_km": 15.0,
+    "mode": "loop",
+    "rank": 1,
+    "distance_m": 13536.047187979548,
+    "ascent_m": 41.804855406170475,
+    "descent_m": 41.82804848947204,
+    "gain_density_m_per_km": 3.088409402361906,
+    "source_confidence": 0.95,
+    "directed_edge_ids": [
+      "nparks_tracks_014877:fwd",
+      "nparks_tracks_014878:fwd",
+      "park_connector_loop_000076:rev",
+      "park_connector_loop_000475:rev"
+    ],
+    "undirected_edge_ids": [
+      "nparks_tracks_014877",
+      "nparks_tracks_014878",
+      "park_connector_loop_000076",
+      "park_connector_loop_000475"
+    ],
+    "node_ids": [
+      "n015662",
+      "n015663",
+      "n015664",
+      "n015663",
+      "n015662"
+    ],
+    "warnings": [],
+    "display_name": "Seletar loop - 13.54 km, 42 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_023",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 23,
+    "distance_m": 4661.042178693586,
+    "ascent_m": 41.18123470750449,
+    "descent_m": 40.78360619709264,
+    "gain_density_m_per_km": 8.835198895163597,
+    "source_confidence": 0.7699999999999999,
+    "directed_edge_ids": [
+      "nparks_tracks_014879:rev",
+      "park_connector_loop_000724:fwd",
+      "osm_052981:rev",
+      "osm_052980:rev",
+      "osm_052982:rev"
+    ],
+    "undirected_edge_ids": [
+      "nparks_tracks_014879",
+      "park_connector_loop_000724",
+      "osm_052981",
+      "osm_052980",
+      "osm_052982"
+    ],
+    "node_ids": [
+      "n015666",
+      "n015665",
+      "n015666",
+      "n091097",
+      "n091096",
+      "n091098"
+    ],
+    "warnings": [],
+    "display_name": "Tampines route - 4.66 km, 41 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_024",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 24,
+    "distance_m": 1861.92401665136,
+    "ascent_m": 40.93134480755465,
+    "descent_m": 24.484549947899808,
+    "gain_density_m_per_km": 21.98335938604466,
+    "source_confidence": 0.65,
+    "directed_edge_ids": [
+      "osm_023027:rev",
+      "osm_023023:rev",
+      "osm_023019:rev",
+      "osm_023017:rev",
+      "osm_004821:fwd"
+    ],
+    "undirected_edge_ids": [
+      "osm_023027",
+      "osm_023023",
+      "osm_023019",
+      "osm_023017",
+      "osm_004821"
+    ],
+    "node_ids": [
+      "n048961",
+      "n023796",
+      "n017043",
+      "n024257",
+      "n017041",
+      "n023794"
+    ],
+    "warnings": [],
+    "display_name": "Pasir Ris route - 1.86 km, 41 m gain"
+  },
+  {
+    "route_id": "loop_05000m_005",
+    "budget_km": 5.0,
+    "mode": "loop",
+    "rank": 5,
+    "distance_m": 4598.853795482498,
+    "ascent_m": 40.53438575516896,
+    "descent_m": 40.52326237633434,
+    "gain_density_m_per_km": 8.814019222569396,
+    "source_confidence": 0.95,
+    "directed_edge_ids": [
+      "nparks_tracks_014879:fwd",
+      "park_connector_loop_000724:rev"
+    ],
+    "undirected_edge_ids": [
+      "nparks_tracks_014879",
+      "park_connector_loop_000724"
+    ],
+    "node_ids": [
+      "n015665",
+      "n015666",
+      "n015665"
+    ],
+    "warnings": [],
+    "display_name": "Tampines loop - 4.60 km, 41 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_025",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 25,
+    "distance_m": 638.6498882749097,
+    "ascent_m": 40.3008903779633,
+    "descent_m": 0.0,
+    "gain_density_m_per_km": 63.103260672012524,
+    "source_confidence": 0.65,
+    "directed_edge_ids": [
+      "osm_006866:fwd"
+    ],
+    "undirected_edge_ids": [
+      "osm_006866"
+    ],
+    "node_ids": [
+      "n026850",
+      "n025723"
+    ],
+    "warnings": [],
+    "display_name": "Jurong West route - 0.64 km, 40 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_026",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 26,
+    "distance_m": 450.52730127803466,
+    "ascent_m": 39.36226381920743,
+    "descent_m": 3.3786768803072746,
+    "gain_density_m_per_km": 87.3693197005962,
+    "source_confidence": 0.65,
+    "directed_edge_ids": [
+      "osm_051147:rev",
+      "osm_051146:rev"
+    ],
+    "undirected_edge_ids": [
+      "osm_051147",
+      "osm_051146"
+    ],
+    "node_ids": [
+      "n088442",
+      "n088439",
+      "n088441"
+    ],
+    "warnings": [],
+    "display_name": "Pasir Ris route - 0.45 km, 39 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_027",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 27,
+    "distance_m": 4313.862320486297,
+    "ascent_m": 37.06775443850392,
+    "descent_m": 34.63754705893022,
+    "gain_density_m_per_km": 8.592706879510542,
+    "source_confidence": 0.8999999999999999,
+    "directed_edge_ids": [
+      "nparks_tracks_013748:rev",
+      "osm_008527:rev",
+      "central_nature_reserve_000291:rev",
+      "nparks_tracks_013506:fwd"
+    ],
+    "undirected_edge_ids": [
+      "nparks_tracks_013748",
+      "osm_008527",
+      "central_nature_reserve_000291",
+      "nparks_tracks_013506"
+    ],
+    "node_ids": [
+      "n014625",
+      "n014624",
+      "n014411",
+      "n014413",
+      "n014411"
+    ],
+    "warnings": [],
+    "display_name": "MacRitchie: To.Tree.Top.Walk - 4.31 km, 37 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_028",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 28,
+    "distance_m": 674.6437815484169,
+    "ascent_m": 36.95204052798302,
+    "descent_m": 19.29916085620881,
+    "gain_density_m_per_km": 54.77266898269202,
+    "source_confidence": 0.9125,
+    "directed_edge_ids": [
+      "nparks_tracks_002252:fwd",
+      "nparks_tracks_004114:rev",
+      "nparks_tracks_005335:rev",
+      "osm_007101:rev"
+    ],
+    "undirected_edge_ids": [
+      "nparks_tracks_002252",
+      "nparks_tracks_004114",
+      "nparks_tracks_005335",
+      "osm_007101"
+    ],
+    "node_ids": [
+      "n003734",
+      "n003327",
+      "n005221",
+      "n006039",
+      "n005221"
+    ],
+    "warnings": [],
+    "display_name": "Pearl's Hill route - 0.67 km, 37 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_029",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 29,
+    "distance_m": 4091.292769834157,
+    "ascent_m": 36.130061854447376,
+    "descent_m": 34.825897807632984,
+    "gain_density_m_per_km": 8.83096465763606,
+    "source_confidence": 0.8399999999999999,
+    "directed_edge_ids": [
+      "park_connector_loop_001023:fwd",
+      "osm_004223:fwd",
+      "nparks_tracks_000482:rev",
+      "osm_004229:fwd",
+      "nparks_tracks_000617:rev"
+    ],
+    "undirected_edge_ids": [
+      "park_connector_loop_001023",
+      "osm_004223",
+      "nparks_tracks_000482",
+      "osm_004229",
+      "nparks_tracks_000617"
+    ],
+    "node_ids": [
+      "n011871",
+      "n016666",
+      "n000385",
+      "n000830",
+      "n001081",
+      "n001080"
+    ],
+    "warnings": [],
+    "display_name": "Admiralty route - 4.09 km, 36 m gain"
+  },
+  {
+    "route_id": "loop_10000m_002",
+    "budget_km": 10.0,
+    "mode": "loop",
+    "rank": 2,
+    "distance_m": 9908.657894191874,
+    "ascent_m": 35.566261632728185,
+    "descent_m": 35.5669619637849,
+    "gain_density_m_per_km": 3.5894126139500635,
+    "source_confidence": 0.95,
+    "directed_edge_ids": [
+      "nparks_tracks_014877:fwd",
+      "park_connector_loop_000475:rev"
+    ],
+    "undirected_edge_ids": [
+      "nparks_tracks_014877",
+      "park_connector_loop_000475"
+    ],
+    "node_ids": [
+      "n015662",
+      "n015663",
+      "n015662"
+    ],
+    "warnings": [],
+    "display_name": "Seletar loop - 9.91 km, 36 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_030",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 30,
+    "distance_m": 2559.3643082023136,
+    "ascent_m": 35.227018122269115,
+    "descent_m": 21.250069321305194,
+    "gain_density_m_per_km": 13.76397178368578,
+    "source_confidence": 0.85,
+    "directed_edge_ids": [
+      "park_connector_loop_001023:rev",
+      "park_connector_loop_000209:rev",
+      "park_connector_loop_000111:rev",
+      "park_connector_loop_000332:rev",
+      "osm_027817:fwd"
+    ],
+    "undirected_edge_ids": [
+      "park_connector_loop_001023",
+      "park_connector_loop_000209",
+      "park_connector_loop_000111",
+      "park_connector_loop_000332",
+      "osm_027817"
+    ],
+    "node_ids": [
+      "n016666",
+      "n011871",
+      "n016426",
+      "n011878",
+      "n016513",
+      "n055058"
+    ],
+    "warnings": [],
+    "display_name": "Admiralty route - 2.56 km, 35 m gain"
+  },
+  {
+    "route_id": "loop_05000m_001",
+    "budget_km": 5.0,
+    "mode": "loop",
+    "rank": 1,
+    "distance_m": 318.00410098521087,
+    "ascent_m": 34.52266725708927,
+    "descent_m": 30.104868619512118,
+    "gain_density_m_per_km": 108.56044670535485,
+    "source_confidence": 0.7374999999999999,
+    "directed_edge_ids": [
+      "osm_018208:rev",
+      "nparks_tracks_013589:fwd",
+      "osm_009034:rev",
+      "osm_018209:rev"
+    ],
+    "undirected_edge_ids": [
+      "osm_018208",
+      "nparks_tracks_013589",
+      "osm_009034",
+      "osm_018209"
+    ],
+    "node_ids": [
+      "n042306",
+      "n014491",
+      "n014492",
+      "n029996",
+      "n042306"
+    ],
+    "warnings": [],
+    "display_name": "Bukit Timah Nature Reserve: Summit Path - 0.32 km, 35 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_031",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 31,
+    "distance_m": 811.0035200012787,
+    "ascent_m": 34.39046635302274,
+    "descent_m": 30.884120630783723,
+    "gain_density_m_per_km": 42.40482994817151,
+    "source_confidence": 0.65,
+    "directed_edge_ids": [
+      "osm_011092:rev"
+    ],
+    "undirected_edge_ids": [
+      "osm_011092"
+    ],
+    "node_ids": [
+      "n032643",
+      "n032642"
+    ],
+    "warnings": [],
+    "display_name": "Sentosa route - 0.81 km, 34 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_032",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 32,
+    "distance_m": 1293.5201648919117,
+    "ascent_m": 34.05182245341109,
+    "descent_m": 25.607661838919913,
+    "gain_density_m_per_km": 26.324925870990583,
+    "source_confidence": 0.65,
+    "directed_edge_ids": [
+      "osm_010626:fwd",
+      "osm_001569:rev",
+      "osm_005881:fwd",
+      "osm_001570:fwd",
+      "osm_001565:fwd"
+    ],
+    "undirected_edge_ids": [
+      "osm_010626",
+      "osm_001569",
+      "osm_005881",
+      "osm_001570",
+      "osm_001565"
+    ],
+    "node_ids": [
+      "n031911",
+      "n018967",
+      "n018966",
+      "n018955",
+      "n018960",
+      "n018961"
+    ],
+    "warnings": [],
+    "display_name": "Sentosa route - 1.29 km, 34 m gain"
+  },
+  {
+    "route_id": "point_to_point_10000m_008",
+    "budget_km": 10.0,
+    "mode": "point_to_point",
+    "rank": 8,
+    "distance_m": 8581.71824088361,
+    "ascent_m": 33.718286443729,
+    "descent_m": 14.344389025106029,
+    "gain_density_m_per_km": 3.929083372033107,
+    "source_confidence": 0.9666666666666667,
+    "directed_edge_ids": [
+      "nparks_tracks_014877:fwd",
+      "nparks_tracks_014878:fwd",
+      "park_connector_loop_000076:rev"
+    ],
+    "undirected_edge_ids": [
+      "nparks_tracks_014877",
+      "nparks_tracks_014878",
+      "park_connector_loop_000076"
+    ],
+    "node_ids": [
+      "n015662",
+      "n015663",
+      "n015664",
+      "n015663"
+    ],
+    "warnings": [],
+    "display_name": "Seletar route - 8.58 km, 34 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_033",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 33,
+    "distance_m": 2709.762455278719,
+    "ascent_m": 33.60744690611473,
+    "descent_m": 33.269104428033515,
+    "gain_density_m_per_km": 12.402359048353544,
+    "source_confidence": 0.65,
+    "directed_edge_ids": [
+      "osm_000433:rev",
+      "osm_056483:rev",
+      "osm_000417:rev",
+      "osm_000439:rev"
+    ],
+    "undirected_edge_ids": [
+      "osm_000433",
+      "osm_056483",
+      "osm_000417",
+      "osm_000439"
+    ],
+    "node_ids": [
+      "n017342",
+      "n017341",
+      "n017315",
+      "n017314",
+      "n017352"
+    ],
+    "warnings": [],
+    "display_name": "Pulau Ubin: Upper Pasir Merah Road + Permatang Avenue - 2.71 km, 34 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_034",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 34,
+    "distance_m": 2166.8973060052735,
+    "ascent_m": 33.41861201527672,
+    "descent_m": 31.304566114437222,
+    "gain_density_m_per_km": 15.422333085495742,
+    "source_confidence": 0.65,
+    "directed_edge_ids": [
+      "osm_007895:fwd"
+    ],
+    "undirected_edge_ids": [
+      "osm_007895"
+    ],
+    "node_ids": [
+      "n028325",
+      "n028326"
+    ],
+    "warnings": [],
+    "display_name": "Western Catchment route - 2.17 km, 33 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_035",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 35,
+    "distance_m": 1909.8228992307202,
+    "ascent_m": 33.399788816773295,
+    "descent_m": 13.32153882385942,
+    "gain_density_m_per_km": 17.488422005111985,
+    "source_confidence": 0.65,
+    "directed_edge_ids": [
+      "osm_057125:rev",
+      "osm_000426:fwd"
+    ],
+    "undirected_edge_ids": [
+      "osm_057125",
+      "osm_000426"
+    ],
+    "node_ids": [
+      "n017244",
+      "n017253",
+      "n017329"
+    ],
+    "warnings": [],
+    "display_name": "Pulau Ubin: Lorong 23 - 1.91 km, 33 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_036",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 36,
+    "distance_m": 932.8280022084712,
+    "ascent_m": 33.14198994888576,
+    "descent_m": 30.735087777244175,
+    "gain_density_m_per_km": 35.52851101212878,
+    "source_confidence": 0.65,
+    "directed_edge_ids": [
+      "osm_051148:fwd"
+    ],
+    "undirected_edge_ids": [
+      "osm_051148"
+    ],
+    "node_ids": [
+      "n017045",
+      "n088443"
+    ],
+    "warnings": [],
+    "display_name": "Pasir Ris route - 0.93 km, 33 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_037",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 37,
+    "distance_m": 901.5095349075132,
+    "ascent_m": 32.30269534862531,
+    "descent_m": 23.079427990040696,
+    "gain_density_m_per_km": 35.83178446575086,
+    "source_confidence": 0.72,
+    "directed_edge_ids": [
+      "nparks_tracks_001848:fwd",
+      "osm_013664:rev",
+      "osm_009419:rev",
+      "osm_009418:rev",
+      "osm_004849:fwd"
+    ],
+    "undirected_edge_ids": [
+      "nparks_tracks_001848",
+      "osm_013664",
+      "osm_009419",
+      "osm_009418",
+      "osm_004849"
+    ],
+    "node_ids": [
+      "n002998",
+      "n002999",
+      "n023825",
+      "n002971",
+      "n002999",
+      "n023829"
+    ],
+    "warnings": [],
+    "display_name": "Fort Canning: Lewin Terrace + 14th Century Walk - 0.90 km, 32 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_038",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 38,
+    "distance_m": 413.9539397893533,
+    "ascent_m": 31.891267507403132,
+    "descent_m": 23.85205578903077,
+    "gain_density_m_per_km": 77.04061839254746,
+    "source_confidence": 0.65,
+    "directed_edge_ids": [
+      "osm_003804:fwd"
+    ],
+    "undirected_edge_ids": [
+      "osm_003804"
+    ],
+    "node_ids": [
+      "n022308",
+      "n022309"
+    ],
+    "warnings": [],
+    "display_name": "Zhenghua route - 0.41 km, 32 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_039",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 39,
+    "distance_m": 4110.771447799777,
+    "ascent_m": 31.869668814167333,
+    "descent_m": 31.922570664499847,
+    "gain_density_m_per_km": 7.752722139593787,
+    "source_confidence": 0.65,
+    "directed_edge_ids": [
+      "osm_011274:rev",
+      "osm_011271:rev",
+      "osm_011270:rev",
+      "osm_011269:rev"
+    ],
+    "undirected_edge_ids": [
+      "osm_011274",
+      "osm_011271",
+      "osm_011270",
+      "osm_011269"
+    ],
+    "node_ids": [
+      "n032841",
+      "n032845",
+      "n032865",
+      "n032846",
+      "n032864"
+    ],
+    "warnings": [],
+    "display_name": "Lower Seletar route - 4.11 km, 32 m gain"
+  },
+  {
+    "route_id": "point_to_point_10000m_009",
+    "budget_km": 10.0,
+    "mode": "point_to_point",
+    "rank": 9,
+    "distance_m": 6613.502821486878,
+    "ascent_m": 30.376107941835453,
+    "descent_m": 30.996150318534866,
+    "gain_density_m_per_km": 4.593043771470889,
+    "source_confidence": 0.9,
+    "directed_edge_ids": [
+      "park_connector_loop_000865:fwd",
+      "park_connector_loop_000866:fwd",
+      "park_connector_loop_000867:rev",
+      "park_connector_loop_000583:fwd"
+    ],
+    "undirected_edge_ids": [
+      "park_connector_loop_000865",
+      "park_connector_loop_000866",
+      "park_connector_loop_000867",
+      "park_connector_loop_000583"
+    ],
+    "node_ids": [
+      "n004014",
+      "n016406",
+      "n016405",
+      "n004846",
+      "n004287"
+    ],
+    "warnings": [],
+    "display_name": "Punggol route - 6.61 km, 30 m gain"
+  },
+  {
+    "route_id": "point_to_point_05000m_040",
+    "budget_km": 5.0,
+    "mode": "point_to_point",
+    "rank": 40,
+    "distance_m": 1076.179275783336,
+    "ascent_m": 30.125665466946412,
+    "descent_m": 31.361949056415483,
+    "gain_density_m_per_km": 27.99316632911218,
+    "source_confidence": 0.65,
+    "directed_edge_ids": [
+      "osm_001576:rev",
+      "osm_001572:rev"
+    ],
+    "undirected_edge_ids": [
+      "osm_001576",
+      "osm_001572"
+    ],
+    "node_ids": [
+      "n018978",
+      "n018971",
+      "n018970"
+    ],
+    "warnings": [],
+    "display_name": "Sentosa route - 1.08 km, 30 m gain"
+  },
+  {
+    "route_id": "loop_05000m_006",
+    "budget_km": 5.0,
+    "mode": "loop",
+    "rank": 6,
+    "distance_m": 1255.962448306683,
+    "ascent_m": 30.04911041325832,
+    "descent_m": 29.818113281115632,
+    "gain_density_m_per_km": 23.92516627688289,
+    "source_confidence": 1.0,
+    "directed_edge_ids": [
+      "nparks_tracks_004635:rev",
+      "nparks_tracks_004636:fwd"
+    ],
+    "undirected_edge_ids": [
+      "nparks_tracks_004635",
+      "nparks_tracks_004636"
+    ],
+    "node_ids": [
+      "n005425",
+      "n005288",
+      "n005425"
+    ],
+    "warnings": [],
+    "display_name": "Bishan-Ang Mo Kio loop - 1.26 km, 30 m gain"
+  }
+]

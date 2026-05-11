@@ -1,0 +1,639 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bukit Timah Nature Reserve: Summit Path - 0.48 km, 64 m gain</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+  <style>
+    :root { --ink: #18231f; --paper: #f4efe3; --moss: #265c42; --clay: #b85c38; }
+    body { margin: 0; font-family: Georgia, "Times New Roman", serif; color: var(--ink); background: var(--paper); }
+    header { padding: 24px 32px; background: linear-gradient(90deg, #d9ead1, #f0c36a); border-bottom: 3px solid var(--ink); }
+    h1 { margin: 0; font-size: clamp(30px, 5vw, 56px); }
+    main { display: grid; grid-template-columns: 1fr 360px; gap: 18px; padding: 24px 32px; }
+    #map { height: 68vh; border: 3px solid var(--ink); }
+    #profile { height: 280px; background: white; border: 2px solid var(--ink); margin-top: 18px; }
+    aside { background: white; border: 2px solid var(--ink); padding: 16px; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+    .grid div, .warning { border: 1px solid var(--ink); padding: 8px; }
+    details { border: 1px solid var(--ink); padding: 8px; margin: 8px 0; }
+    pre { white-space: pre-wrap; overflow-x: auto; font-size: 12px; background: #f4efe3; padding: 8px; }
+    a { color: var(--clay); font-weight: bold; }
+    @media (max-width: 900px) { main { grid-template-columns: 1fr; padding: 14px; } header { padding: 18px 14px; } }
+  </style>
+</head>
+<body>
+<header>
+  <h1>Bukit Timah Nature Reserve: Summit Path - 0.48 km, 64 m gain</h1>
+  <p>point_to_point_05000m_003</p>
+  <p><a href="../index.html">Back to dashboard</a></p>
+</header>
+<main>
+  <section>
+    <div id="map"></div>
+    <div id="profile"></div>
+  </section>
+  <aside>
+    <h2>Stats</h2>
+    <div class="grid">
+      <div><b>64.1 m</b><br>ascent</div>
+      <div><b>35.1 m</b><br>descent</div>
+      <div><b>0.48 km</b><br>distance</div>
+      <div><b>133.8</b><br>m/km</div>
+      <div><b>0.78</b><br>confidence</div>
+      <div><b>point_to_point</b><br>mode</div>
+    </div>
+    <h2>Downloads</h2>
+    <p><a href="point_to_point_05000m_003.gpx">GPX</a> · <a href="point_to_point_05000m_003.geojson">GeoJSON</a></p>
+    <h2>Data Attribution</h2>
+    <h3>Route network</h3>
+    
+      
+        <p class="warning">
+          <b>OpenStreetMap walkable paths</b><br>
+          34.9% of route network, about 167 m; confidence 0.65.<br>
+          OpenStreetMap contributors via Geofabrik. Walkable OSM ways used as enrichment for paths, tracks, footways, and steps.
+          
+          <br><a href="https://download.geofabrik.de/asia/malaysia-singapore-brunei.html">Source link</a>
+        </p>
+      
+        <p class="warning">
+          <b>Central Nature Reserve Hiking Trails</b><br>
+          33.6% of route network, about 161 m; confidence 0.95.<br>
+          National Parks Board via data.gov.sg. Central Nature Reserve hiking trail geometry used for route network segments.
+          <br>Dataset ID: d_84e6db6c43ffb8b17803334ec2b5c95d
+          <br><a href="https://data.gov.sg/datasets/d_84e6db6c43ffb8b17803334ec2b5c95d/view">Source link</a>
+        </p>
+      
+        <p class="warning">
+          <b>NParks Tracks</b><br>
+          31.5% of route network, about 151 m; confidence 1.00.<br>
+          National Parks Board via data.gov.sg. Walking-permitted NParks track segments used for route network geometry.
+          <br>Dataset ID: d_306cc1018cb733346681883ee6d73054
+          <br><a href="https://data.gov.sg/datasets/d_306cc1018cb733346681883ee6d73054/view">Source link</a>
+        </p>
+      
+    
+    <h3>Elevation</h3>
+    <p class="warning">
+      <b>SLA National Map Line</b><br>
+      Singapore Land Authority via data.gov.sg. Contour lines parsed and interpolated for elevation, ascent, descent, and profile charts.<br>
+      Dataset ID: d_10480c0b59e65663dfae1028ff4aa8bb<br>
+      <a href="https://data.gov.sg/datasets/d_10480c0b59e65663dfae1028ff4aa8bb/view">Source link</a>
+    </p>
+    <h2>Source Records Used</h2>
+    
+      
+        <details>
+          <summary><b>Central Nature Reserve Hiking Trails</b> feature 392 - 33.6%, 161 m</summary>
+          <p>Compact normalized source object used by this route. It includes only the relevant identifiers and routing attributes, plus the derived route edge IDs.</p>
+          <pre>{
+  "attributes": {
+    "source_confidence": 0.95,
+    "source_feature_id": "392",
+    "source_primary": "central_nature_reserve",
+    "trail_type": 1.0
+  },
+  "derived_edge_ids": [
+    "central_nature_reserve_000449"
+  ],
+  "distance_m": 160.8,
+  "elevation_summary": {
+    "end_smooth_m": 124.0,
+    "max_smooth_m": 155.5,
+    "min_smooth_m": 121.0,
+    "start_smooth_m": 155.5
+  },
+  "latlon_bounds": {
+    "max_lat": 1.3546774,
+    "max_lon": 103.7773193,
+    "min_lat": 1.353519,
+    "min_lon": 103.7766571
+  },
+  "route_sample_points": [
+    {
+      "cum_distance_km": 0.1671759,
+      "cum_distance_m": 167.1759036,
+      "edge_id": "central_nature_reserve_000449",
+      "elevation_raw_m": 155.1737252,
+      "elevation_smooth_m": 155.4772918,
+      "grade_smooth_pct": -12.5553831,
+      "lat": 1.3546774,
+      "lon": 103.7766571,
+      "sample_index": 18
+    },
+    {
+      "cum_distance_km": 0.1971759,
+      "cum_distance_m": 197.1759036,
+      "edge_id": "central_nature_reserve_000449",
+      "elevation_raw_m": 152.6460993,
+      "elevation_smooth_m": 152.6329802,
+      "grade_smooth_pct": -8.0760201,
+      "lat": 1.3544326,
+      "lon": 103.7767598,
+      "sample_index": 21
+    },
+    {
+      "cum_distance_km": 0.2371759,
+      "cum_distance_m": 237.1759036,
+      "edge_id": "central_nature_reserve_000449",
+      "elevation_raw_m": 144.9495462,
+      "elevation_smooth_m": 145.0148331,
+      "grade_smooth_pct": -25.1564788,
+      "lat": 1.3541244,
+      "lon": 103.7769319,
+      "sample_index": 25
+    },
+    {
+      "cum_distance_km": 0.2671759,
+      "cum_distance_m": 267.1759036,
+      "edge_id": "central_nature_reserve_000449",
+      "elevation_raw_m": 136.5830833,
+      "elevation_smooth_m": 136.5238043,
+      "grade_smooth_pct": -31.5130972,
+      "lat": 1.3538887,
+      "lon": 103.7770638,
+      "sample_index": 28
+    },
+    {
+      "cum_distance_km": 0.3071759,
+      "cum_distance_m": 307.1759036,
+      "edge_id": "central_nature_reserve_000449",
+      "elevation_raw_m": 124.1982195,
+      "elevation_smooth_m": 124.2094067,
+      "grade_smooth_pct": -28.0518012,
+      "lat": 1.3535956,
+      "lon": 103.7772588,
+      "sample_index": 32
+    },
+    {
+      "cum_distance_km": 0.3280041,
+      "cum_distance_m": 328.004101,
+      "edge_id": "nparks_tracks_013589",
+      "elevation_raw_m": 123.9389289,
+      "elevation_smooth_m": 123.9620049,
+      "grade_smooth_pct": 29.6036253,
+      "lat": 1.3535899,
+      "lon": 103.7772636,
+      "sample_index": 35
+    }
+  ],
+  "share_pct": 33.6,
+  "source_confidence": 0.95,
+  "source_feature_id": "392",
+  "source_label": "Central Nature Reserve Hiking Trails",
+  "source_primary": "central_nature_reserve"
+}</pre>
+        </details>
+      
+        <details>
+          <summary><b>NParks Tracks</b> feature 14404 - 31.5%, 151 m</summary>
+          <p>Compact normalized source object used by this route. It includes only the relevant identifiers and routing attributes, plus the derived route edge IDs.</p>
+          <pre>{
+  "attributes": {
+    "source_confidence": 1.0,
+    "source_feature_id": "14404",
+    "source_primary": "nparks_tracks"
+  },
+  "derived_edge_ids": [
+    "nparks_tracks_013589"
+  ],
+  "distance_m": 150.8,
+  "elevation_summary": {
+    "end_smooth_m": 156.9,
+    "max_smooth_m": 156.9,
+    "min_smooth_m": 124.0,
+    "start_smooth_m": 124.0
+  },
+  "latlon_bounds": {
+    "max_lat": 1.3547288,
+    "max_lon": 103.7772636,
+    "min_lat": 1.3535899,
+    "min_lon": 103.7765842
+  },
+  "route_sample_points": [
+    {
+      "cum_distance_km": 0.3280041,
+      "cum_distance_m": 328.004101,
+      "edge_id": "nparks_tracks_013589",
+      "elevation_raw_m": 123.9389289,
+      "elevation_smooth_m": 123.9620049,
+      "grade_smooth_pct": 29.6036253,
+      "lat": 1.3535899,
+      "lon": 103.7772636,
+      "sample_index": 35
+    },
+    {
+      "cum_distance_km": 0.3580041,
+      "cum_distance_m": 358.004101,
+      "edge_id": "nparks_tracks_013589",
+      "elevation_raw_m": 132.7694651,
+      "elevation_smooth_m": 132.7882222,
+      "grade_smooth_pct": 30.7389538,
+      "lat": 1.353808,
+      "lon": 103.777119,
+      "sample_index": 38
+    },
+    {
+      "cum_distance_km": 0.3880041,
+      "cum_distance_m": 388.004101,
+      "edge_id": "nparks_tracks_013589",
+      "elevation_raw_m": 142.3169637,
+      "elevation_smooth_m": 142.2337358,
+      "grade_smooth_pct": 28.1331557,
+      "lat": 1.3540371,
+      "lon": 103.7769755,
+      "sample_index": 41
+    },
+    {
+      "cum_distance_km": 0.4280041,
+      "cum_distance_m": 428.004101,
+      "edge_id": "nparks_tracks_013589",
+      "elevation_raw_m": 151.7322963,
+      "elevation_smooth_m": 151.3678594,
+      "grade_smooth_pct": 17.1751273,
+      "lat": 1.35435,
+      "lon": 103.7767969,
+      "sample_index": 45
+    },
+    {
+      "cum_distance_km": 0.4580041,
+      "cum_distance_m": 458.004101,
+      "edge_id": "nparks_tracks_013589",
+      "elevation_raw_m": 154.1815455,
+      "elevation_smooth_m": 154.2138223,
+      "grade_smooth_pct": 8.450859,
+      "lat": 1.354589,
+      "lon": 103.7766973,
+      "sample_index": 48
+    },
+    {
+      "cum_distance_km": 0.4788323,
+      "cum_distance_m": 478.8322984,
+      "edge_id": "nparks_tracks_013589",
+      "elevation_raw_m": 157.0125459,
+      "elevation_smooth_m": 156.9308188,
+      "grade_smooth_pct": 75.6970814,
+      "lat": 1.3547288,
+      "lon": 103.7765842,
+      "sample_index": 51
+    }
+  ],
+  "share_pct": 31.5,
+  "source_confidence": 1.0,
+  "source_feature_id": "14404",
+  "source_label": "NParks Tracks",
+  "source_primary": "nparks_tracks"
+}</pre>
+        </details>
+      
+        <details>
+          <summary><b>OpenStreetMap walkable paths</b> feature 71121 - 17.6%, 84 m</summary>
+          <p>Compact normalized source object used by this route. It includes only the relevant identifiers and routing attributes, plus the derived route edge IDs.</p>
+          <pre>{
+  "attributes": {
+    "highway": "footway",
+    "path_name": "Summit Path",
+    "source_confidence": 0.65,
+    "source_feature_id": "71121",
+    "source_primary": "osm"
+  },
+  "derived_edge_ids": [
+    "osm_009034"
+  ],
+  "distance_m": 84.3,
+  "elevation_summary": {
+    "end_smooth_m": 155.5,
+    "max_smooth_m": 156.7,
+    "min_smooth_m": 145.6,
+    "start_smooth_m": 145.6
+  },
+  "latlon_bounds": {
+    "max_lat": 1.3547288,
+    "max_lon": 103.7769303,
+    "min_lat": 1.3541555,
+    "min_lon": 103.7765842
+  },
+  "route_sample_points": [
+    {
+      "cum_distance_km": 0.0828983,
+      "cum_distance_m": 82.8982512,
+      "edge_id": "osm_009034",
+      "elevation_raw_m": 145.5202972,
+      "elevation_smooth_m": 145.5750809,
+      "grade_smooth_pct": 28.7082657,
+      "lat": 1.3541555,
+      "lon": 103.7769303,
+      "sample_index": 9
+    },
+    {
+      "cum_distance_km": 0.1028983,
+      "cum_distance_m": 102.8982512,
+      "edge_id": "osm_009034",
+      "elevation_raw_m": 150.4556372,
+      "elevation_smooth_m": 150.028116,
+      "grade_smooth_pct": 20.5289019,
+      "lat": 1.3543148,
+      "lon": 103.7768459,
+      "sample_index": 11
+    },
+    {
+      "cum_distance_km": 0.1228983,
+      "cum_distance_m": 122.8982512,
+      "edge_id": "osm_009034",
+      "elevation_raw_m": 152.8606911,
+      "elevation_smooth_m": 152.8551333,
+      "grade_smooth_pct": 11.9003466,
+      "lat": 1.3544684,
+      "lon": 103.7767509,
+      "sample_index": 13
+    },
+    {
+      "cum_distance_km": 0.1328983,
+      "cum_distance_m": 132.8982512,
+      "edge_id": "osm_009034",
+      "elevation_raw_m": 154.0257411,
+      "elevation_smooth_m": 154.0248294,
+      "grade_smooth_pct": 11.6969611,
+      "lat": 1.3545456,
+      "lon": 103.7767041,
+      "sample_index": 14
+    },
+    {
+      "cum_distance_km": 0.1528983,
+      "cum_distance_m": 152.8982512,
+      "edge_id": "osm_009034",
+      "elevation_raw_m": 156.4531143,
+      "elevation_smooth_m": 156.2179055,
+      "grade_smooth_pct": 9.956016,
+      "lat": 1.3546974,
+      "lon": 103.7766066,
+      "sample_index": 16
+    },
+    {
+      "cum_distance_km": 0.1671759,
+      "cum_distance_m": 167.1759036,
+      "edge_id": "central_nature_reserve_000449",
+      "elevation_raw_m": 155.1737252,
+      "elevation_smooth_m": 155.4772918,
+      "grade_smooth_pct": -12.5553831,
+      "lat": 1.3546774,
+      "lon": 103.7766571,
+      "sample_index": 18
+    }
+  ],
+  "share_pct": 17.6,
+  "source_confidence": 0.65,
+  "source_feature_id": "71121",
+  "source_label": "OpenStreetMap walkable paths",
+  "source_primary": "osm"
+}</pre>
+        </details>
+      
+        <details>
+          <summary><b>OpenStreetMap walkable paths</b> feature 183893 - 10.1%, 49 m</summary>
+          <p>Compact normalized source object used by this route. It includes only the relevant identifiers and routing attributes, plus the derived route edge IDs.</p>
+          <pre>{
+  "attributes": {
+    "highway": "steps",
+    "path_name": "Summit Path",
+    "source_confidence": 0.65,
+    "source_feature_id": "183893",
+    "source_primary": "osm"
+  },
+  "derived_edge_ids": [
+    "osm_018208"
+  ],
+  "distance_m": 48.6,
+  "elevation_summary": {
+    "end_smooth_m": 136.0,
+    "max_smooth_m": 136.0,
+    "min_smooth_m": 122.4,
+    "start_smooth_m": 122.4
+  },
+  "latlon_bounds": {
+    "max_lat": 1.3538832,
+    "max_lon": 103.7773193,
+    "min_lat": 1.353519,
+    "min_lon": 103.7770758
+  },
+  "route_sample_points": [
+    {
+      "cum_distance_km": 0.0,
+      "cum_distance_m": 0.0,
+      "edge_id": "osm_018208",
+      "elevation_raw_m": 120.8773742,
+      "elevation_smooth_m": 122.3804535,
+      "grade_smooth_pct": 0.0,
+      "lat": 1.353519,
+      "lon": 103.7773193,
+      "sample_index": 0
+    },
+    {
+      "cum_distance_km": 0.01,
+      "cum_distance_m": 10.0,
+      "edge_id": "osm_018208",
+      "elevation_raw_m": 123.8835328,
+      "elevation_smooth_m": 123.8835328,
+      "grade_smooth_pct": 15.0307929,
+      "lat": 1.353592,
+      "lon": 103.7772662,
+      "sample_index": 1
+    },
+    {
+      "cum_distance_km": 0.02,
+      "cum_distance_m": 20.0,
+      "edge_id": "osm_018208",
+      "elevation_raw_m": 126.8896914,
+      "elevation_smooth_m": 126.866658,
+      "grade_smooth_pct": 29.8312524,
+      "lat": 1.353665,
+      "lon": 103.7772132,
+      "sample_index": 2
+    },
+    {
+      "cum_distance_km": 0.03,
+      "cum_distance_m": 30.0,
+      "edge_id": "osm_018208",
+      "elevation_raw_m": 129.82675,
+      "elevation_smooth_m": 129.7685549,
+      "grade_smooth_pct": 29.0189688,
+      "lat": 1.35374,
+      "lon": 103.7771631,
+      "sample_index": 3
+    },
+    {
+      "cum_distance_km": 0.0385764,
+      "cum_distance_m": 38.5763748,
+      "edge_id": "osm_018208",
+      "elevation_raw_m": 132.5892235,
+      "elevation_smooth_m": 131.2079867,
+      "grade_smooth_pct": 16.7836855,
+      "lat": 1.3538061,
+      "lon": 103.7771228,
+      "sample_index": 4
+    },
+    {
+      "cum_distance_km": 0.0485764,
+      "cum_distance_m": 48.5763748,
+      "edge_id": "osm_018209",
+      "elevation_raw_m": 136.0274183,
+      "elevation_smooth_m": 136.0274183,
+      "grade_smooth_pct": 48.1943157,
+      "lat": 1.3538832,
+      "lon": 103.7770758,
+      "sample_index": 5
+    }
+  ],
+  "share_pct": 10.1,
+  "source_confidence": 0.65,
+  "source_feature_id": "183893",
+  "source_label": "OpenStreetMap walkable paths",
+  "source_primary": "osm"
+}</pre>
+        </details>
+      
+        <details>
+          <summary><b>OpenStreetMap walkable paths</b> feature 183894 - 7.2%, 34 m</summary>
+          <p>Compact normalized source object used by this route. It includes only the relevant identifiers and routing attributes, plus the derived route edge IDs.</p>
+          <pre>{
+  "attributes": {
+    "highway": "steps",
+    "path_name": "Summit Path",
+    "source_confidence": 0.65,
+    "source_feature_id": "183894",
+    "source_primary": "osm"
+  },
+  "derived_edge_ids": [
+    "osm_018209"
+  ],
+  "distance_m": 34.3,
+  "elevation_summary": {
+    "end_smooth_m": 145.6,
+    "max_smooth_m": 145.6,
+    "min_smooth_m": 136.0,
+    "start_smooth_m": 136.0
+  },
+  "latlon_bounds": {
+    "max_lat": 1.3541555,
+    "max_lon": 103.7770758,
+    "min_lat": 1.3538832,
+    "min_lon": 103.7769303
+  },
+  "route_sample_points": [
+    {
+      "cum_distance_km": 0.0485764,
+      "cum_distance_m": 48.5763748,
+      "edge_id": "osm_018209",
+      "elevation_raw_m": 136.0274183,
+      "elevation_smooth_m": 136.0274183,
+      "grade_smooth_pct": 48.1943157,
+      "lat": 1.3538832,
+      "lon": 103.7770758,
+      "sample_index": 5
+    },
+    {
+      "cum_distance_km": 0.0585764,
+      "cum_distance_m": 58.5763748,
+      "edge_id": "osm_018209",
+      "elevation_raw_m": 139.4656131,
+      "elevation_smooth_m": 139.2154458,
+      "grade_smooth_pct": 31.8802757,
+      "lat": 1.3539603,
+      "lon": 103.7770289,
+      "sample_index": 6
+    },
+    {
+      "cum_distance_km": 0.0685764,
+      "cum_distance_m": 68.5763748,
+      "edge_id": "osm_018209",
+      "elevation_raw_m": 142.1533062,
+      "elevation_smooth_m": 141.6247072,
+      "grade_smooth_pct": 24.0926139,
+      "lat": 1.3540374,
+      "lon": 103.7769819,
+      "sample_index": 7
+    },
+    {
+      "cum_distance_km": 0.0728983,
+      "cum_distance_m": 72.8982512,
+      "edge_id": "osm_018209",
+      "elevation_raw_m": 143.2552025,
+      "elevation_smooth_m": 142.7042543,
+      "grade_smooth_pct": 24.9786659,
+      "lat": 1.3540707,
+      "lon": 103.7769616,
+      "sample_index": 8
+    },
+    {
+      "cum_distance_km": 0.0828983,
+      "cum_distance_m": 82.8982512,
+      "edge_id": "osm_009034",
+      "elevation_raw_m": 145.5202972,
+      "elevation_smooth_m": 145.5750809,
+      "grade_smooth_pct": 28.7082657,
+      "lat": 1.3541555,
+      "lon": 103.7769303,
+      "sample_index": 9
+    }
+  ],
+  "share_pct": 7.2,
+  "source_confidence": 0.65,
+  "source_feature_id": "183894",
+  "source_label": "OpenStreetMap walkable paths",
+  "source_primary": "osm"
+}</pre>
+        </details>
+      
+    
+    <h2>Warnings</h2>
+    
+      <p class="warning">No route geometry warnings.</p>
+    
+    <h2>Steep Sections</h2>
+    
+      
+        <p class="warning">10-113 m, max 48.2%</p>
+      
+        <p class="warning">157-167 m, max 12.6%</p>
+      
+        <p class="warning">217-428 m, max 128.7%</p>
+      
+        <p class="warning">479-479 m, max 75.7%</p>
+      
+    
+  </aside>
+</main>
+<script>
+const SAMPLES = [{"cum_distance_km": 0.0, "cum_distance_m": 0.0, "directed_edge_id": "osm_018208:fwd", "edge_id": "osm_018208", "elevation_raw_m": 120.87737423253219, "elevation_smooth_m": 122.38045351804706, "grade_pct": 0.0, "grade_smooth_pct": 0.0, "highway": "steps", "lat": 1.3535189816236997, "lon": 103.77731925058491, "path_name": "Summit Path", "route_id": "point_to_point_05000m_003", "sample_index": 0, "source_confidence": 0.65, "source_feature_id": "183893", "source_primary": "osm", "trail_type": null, "undirected_edge_id": "osm_018208", "x_svy21": 21767.91, "y_svy21": 37290.840000000004}, {"cum_distance_km": 0.01, "cum_distance_m": 10.0, "directed_edge_id": "osm_018208:fwd", "edge_id": "osm_018208", "elevation_raw_m": 123.88353280356195, "elevation_smooth_m": 123.88353280356267, "grade_pct": 30.061585710297578, "grade_smooth_pct": 15.030792855156108, "highway": "steps", "lat": 1.3535919937367475, "lon": 103.77726622643998, "path_name": "Summit Path", "route_id": "point_to_point_05000m_003", "sample_index": 1, "source_confidence": 0.65, "source_feature_id": "183893", "source_primary": "osm", "trail_type": null, "undirected_edge_id": "osm_018208", "x_svy21": 21762.00919888465, "y_svy21": 37298.913446983606}, {"cum_distance_km": 0.02, "cum_distance_m": 20.0, "directed_edge_id": "osm_018208:fwd", "edge_id": "osm_018208", "elevation_raw_m": 126.88969137459388, "elevation_smooth_m": 126.86665804700185, "grade_pct": 30.06158571031932, "grade_smooth_pct": 29.831252434391757, "highway": "steps", "lat": 1.3536650058484505, "lon": 103.77721320229183, "path_name": "Summit Path", "route_id": "point_to_point_05000m_003", "sample_index": 2, "source_confidence": 0.65, "source_feature_id": "183893", "source_primary": "osm", "trail_type": null, "undirected_edge_id": "osm_018208", "x_svy21": 21756.108397769298, "y_svy21": 37306.986893967216}, {"cum_distance_km": 0.03, "cum_distance_m": 30.0, "directed_edge_id": "osm_018208:fwd", "edge_id": "osm_018208", "elevation_raw_m": 129.82674996284973, "elevation_smooth_m": 129.76855492934348, "grade_pct": 29.370585882558515, "grade_smooth_pct": 29.018968823416312, "highway": "steps", "lat": 1.353739996567328, "lon": 103.77716310998784, "path_name": "Summit Path", "route_id": "point_to_point_05000m_003", "sample_index": 3, "source_confidence": 0.65, "source_feature_id": "183893", "source_primary": "osm", "trail_type": null, "undirected_edge_id": "osm_018208", "x_svy21": 21750.533883152253, "y_svy21": 37315.27911792958}, {"cum_distance_km": 0.03857637480353621, "cum_distance_m": 38.57637480353621, "directed_edge_id": "osm_018208:fwd", "edge_id": "osm_018208", "elevation_raw_m": 132.58922345058676, "elevation_smooth_m": 131.20798670671826, "grade_pct": 32.210270085188, "grade_smooth_pct": 16.783685535539703, "highway": "steps", "lat": 1.3538061126111367, "lon": 103.77712281790679, "path_name": "Summit Path", "route_id": "point_to_point_05000m_003", "sample_index": 4, "source_confidence": 0.65, "source_feature_id": "183893", "source_primary": "osm", "trail_type": null, "undirected_edge_id": "osm_018208", "x_svy21": 21746.05, "y_svy21": 37322.590000000004}, {"cum_distance_km": 0.04857637480353621, "cum_distance_m": 48.57637480353621, "directed_edge_id": "osm_018209:fwd", "edge_id": "osm_018209", "elevation_raw_m": 136.02741827736605, "elevation_smooth_m": 136.02741827736608, "grade_pct": 34.38194826779295, "grade_smooth_pct": 48.19431570647822, "highway": "steps", "lat": 1.3538832101252654, "lon": 103.77707584830705, "path_name": "Summit Path", "route_id": "point_to_point_05000m_003", "sample_index": 5, "source_confidence": 0.65, "source_feature_id": "183894", "source_primary": "osm", "trail_type": null, "undirected_edge_id": "osm_018209", "x_svy21": 21740.823013052082, "y_svy21": 37331.115174921746}, {"cum_distance_km": 0.05857637480353621, "cum_distance_m": 58.57637480353621, "directed_edge_id": "osm_018209:fwd", "edge_id": "osm_018209", "elevation_raw_m": 139.46561310414538, "elevation_smooth_m": 139.2154458483471, "grade_pct": 34.381948267793234, "grade_smooth_pct": 31.880275709810064, "highway": "steps", "lat": 1.3539603076383047, "lon": 103.7770288787043, "path_name": "Summit Path", "route_id": "point_to_point_05000m_003", "sample_index": 6, "source_confidence": 0.65, "source_feature_id": "183894", "source_primary": "osm", "trail_type": null, "undirected_edge_id": "osm_018209", "x_svy21": 21735.596026104166, "y_svy21": 37339.64034984349}, {"cum_distance_km": 0.0685763748035362, "cum_distance_m": 68.57637480353621, "directed_edge_id": "osm_018209:fwd", "edge_id": "osm_018209", "elevation_raw_m": 142.15330616352983, "elevation_smooth_m": 141.62470724139473, "grade_pct": 26.876930593844577, "grade_smooth_pct": 24.092613930476432, "highway": "steps", "lat": 1.354037405150253, "lon": 103.77698190909851, "path_name": "Summit Path", "route_id": "point_to_point_05000m_003", "sample_index": 7, "source_confidence": 0.65, "source_feature_id": "183894", "source_primary": "osm", "trail_type": null, "undirected_edge_id": "osm_018209", "x_svy21": 21730.369039156245, "y_svy21": 37348.16552476523}, {"cum_distance_km": 0.07289825120911238, "cum_distance_m": 72.89825120911237, "directed_edge_id": "osm_018209:fwd", "edge_id": "osm_018209", "elevation_raw_m": 143.25520245650898, "elevation_smooth_m": 142.7042543100194, "grade_pct": 25.495784459672706, "grade_smooth_pct": 24.9786659153837, "highway": "steps", "lat": 1.3540707257416986, "lon": 103.77696160941446, "path_name": "Summit Path", "route_id": "point_to_point_05000m_003", "sample_index": 8, "source_confidence": 0.65, "source_feature_id": "183894", "source_primary": "osm", "trail_type": null, "undirected_edge_id": "osm_018209", "x_svy21": 21728.11, "y_svy21": 37351.85}, {"cum_distance_km": 0.08289825120911237, "cum_distance_m": 82.89825120911237, "directed_edge_id": "osm_009034:fwd", "edge_id": "osm_009034", "elevation_raw_m": 145.52029719483673, "elevation_smooth_m": 145.5750808802177, "grade_pct": 22.65094738327747, "grade_smooth_pct": 28.708265701983184, "highway": "footway", "lat": 1.3541555009888073, "lon": 103.7769303169617, "path_name": "Summit Path", "route_id": "point_to_point_05000m_003", "sample_index": 9, "source_confidence": 0.65, "source_feature_id": "71121", "source_primary": "osm", "trail_type": null, "undirected_edge_id": "osm_009034", "x_svy21": 21724.627722701516, "y_svy21": 37361.224099680316}, {"cum_distance_km": 0.09289825120911237, "cum_distance_m": 92.89825120911237, "directed_edge_id": "osm_009034:fwd", "edge_id": "osm_009034", "elevation_raw_m": 147.94974298930742, "elevation_smooth_m": 147.97522578647653, "grade_pct": 24.29445794470695, "grade_smooth_pct": 24.001449062588165, "highway": "footway", "lat": 1.3542361678721626, "lon": 103.77689017729071, "path_name": "Summit Path", "route_id": "point_to_point_05000m_003", "sample_index": 10, "source_confidence": 0.65, "source_feature_id": "71121", "source_primary": "osm", "trail_type": null, "undirected_edge_id": "osm_009034", "x_svy21": 21720.16084001952, "y_svy21": 37370.14394022748}, {"cum_distance_km": 0.10289825120911238, "cum_distance_m": 102.89825120911237, "directed_edge_id": "osm_009034:fwd", "edge_id": "osm_009034", "elevation_raw_m": 150.45563717528543, "elevation_smooth_m": 150.02811597689066, "grade_pct": 25.058941859780077, "grade_smooth_pct": 20.52890190414132, "highway": "footway", "lat": 1.3543148241060596, "lon": 103.7768458584407, "path_name": "Summit Path", "route_id": "point_to_point_05000m_003", "sample_index": 11, "source_confidence": 0.65, "source_feature_id": "71121", "source_primary": "osm", "trail_type": null, "undirected_edge_id": "osm_009034", "x_svy21": 21715.228857243295, "y_svy21": 37378.841464240446}, {"cum_distance_km": 0.11289825120911237, "cum_distance_m": 112.89825120911237, "directed_edge_id": "osm_009034:fwd", "edge_id": "osm_009034", "elevation_raw_m": 151.6789677660791, "elevation_smooth_m": 151.6650986751264, "grade_pct": 12.233305907936654, "grade_smooth_pct": 16.369826982357267, "highway": "footway", "lat": 1.354391602128387, "lon": 103.77679837499593, "path_name": "Summit Path", "route_id": "point_to_point_05000m_003", "sample_index": 12, "source_confidence": 0.65, "source_feature_id": "71121", "source_primary": "osm", "trail_type": null, "undirected_edge_id": "osm_009034", "x_svy21": 21709.94468646446, "y_svy21": 37387.33131342522}, {"cum_distance_km": 0.12289825120911238, "cum_distance_m": 122.89825120911237, "directed_edge_id": "osm_009034:fwd", "edge_id": "osm_009034", "elevation_raw_m": 152.8606910840147, "elevation_smooth_m": 152.85513333114463, "grade_pct": 11.817233179355924, "grade_smooth_pct": 11.900346560182413, "highway": "footway", "lat": 1.3544683801496025, "lon": 103.77675089154813, "path_name": "Summit Path", "route_id": "point_to_point_05000m_003", "sample_index": 13, "source_confidence": 0.65, "source_feature_id": "71121", "source_primary": "osm", "trail_type": null, "undirected_edge_id": "osm_009034", "x_svy21": 21704.660515685624, "y_svy21": 37395.82116260998}, {"cum_distance_km": 0.13289825120911236, "cum_distance_m": 132.89825120911237, "directed_edge_id": "osm_009034:fwd", "edge_id": "osm_009034", "elevation_raw_m": 154.02574114334013, "elevation_smooth_m": 154.02482944347892, "grade_pct": 11.650500593254378, "grade_smooth_pct": 11.69696112334293, "highway": "footway", "lat": 1.3545455600691332, "lon": 103.77670405674917, "path_name": "Summit Path", "route_id": "point_to_point_05000m_003", "sample_index": 14, "source_confidence": 0.65, "source_feature_id": "71121", "source_primary": "osm", "trail_type": null, "undirected_edge_id": "osm_009034", "x_svy21": 21699.448533534043, "y_svy21": 37404.35545011736}, {"cum_distance_km": 0.14289825120911237, "cum_distance_m": 142.89825120911237, "directed_edge_id": "osm_009034:fwd", "edge_id": "osm_009034", "elevation_raw_m": 155.18805610308192, "elevation_smooth_m": 155.22230386468217, "grade_pct": 11.623149597417921, "grade_smooth_pct": 11.974744212032533, "highway": "footway", "lat": 1.3546228059156018, "lon": 103.77665732835273, "path_name": "Summit Path", "route_id": "point_to_point_05000m_003", "sample_index": 15, "source_confidence": 0.65, "source_feature_id": "71121", "source_primary": "osm", "trail_type": null, "undirected_edge_id": "osm_009034", "x_svy21": 21694.248393283855, "y_svy21": 37412.897027335785}, {"cum_distance_km": 0.15289825120911238, "cum_distance_m": 152.89825120911237, "directed_edge_id": "osm_009034:fwd", "edge_id": "osm_009034", "elevation_raw_m": 156.4531143476245, "elevation_smooth_m": 156.21790546264245, "grade_pct": 12.650582445425867, "grade_smooth_pct": 9.95601597960274, "highway": "footway", "lat": 1.3546973910755495, "lon": 103.77660660549778, "path_name": "Summit Path", "route_id": "point_to_point_05000m_003", "sample_index": 16, "source_confidence": 0.65, "source_feature_id": "71121", "source_primary": "osm", "trail_type": null, "undirected_edge_id": "osm_009034", "x_svy21": 21688.60370863152, "y_svy21": 37421.14440979722}, {"cum_distance_km": 0.15717590360225747, "cum_distance_m": 157.17590360225748, "directed_edge_id": "osm_009034:fwd", "edge_id": "osm_009034", "elevation_raw_m": 157.01254593722095, "elevation_smooth_m": 156.73283014242273, "grade_pct": 13.078004900373074, "grade_smooth_pct": 12.037553135580643, "highway": "footway", "lat": 1.3547288225325687, "lon": 103.77658419719063, "path_name": "Summit Path", "route_id": "point_to_point_05000m_003", "sample_index": 17, "source_confidence": 0.65, "source_feature_id": "71121", "source_primary": "osm", "trail_type": null, "undirected_edge_id": "osm_009034", "x_svy21": 21686.11, "y_svy21": 37424.62}, {"cum_distance_km": 0.16717590360225748, "cum_distance_m": 167.17590360225748, "directed_edge_id": "central_nature_reserve_000449:rev", "edge_id": "central_nature_reserve_000449", "elevation_raw_m": 155.17372515165357, "elevation_smooth_m": 155.4772918274803, "grade_pct": -18.388207855673784, "grade_smooth_pct": -12.555383149424415, "highway": null, "lat": 1.3546773725247656, "lon": 103.7766571080669, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 18, "source_confidence": 0.95, "source_feature_id": "392", "source_primary": "central_nature_reserve", "trail_type": 1.0, "undirected_edge_id": "central_nature_reserve_000449", "x_svy21": 21694.224019072524, "y_svy21": 37418.930728031955}, {"cum_distance_km": 0.1771759036022575, "cum_distance_m": 177.17590360225748, "directed_edge_id": "central_nature_reserve_000449:rev", "edge_id": "central_nature_reserve_000449", "elevation_raw_m": 154.24560439356637, "elevation_smooth_m": 154.28312416468026, "grade_pct": -9.281207580872035, "grade_smooth_pct": -11.941676628000266, "highway": null, "lat": 1.3545960534526702, "lon": 103.77669470288829, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 19, "source_confidence": 0.95, "source_feature_id": "392", "source_primary": "central_nature_reserve", "trail_type": 1.0, "undirected_edge_id": "central_nature_reserve_000449", "x_svy21": 21698.40768549383, "y_svy21": 37409.93877783319}, {"cum_distance_km": 0.18717590360225747, "cum_distance_m": 187.17590360225748, "directed_edge_id": "central_nature_reserve_000449:rev", "edge_id": "central_nature_reserve_000449", "elevation_raw_m": 153.4300429488208, "elevation_smooth_m": 153.44058222696628, "grade_pct": -8.155614447455548, "grade_smooth_pct": -8.425419377139747, "highway": null, "lat": 1.354512082237772, "lon": 103.77672791785494, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 20, "source_confidence": 0.95, "source_feature_id": "392", "source_primary": "central_nature_reserve", "trail_type": 1.0, "undirected_edge_id": "central_nature_reserve_000449", "x_svy21": 21702.103917242417, "y_svy21": 37400.65357854081}, {"cum_distance_km": 0.19717590360225748, "cum_distance_m": 197.17590360225748, "directed_edge_id": "central_nature_reserve_000449:rev", "edge_id": "central_nature_reserve_000449", "elevation_raw_m": 152.6460993385117, "elevation_smooth_m": 152.63298021484067, "grade_pct": -7.839436103091088, "grade_smooth_pct": -8.076020121256136, "highway": null, "lat": 1.354432550918845, "lon": 103.77675982814385, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 21, "source_confidence": 0.95, "source_feature_id": "392", "source_primary": "central_nature_reserve", "trail_type": 1.0, "undirected_edge_id": "central_nature_reserve_000449", "x_svy21": 21705.654964889116, "y_svy21": 37391.85932398161}, {"cum_distance_km": 0.2071759036022575, "cum_distance_m": 207.17590360225748, "directed_edge_id": "central_nature_reserve_000449:rev", "edge_id": "central_nature_reserve_000449", "elevation_raw_m": 151.82279835718947, "elevation_smooth_m": 151.51030704211396, "grade_pct": -8.233009813222338, "grade_smooth_pct": -11.226731727267065, "highway": null, "lat": 1.354356504826418, "lon": 103.77679323319187, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 22, "source_confidence": 0.95, "source_feature_id": "392", "source_primary": "central_nature_reserve", "trail_type": 1.0, "undirected_edge_id": "central_nature_reserve_000449", "x_svy21": 21709.372371495494, "y_svy21": 37383.45044435162}, {"cum_distance_km": 0.21717590360225747, "cum_distance_m": 217.17590360225748, "directed_edge_id": "central_nature_reserve_000449:rev", "edge_id": "central_nature_reserve_000449", "elevation_raw_m": 150.0620234306407, "elevation_smooth_m": 149.8215650836008, "grade_pct": -17.60774926548777, "grade_smooth_pct": -16.887419585131624, "highway": null, "lat": 1.3542773750499562, "lon": 103.77683673363366, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 23, "source_confidence": 0.95, "source_feature_id": "392", "source_primary": "central_nature_reserve", "trail_type": 1.0, "undirected_edge_id": "central_nature_reserve_000449", "x_svy21": 21714.213273223162, "y_svy21": 37374.70056039419}, {"cum_distance_km": 0.22717590360225748, "cum_distance_m": 227.17590360225748, "directed_edge_id": "central_nature_reserve_000449:rev", "edge_id": "central_nature_reserve_000449", "elevation_raw_m": 147.5798734629722, "elevation_smooth_m": 147.53048102478, "grade_pct": -24.82149967668505, "grade_smooth_pct": -22.910840588208146, "highway": null, "lat": 1.3541979171912903, "lon": 103.77687964091734, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 24, "source_confidence": 0.95, "source_feature_id": "392", "source_primary": "central_nature_reserve", "trail_type": 1.0, "undirected_edge_id": "central_nature_reserve_000449", "x_svy21": 21718.98816265808, "y_svy21": 37365.91440040648}, {"cum_distance_km": 0.2371759036022575, "cum_distance_m": 237.17590360225748, "directed_edge_id": "central_nature_reserve_000449:rev", "edge_id": "central_nature_reserve_000449", "elevation_raw_m": 144.94954618072705, "elevation_smooth_m": 145.01483314129845, "grade_pct": -26.303272822451333, "grade_smooth_pct": -25.156478834815342, "highway": null, "lat": 1.3541243836242312, "lon": 103.77693194800769, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 25, "source_confidence": 0.95, "source_feature_id": "392", "source_primary": "central_nature_reserve", "trail_type": 1.0, "undirected_edge_id": "central_nature_reserve_000449", "x_svy21": 21724.80915958655, "y_svy21": 37357.78329443189}, {"cum_distance_km": 0.24717590360225747, "cum_distance_m": 247.17590360225748, "directed_edge_id": "central_nature_reserve_000449:rev", "edge_id": "central_nature_reserve_000449", "elevation_raw_m": 142.51507978019615, "elevation_smooth_m": 142.4639349873444, "grade_pct": -24.344664005309085, "grade_smooth_pct": -25.508981539540514, "highway": null, "lat": 1.3540438876537315, "lon": 103.7769723870508, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 26, "source_confidence": 0.95, "source_feature_id": "392", "source_primary": "central_nature_reserve", "trail_type": 1.0, "undirected_edge_id": "central_nature_reserve_000449", "x_svy21": 21729.30935980378, "y_svy21": 37348.88235189091}, {"cum_distance_km": 0.25717590360225745, "cum_distance_m": 257.17590360225745, "directed_edge_id": "central_nature_reserve_000449:rev", "edge_id": "central_nature_reserve_000449", "elevation_raw_m": 139.92717900111, "elevation_smooth_m": 139.6751140415981, "grade_pct": -25.87900779086148, "grade_smooth_pct": -27.888209457463027, "highway": null, "lat": 1.353967743168353, "lon": 103.77702070486957, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 27, "source_confidence": 0.95, "source_feature_id": "392", "source_primary": "central_nature_reserve", "trail_type": 1.0, "undirected_edge_id": "central_nature_reserve_000449", "x_svy21": 21734.686389983162, "y_svy21": 37340.46255432661}, {"cum_distance_km": 0.26717590360225746, "cum_distance_m": 267.17590360225745, "directed_edge_id": "central_nature_reserve_000449:rev", "edge_id": "central_nature_reserve_000449", "elevation_raw_m": 136.5830833434882, "elevation_smooth_m": 136.52380432019677, "grade_pct": -33.44095657621807, "grade_smooth_pct": -31.51309721401333, "highway": null, "lat": 1.353888650962289, "lon": 103.77706375768045, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 28, "source_confidence": 0.95, "source_feature_id": "392", "source_primary": "central_nature_reserve", "trail_type": 1.0, "undirected_edge_id": "central_nature_reserve_000449", "x_svy21": 21739.477477188397, "y_svy21": 37331.71682641904}, {"cum_distance_km": 0.27717590360225747, "cum_distance_m": 277.17590360225745, "directed_edge_id": "central_nature_reserve_000449:rev", "edge_id": "central_nature_reserve_000449", "elevation_raw_m": 133.06115061599215, "elevation_smooth_m": 133.06189496120928, "grade_pct": -35.219327274960506, "grade_smooth_pct": -34.61909358987498, "highway": null, "lat": 1.3538142037842076, "lon": 103.77711477387841, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 29, "source_confidence": 0.95, "source_feature_id": "392", "source_primary": "central_nature_reserve", "trail_type": 1.0, "undirected_edge_id": "central_nature_reserve_000449", "x_svy21": 21745.154811447614, "y_svy21": 37323.48470180208}, {"cum_distance_km": 0.2871759036022575, "cum_distance_m": 287.17590360225745, "directed_edge_id": "central_nature_reserve_000449:rev", "edge_id": "central_nature_reserve_000449", "elevation_raw_m": 129.54145092414745, "elevation_smooth_m": 129.968897186944, "grade_pct": -35.19699691844693, "grade_smooth_pct": -30.929977742652852, "highway": null, "lat": 1.3537508571054273, "lon": 103.77717647566485, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 30, "source_confidence": 0.95, "source_feature_id": "392", "source_primary": "central_nature_reserve", "trail_type": 1.0, "undirected_edge_id": "central_nature_reserve_000449", "x_svy21": 21752.02135953921, "y_svy21": 37316.47998692906}, {"cum_distance_km": 0.29717590360225743, "cum_distance_m": 297.17590360225745, "directed_edge_id": "central_nature_reserve_000449:rev", "edge_id": "central_nature_reserve_000449", "elevation_raw_m": 127.30409002069231, "elevation_smooth_m": 127.01458681846402, "grade_pct": -22.373609034551407, "grade_smooth_pct": -29.54310368479966, "highway": null, "lat": 1.3536646296494392, "lon": 103.77720100197737, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 31, "source_confidence": 0.95, "source_feature_id": "392", "source_primary": "central_nature_reserve", "trail_type": 1.0, "undirected_edge_id": "central_nature_reserve_000449", "x_svy21": 21754.750639848724, "y_svy21": 37306.945327201276}, {"cum_distance_km": 0.30717590360225744, "cum_distance_m": 307.17590360225745, "directed_edge_id": "central_nature_reserve_000449:rev", "edge_id": "central_nature_reserve_000449", "elevation_raw_m": 124.19821951055233, "elevation_smooth_m": 124.20940669809534, "grade_pct": -31.0587051013998, "grade_smooth_pct": -28.051801203686892, "highway": null, "lat": 1.3535955812666922, "lon": 103.7772587761119, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 32, "source_confidence": 0.95, "source_feature_id": "392", "source_primary": "central_nature_reserve", "trail_type": 1.0, "undirected_edge_id": "central_nature_reserve_000449", "x_svy21": 21761.18007081502, "y_svy21": 37299.31015709066}, {"cum_distance_km": 0.31717590360225745, "cum_distance_m": 317.17590360225745, "directed_edge_id": "central_nature_reserve_000449:rev", "edge_id": "central_nature_reserve_000449", "elevation_raw_m": 121.12591056304139, "elevation_smooth_m": 122.06716810204198, "grade_pct": -30.72308947510948, "grade_smooth_pct": -21.422385960533603, "highway": null, "lat": 1.3535250424962992, "lon": 103.77731487827268, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 33, "source_confidence": 0.95, "source_feature_id": "392", "source_primary": "central_nature_reserve", "trail_type": 1.0, "undirected_edge_id": "central_nature_reserve_000449", "x_svy21": 21767.423426567388, "y_svy21": 37291.510191912676}, {"cum_distance_km": 0.31800410098521087, "cum_distance_m": 318.00410098521087, "directed_edge_id": "central_nature_reserve_000449:rev", "edge_id": "central_nature_reserve_000449", "elevation_raw_m": 120.87737423253219, "elevation_smooth_m": 121.00164239778678, "grade_pct": -30.00931126139227, "grade_smooth_pct": -128.65600956808655, "highway": null, "lat": 1.3535189816236997, "lon": 103.77731925058491, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 34, "source_confidence": 0.95, "source_feature_id": "392", "source_primary": "central_nature_reserve", "trail_type": 1.0, "undirected_edge_id": "central_nature_reserve_000449", "x_svy21": 21767.91, "y_svy21": 37290.840000000004}, {"cum_distance_km": 0.3280041009852109, "cum_distance_m": 328.00410098521087, "directed_edge_id": "nparks_tracks_013589:fwd", "edge_id": "nparks_tracks_013589", "elevation_raw_m": 123.93892890157072, "elevation_smooth_m": 123.96200493245226, "grade_pct": 30.615546690385287, "grade_smooth_pct": 29.603625346654784, "highway": null, "lat": 1.3535899185659601, "lon": 103.77726364698749, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 35, "source_confidence": 1.0, "source_feature_id": "14404", "source_primary": "nparks_tracks", "trail_type": null, "undirected_edge_id": "nparks_tracks_013589", "x_svy21": 21761.7221296947, "y_svy21": 37298.683991716265}, {"cum_distance_km": 0.3380041009852109, "cum_distance_m": 338.00410098521087, "directed_edge_id": "nparks_tracks_013589:fwd", "edge_id": "nparks_tracks_013589", "elevation_raw_m": 127.06971166325387, "elevation_smooth_m": 126.77081480462361, "grade_pct": 31.307827616831503, "grade_smooth_pct": 28.08809872171352, "highway": null, "lat": 1.3536582923713774, "lon": 103.77720483400644, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 36, "source_confidence": 1.0, "source_feature_id": "14404", "source_primary": "nparks_tracks", "trail_type": null, "undirected_edge_id": "nparks_tracks_013589", "x_svy21": 21755.177085109437, "y_svy21": 37306.24457313418}, {"cum_distance_km": 0.3480041009852109, "cum_distance_m": 348.00410098521087, "directed_edge_id": "nparks_tracks_013589:fwd", "edge_id": "nparks_tracks_013589", "elevation_raw_m": 129.30380384904626, "elevation_smooth_m": 129.71432686050255, "grade_pct": 22.340921857923917, "grade_smooth_pct": 29.435120558789407, "highway": null, "lat": 1.3537448652743875, "lon": 103.77718056435963, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 37, "source_confidence": 1.0, "source_feature_id": "14404", "source_primary": "nparks_tracks", "trail_type": null, "undirected_edge_id": "nparks_tracks_013589", "x_svy21": 21752.476369649285, "y_svy21": 37315.81742998166}, {"cum_distance_km": 0.35800410098521085, "cum_distance_m": 358.00410098521087, "directed_edge_id": "nparks_tracks_013589:fwd", "edge_id": "nparks_tracks_013589", "elevation_raw_m": 132.7694650692075, "elevation_smooth_m": 132.7882222383182, "grade_pct": 34.65661220161252, "grade_smooth_pct": 30.738953778156596, "highway": null, "lat": 1.3538080380883457, "lon": 103.77711899902644, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 38, "source_confidence": 1.0, "source_feature_id": "14404", "source_primary": "nparks_tracks", "trail_type": null, "undirected_edge_id": "nparks_tracks_013589", "x_svy21": 21745.625006785176, "y_svy21": 37322.80291939569}, {"cum_distance_km": 0.36800410098521086, "cum_distance_m": 368.00410098521087, "directed_edge_id": "nparks_tracks_013589:fwd", "edge_id": "nparks_tracks_013589", "elevation_raw_m": 136.2913977967009, "elevation_smooth_m": 136.23792062902007, "grade_pct": 35.21932727493379, "grade_smooth_pct": 34.496983907018546, "highway": null, "lat": 1.353882485266531, "lon": 103.77706798282874, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 39, "source_confidence": 1.0, "source_feature_id": "14404", "source_primary": "nparks_tracks", "trail_type": null, "undirected_edge_id": "nparks_tracks_013589", "x_svy21": 21739.947672525963, "y_svy21": 37331.03504401264}, {"cum_distance_km": 0.37800410098521087, "cum_distance_m": 378.00410098521087, "directed_edge_id": "nparks_tracks_013589:fwd", "edge_id": "nparks_tracks_013589", "elevation_raw_m": 139.6528990211518, "elevation_smooth_m": 139.42042018748032, "grade_pct": 33.615012244509046, "grade_smooth_pct": 31.824995584602505, "highway": null, "lat": 1.353961118199865, "lon": 103.77702414763314, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 40, "source_confidence": 1.0, "source_feature_id": "14404", "source_primary": "nparks_tracks", "trail_type": null, "undirected_edge_id": "nparks_tracks_013589", "x_svy21": 21735.069513556984, "y_svy21": 37339.72998987324}, {"cum_distance_km": 0.3880041009852109, "cum_distance_m": 388.00410098521087, "directed_edge_id": "nparks_tracks_013589:fwd", "edge_id": "nparks_tracks_013589", "elevation_raw_m": 142.31696374458826, "elevation_smooth_m": 142.23373575619223, "grade_pct": 26.64064723436468, "grade_smooth_pct": 28.133155687119142, "highway": null, "lat": 1.354037095219252, "lon": 103.77697552302789, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 41, "source_confidence": 1.0, "source_feature_id": "14404", "source_primary": "nparks_tracks", "trail_type": null, "undirected_edge_id": "nparks_tracks_013589", "x_svy21": 21729.65834106026, "y_svy21": 37348.131270678416}, {"cum_distance_km": 0.3980041009852109, "cum_distance_m": 398.00410098521087, "directed_edge_id": "nparks_tracks_013589:fwd", "edge_id": "nparks_tracks_013589", "elevation_raw_m": 144.7313445028366, "elevation_smooth_m": 144.8035224831193, "grade_pct": 24.14380758248342, "grade_smooth_pct": 25.697867269270773, "highway": null, "lat": 1.3541183118047393, "lon": 103.77693630530105, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 42, "source_confidence": 1.0, "source_feature_id": "14404", "source_primary": "nparks_tracks", "trail_type": null, "undirected_edge_id": "nparks_tracks_013589", "x_svy21": 21725.294061330973, "y_svy21": 37357.111892016495}, {"cum_distance_km": 0.4080041009852109, "cum_distance_m": 408.00410098521087, "directed_edge_id": "nparks_tracks_013589:fwd", "edge_id": "nparks_tracks_013589", "elevation_raw_m": 147.36225920193309, "elevation_smooth_m": 147.31669613085967, "grade_pct": 26.309146990964795, "grade_smooth_pct": 25.131736477403592, "highway": null, "lat": 1.3541918155452468, "lon": 103.77688395688263, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 43, "source_confidence": 1.0, "source_feature_id": "14404", "source_primary": "nparks_tracks", "trail_type": null, "undirected_edge_id": "nparks_tracks_013589", "x_svy21": 21719.46846494728, "y_svy21": 37365.23970001659}, {"cum_distance_km": 0.41800410098521085, "cum_distance_m": 418.00410098521087, "directed_edge_id": "nparks_tracks_013589:fwd", "edge_id": "nparks_tracks_013589", "elevation_raw_m": 149.85648468780937, "elevation_smooth_m": 149.65034672033997, "grade_pct": 24.94225485876285, "grade_smooth_pct": 23.336505894802997, "highway": null, "lat": 1.354270793092997, "lon": 103.77684028516462, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 44, "source_confidence": 1.0, "source_feature_id": "14404", "source_primary": "nparks_tracks", "trail_type": null, "undirected_edge_id": "nparks_tracks_013589", "x_svy21": 21714.608501378876, "y_svy21": 37373.97275162118}, {"cum_distance_km": 0.42800410098521086, "cum_distance_m": 428.00410098521087, "directed_edge_id": "nparks_tracks_013589:fwd", "edge_id": "nparks_tracks_013589", "elevation_raw_m": 151.7322962712775, "elevation_smooth_m": 151.36785944617384, "grade_pct": 18.758115834681348, "grade_smooth_pct": 17.175127258338705, "highway": null, "lat": 1.3543499753032837, "lon": 103.77679687902076, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 45, "source_confidence": 1.0, "source_feature_id": "14404", "source_primary": "nparks_tracks", "trail_type": null, "undirected_edge_id": "nparks_tracks_013589", "x_svy21": 21709.77809405044, "y_svy21": 37382.728433192744}, {"cum_distance_km": 0.43800410098521086, "cum_distance_m": 438.00410098521087, "directed_edge_id": "nparks_tracks_013589:fwd", "edge_id": "nparks_tracks_013589", "elevation_raw_m": 152.51479737943458, "elevation_smooth_m": 152.55232003830508, "grade_pct": 7.825011081570779, "grade_smooth_pct": 11.84460592131245, "highway": null, "lat": 1.3544272225023781, "lon": 103.77676505811777, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 46, "source_confidence": 1.0, "source_feature_id": "14404", "source_primary": "nparks_tracks", "trail_type": null, "undirected_edge_id": "nparks_tracks_013589", "x_svy21": 21706.23698788293, "y_svy21": 37391.27012101166}, {"cum_distance_km": 0.4480041009852109, "cum_distance_m": 448.00410098521087, "directed_edge_id": "nparks_tracks_013589:fwd", "edge_id": "nparks_tracks_013589", "elevation_raw_m": 153.40986646420313, "elevation_smooth_m": 153.36873644700032, "grade_pct": 8.950690847685507, "grade_smooth_pct": 8.164164086952326, "highway": null, "lat": 1.3545046471192563, "lon": 103.77672881643, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 47, "source_confidence": 1.0, "source_feature_id": "14404", "source_primary": "nparks_tracks", "trail_type": null, "undirected_edge_id": "nparks_tracks_013589", "x_svy21": 21702.20389924588, "y_svy21": 37399.83143834345}, {"cum_distance_km": 0.4580041009852109, "cum_distance_m": 458.00410098521087, "directed_edge_id": "nparks_tracks_013589:fwd", "edge_id": "nparks_tracks_013589", "elevation_raw_m": 154.1815454973632, "elevation_smooth_m": 154.21382234836972, "grade_pct": 7.716790331600691, "grade_smooth_pct": 8.450859013694014, "highway": null, "lat": 1.3545890438906887, "lon": 103.7766973177219, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 48, "source_confidence": 1.0, "source_feature_id": "14404", "source_primary": "nparks_tracks", "trail_type": null, "undirected_edge_id": "nparks_tracks_013589", "x_svy21": 21698.698668666922, "y_svy21": 37409.16368906281}, {"cum_distance_km": 0.4680041009852109, "cum_distance_m": 468.00410098521087, "directed_edge_id": "nparks_tracks_013589:fwd", "edge_id": "nparks_tracks_013589", "elevation_raw_m": 155.05005508354284, "elevation_smooth_m": 155.36023076398885, "grade_pct": 8.685095861796412, "grade_smooth_pct": 11.464084156191348, "highway": null, "lat": 1.3546717658259995, "lon": 103.77666204248561, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 49, "source_confidence": 1.0, "source_feature_id": "14404", "source_primary": "nparks_tracks", "trail_type": null, "undirected_edge_id": "nparks_tracks_013589", "x_svy21": 21694.773149325705, "y_svy21": 37418.310754750135}, {"cum_distance_km": 0.47800410098521084, "cum_distance_m": 478.00410098521087, "directed_edge_id": "nparks_tracks_013589:fwd", "edge_id": "nparks_tracks_013589", "elevation_raw_m": 156.84909171106048, "elevation_smooth_m": 156.30389757727474, "grade_pct": 17.99036627517637, "grade_smooth_pct": 9.43666813285887, "highway": null, "lat": 1.3547251193004373, "lon": 103.7765906658127, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 50, "source_confidence": 1.0, "source_feature_id": "14404", "source_primary": "nparks_tracks", "trail_type": null, "undirected_edge_id": "nparks_tracks_013589", "x_svy21": 21686.829874552324, "y_svy21": 37424.21049843218}, {"cum_distance_km": 0.47883229836816427, "cum_distance_m": 478.8322983681643, "directed_edge_id": "nparks_tracks_013589:fwd", "edge_id": "nparks_tracks_013589", "elevation_raw_m": 157.01254593722095, "elevation_smooth_m": 156.93081882414072, "grade_pct": 19.736143765339705, "grade_smooth_pct": 75.69708136849258, "highway": null, "lat": 1.3547288225325687, "lon": 103.77658419719063, "path_name": null, "route_id": "point_to_point_05000m_003", "sample_index": 51, "source_confidence": 1.0, "source_feature_id": "14404", "source_primary": "nparks_tracks", "trail_type": null, "undirected_edge_id": "nparks_tracks_013589", "x_svy21": 21686.11, "y_svy21": 37424.62}];
+const ROUTE = {"ascent_m": 64.09121420855331, "budget_km": 5.0, "descent_m": 35.091493146650464, "directed_edge_ids": ["osm_018208:fwd", "osm_018209:fwd", "osm_009034:fwd", "central_nature_reserve_000449:rev", "nparks_tracks_013589:fwd"], "display_name": "Bukit Timah Nature Reserve: Summit Path - 0.48 km, 64 m gain", "distance_m": 478.8322983681643, "gain_density_m_per_km": 133.84897891594375, "mode": "point_to_point", "node_ids": ["n014491", "n042306", "n029996", "n014492", "n014491", "n014492"], "rank": 3, "route_id": "point_to_point_05000m_003", "source_confidence": 0.78, "undirected_edge_ids": ["osm_018208", "osm_018209", "osm_009034", "central_nature_reserve_000449", "nparks_tracks_013589"], "warnings": []};
+const map = L.map('map').setView([1.3521, 103.8198], 12);
+L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", { maxZoom: 20, attribution: "\u0026copy; OpenStreetMap contributors \u0026copy; CARTO" }).addTo(map);
+const latlngs = SAMPLES.map(s => [s.lat, s.lon]);
+const line = L.polyline(latlngs, { color: '#b85c38', weight: 6 }).addTo(map);
+map.fitBounds(line.getBounds(), { padding: [20, 20] });
+L.marker(latlngs[0]).addTo(map).bindPopup('Start');
+L.marker(latlngs[latlngs.length - 1]).addTo(map).bindPopup('End');
+for (const sample of SAMPLES) {
+  if (Math.abs(sample.cum_distance_m % 1000) < 10 && sample.cum_distance_m > 0) {
+    L.circleMarker([sample.lat, sample.lon], { radius: 5, color: '#265c42' }).addTo(map).bindPopup(`${sample.cum_distance_km.toFixed(1)} km`);
+  }
+  if (Math.abs(sample.cum_distance_m % 500) < 10 && sample.cum_distance_m > 0) {
+    L.marker([sample.lat, sample.lon], { opacity: 0.7 }).addTo(map).bindPopup('Direction marker');
+  }
+  if (Math.abs(sample.grade_smooth_pct) >= 12) {
+    L.circleMarker([sample.lat, sample.lon], { radius: 4, color: '#b85c38', fillOpacity: 0.8 }).addTo(map);
+  }
+  if (sample.highway === 'steps') {
+    L.circleMarker([sample.lat, sample.lon], { radius: 3, color: '#111', fillColor: '#f0c36a', fillOpacity: 0.9 }).addTo(map).bindPopup(`Steps${sample.path_name ? ': ' + sample.path_name : ''}`);
+  }
+}
+Plotly.newPlot('profile', [
+  { x: SAMPLES.map(s => s.cum_distance_km), y: SAMPLES.map(s => s.elevation_smooth_m), type: 'scatter', mode: 'lines', line: { color: '#265c42', width: 3 }, name: 'Elevation' },
+  { x: SAMPLES.map(s => s.cum_distance_km), y: SAMPLES.map(s => s.grade_smooth_pct), type: 'scatter', mode: 'lines', yaxis: 'y2', line: { color: '#b85c38', width: 1 }, name: 'Grade %' }
+], { margin: { t: 18, r: 42, b: 42, l: 48 }, xaxis: { title: 'km' }, yaxis: { title: 'm' }, yaxis2: { overlaying: 'y', side: 'right', title: '%' } });
+</script>
+</body>
+</html>
