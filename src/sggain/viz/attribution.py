@@ -61,6 +61,7 @@ def source_attribution_records(samples: list[dict[str, Any]]) -> dict[str, Any]:
 
 def _source_records_used(samples: list[dict[str, Any]]) -> list[dict[str, Any]]:
     grouped: dict[tuple[str, str], dict[str, Any]] = {}
+    samples_by_group: dict[tuple[str, str], list[dict[str, Any]]] = defaultdict(list)
     total_distance = _total_sample_distance(samples)
 
     for current, following in zip(samples, samples[1:], strict=False):
@@ -81,16 +82,25 @@ def _source_records_used(samples: list[dict[str, Any]]) -> list[dict[str, Any]]:
                 "source_confidence": _float(current.get("source_confidence"), 0.5),
                 "derived_edge_ids": [],
                 "attributes": _compact_attributes(current),
+                "latlon_bounds": {},
+                "elevation_summary": {},
+                "route_sample_points": [],
             },
         )
         record["distance_m"] += delta
+        samples_by_group[group_key].append(current)
+        samples_by_group[group_key].append(following)
         edge_id = current.get("edge_id") or current.get("undirected_edge_id")
         if edge_id and edge_id not in record["derived_edge_ids"]:
             record["derived_edge_ids"].append(edge_id)
 
-    for record in grouped.values():
+    for group_key, record in grouped.items():
+        group_samples = _dedupe_samples(samples_by_group[group_key])
         record["distance_m"] = round(record["distance_m"], 1)
         record["share_pct"] = round((record["distance_m"] / total_distance) * 100, 1) if total_distance > 0 else 0.0
+        record["latlon_bounds"] = _latlon_bounds(group_samples)
+        record["elevation_summary"] = _elevation_summary(group_samples)
+        record["route_sample_points"] = _representative_sample_points(group_samples)
 
     return sorted(grouped.values(), key=lambda item: (-item["distance_m"], item["source_primary"], item["source_feature_id"]))
 
@@ -142,6 +152,75 @@ def _total_sample_distance(samples: list[dict[str, Any]]) -> float:
     if len(samples) < 2:
         return 0.0
     return max(0.0, _float(samples[-1].get("cum_distance_m")) - _float(samples[0].get("cum_distance_m")))
+
+
+def _dedupe_samples(samples: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    seen: set[int] = set()
+    deduped: list[dict[str, Any]] = []
+    for sample in sorted(samples, key=lambda item: _float(item.get("sample_index"))):
+        index = int(_float(sample.get("sample_index"), -1))
+        if index in seen:
+            continue
+        seen.add(index)
+        deduped.append(sample)
+    return deduped
+
+
+def _latlon_bounds(samples: list[dict[str, Any]]) -> dict[str, float]:
+    lats = [_float(sample.get("lat")) for sample in samples if _present(sample.get("lat"))]
+    lons = [_float(sample.get("lon")) for sample in samples if _present(sample.get("lon"))]
+    if not lats or not lons:
+        return {}
+    return {
+        "min_lat": round(min(lats), 7),
+        "max_lat": round(max(lats), 7),
+        "min_lon": round(min(lons), 7),
+        "max_lon": round(max(lons), 7),
+    }
+
+
+def _elevation_summary(samples: list[dict[str, Any]]) -> dict[str, float]:
+    values = [_float(sample.get("elevation_smooth_m")) for sample in samples if _present(sample.get("elevation_smooth_m"))]
+    if not values:
+        return {}
+    return {
+        "start_smooth_m": round(values[0], 1),
+        "end_smooth_m": round(values[-1], 1),
+        "min_smooth_m": round(min(values), 1),
+        "max_smooth_m": round(max(values), 1),
+    }
+
+
+def _representative_sample_points(samples: list[dict[str, Any]], max_points: int = 6) -> list[dict[str, Any]]:
+    if not samples:
+        return []
+    if len(samples) <= max_points:
+        selected = samples
+    else:
+        indexes = sorted({round(i * (len(samples) - 1) / (max_points - 1)) for i in range(max_points)})
+        selected = [samples[index] for index in indexes]
+    return [_sample_point(sample) for sample in selected]
+
+
+def _sample_point(sample: dict[str, Any]) -> dict[str, Any]:
+    keys = [
+        "sample_index",
+        "lon",
+        "lat",
+        "cum_distance_m",
+        "cum_distance_km",
+        "elevation_raw_m",
+        "elevation_smooth_m",
+        "grade_smooth_pct",
+        "edge_id",
+    ]
+    point: dict[str, Any] = {}
+    for key in keys:
+        value = sample.get(key)
+        if not _present(value):
+            continue
+        point[key] = round(float(value), 7) if isinstance(value, float) else value
+    return point
 
 
 def _source_feature_id(sample: dict[str, Any]) -> str:

@@ -100,6 +100,12 @@ def test_steep_sections_and_html_rendering(tmp_path):
     assert "Source Records Used" in detail_html
     assert '"source_feature_id": "fixture-row-7"' in detail_html
     assert '"derived_edge_ids": [' in detail_html
+    assert '"latlon_bounds": {' in detail_html
+    assert '"elevation_summary": {' in detail_html
+    assert '"route_sample_points": [' in detail_html
+    assert '"lat":' in detail_html
+    assert '"lon":' in detail_html
+    assert '"elevation_smooth_m":' in detail_html
     assert "Source Diagnostics" not in detail_html
     assert "fetch('assets/" not in (tmp_path / "index.html").read_text()
     assert "ROUTE_GEOJSON" in (tmp_path / "index.html").read_text()
