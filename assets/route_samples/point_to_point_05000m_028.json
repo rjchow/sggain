@@ -17,10 +17,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -40,10 +42,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -63,10 +67,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -86,10 +92,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -109,10 +117,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -132,10 +142,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -155,10 +167,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -178,10 +192,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -201,10 +217,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -224,10 +242,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -247,10 +267,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -270,10 +292,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -293,10 +317,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -316,10 +342,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -339,10 +367,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -362,10 +392,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -385,10 +417,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -408,10 +442,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -431,10 +467,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -454,10 +492,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -477,10 +517,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -500,10 +542,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -523,10 +567,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -546,10 +592,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -569,10 +617,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -592,10 +642,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -615,10 +667,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -638,10 +692,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -661,10 +717,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -684,10 +742,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -707,10 +767,12 @@
     "undirected_edge_id": "nparks_tracks_002252",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2542",
+    "source_feature_id": "2495",
+    "source_row_index": "2542",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"Y\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Road Crossings\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"BA296DF0A8F900D3\", \"OBJECTID\": 2495, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 295.273752907458, \"TYPE\": \"Service Track/Road\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Service Track/Road"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -730,10 +792,12 @@
     "undirected_edge_id": "nparks_tracks_004114",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4196",
+    "source_feature_id": "2773",
+    "source_row_index": "4196",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"4BB2C21CA36CF6B8\", \"OBJECTID\": 2773, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 11.093835619099, \"TYPE\": \"Staircase\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Staircase"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -753,10 +817,12 @@
     "undirected_edge_id": "nparks_tracks_004114",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4196",
+    "source_feature_id": "2773",
+    "source_row_index": "4196",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"4BB2C21CA36CF6B8\", \"OBJECTID\": 2773, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 11.093835619099, \"TYPE\": \"Staircase\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Staircase"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -776,10 +842,12 @@
     "undirected_edge_id": "nparks_tracks_005335",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "5524",
+    "source_feature_id": "2720",
+    "source_row_index": "5524",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"1CFE0877680E6770\", \"OBJECTID\": 2720, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 184.930374550719, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -799,10 +867,12 @@
     "undirected_edge_id": "nparks_tracks_005335",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "5524",
+    "source_feature_id": "2720",
+    "source_row_index": "5524",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"1CFE0877680E6770\", \"OBJECTID\": 2720, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 184.930374550719, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -822,10 +892,12 @@
     "undirected_edge_id": "nparks_tracks_005335",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "5524",
+    "source_feature_id": "2720",
+    "source_row_index": "5524",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"1CFE0877680E6770\", \"OBJECTID\": 2720, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 184.930374550719, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -845,10 +917,12 @@
     "undirected_edge_id": "nparks_tracks_005335",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "5524",
+    "source_feature_id": "2720",
+    "source_row_index": "5524",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"1CFE0877680E6770\", \"OBJECTID\": 2720, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 184.930374550719, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -868,10 +942,12 @@
     "undirected_edge_id": "nparks_tracks_005335",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "5524",
+    "source_feature_id": "2720",
+    "source_row_index": "5524",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"1CFE0877680E6770\", \"OBJECTID\": 2720, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 184.930374550719, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -891,10 +967,12 @@
     "undirected_edge_id": "nparks_tracks_005335",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "5524",
+    "source_feature_id": "2720",
+    "source_row_index": "5524",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"1CFE0877680E6770\", \"OBJECTID\": 2720, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 184.930374550719, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -914,10 +992,12 @@
     "undirected_edge_id": "nparks_tracks_005335",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "5524",
+    "source_feature_id": "2720",
+    "source_row_index": "5524",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"1CFE0877680E6770\", \"OBJECTID\": 2720, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 184.930374550719, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -937,10 +1017,12 @@
     "undirected_edge_id": "nparks_tracks_005335",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "5524",
+    "source_feature_id": "2720",
+    "source_row_index": "5524",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"1CFE0877680E6770\", \"OBJECTID\": 2720, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 184.930374550719, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -960,10 +1042,12 @@
     "undirected_edge_id": "nparks_tracks_005335",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "5524",
+    "source_feature_id": "2720",
+    "source_row_index": "5524",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"1CFE0877680E6770\", \"OBJECTID\": 2720, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 184.930374550719, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -983,10 +1067,12 @@
     "undirected_edge_id": "nparks_tracks_005335",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "5524",
+    "source_feature_id": "2720",
+    "source_row_index": "5524",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"1CFE0877680E6770\", \"OBJECTID\": 2720, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 184.930374550719, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -1006,10 +1092,12 @@
     "undirected_edge_id": "nparks_tracks_005335",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "5524",
+    "source_feature_id": "2720",
+    "source_row_index": "5524",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"1CFE0877680E6770\", \"OBJECTID\": 2720, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 184.930374550719, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -1029,10 +1117,12 @@
     "undirected_edge_id": "nparks_tracks_005335",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "5524",
+    "source_feature_id": "2720",
+    "source_row_index": "5524",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"1CFE0877680E6770\", \"OBJECTID\": 2720, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 184.930374550719, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -1052,10 +1142,12 @@
     "undirected_edge_id": "nparks_tracks_005335",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "5524",
+    "source_feature_id": "2720",
+    "source_row_index": "5524",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"1CFE0877680E6770\", \"OBJECTID\": 2720, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 184.930374550719, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -1075,10 +1167,12 @@
     "undirected_edge_id": "nparks_tracks_005335",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "5524",
+    "source_feature_id": "2720",
+    "source_row_index": "5524",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"1CFE0877680E6770\", \"OBJECTID\": 2720, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 184.930374550719, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -1098,10 +1192,12 @@
     "undirected_edge_id": "nparks_tracks_005335",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "5524",
+    "source_feature_id": "2720",
+    "source_row_index": "5524",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"1CFE0877680E6770\", \"OBJECTID\": 2720, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 184.930374550719, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -1121,10 +1217,12 @@
     "undirected_edge_id": "nparks_tracks_005335",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "5524",
+    "source_feature_id": "2720",
+    "source_row_index": "5524",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"1CFE0877680E6770\", \"OBJECTID\": 2720, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 184.930374550719, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -1144,10 +1242,12 @@
     "undirected_edge_id": "nparks_tracks_005335",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "5524",
+    "source_feature_id": "2720",
+    "source_row_index": "5524",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"1CFE0877680E6770\", \"OBJECTID\": 2720, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 184.930374550719, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -1167,10 +1267,12 @@
     "undirected_edge_id": "nparks_tracks_005335",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "5524",
+    "source_feature_id": "2720",
+    "source_row_index": "5524",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"1CFE0877680E6770\", \"OBJECTID\": 2720, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 184.930374550719, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -1190,10 +1292,12 @@
     "undirected_edge_id": "nparks_tracks_005335",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "5524",
+    "source_feature_id": "2720",
+    "source_row_index": "5524",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"1CFE0877680E6770\", \"OBJECTID\": 2720, \"PARK\": \"PEARL'S HILL CITY PK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 184.930374550719, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "PEARL'S HILL CITY PK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_028",
@@ -1214,6 +1318,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "51223",
+    "source_row_index": "51223",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -1237,6 +1343,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "51223",
+    "source_row_index": "51223",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -1260,6 +1368,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "51223",
+    "source_row_index": "51223",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -1283,6 +1393,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "51223",
+    "source_row_index": "51223",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -1306,6 +1418,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "51223",
+    "source_row_index": "51223",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -1329,6 +1443,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "51223",
+    "source_row_index": "51223",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -1352,6 +1468,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "51223",
+    "source_row_index": "51223",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -1375,6 +1493,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "51223",
+    "source_row_index": "51223",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -1398,6 +1518,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "51223",
+    "source_row_index": "51223",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -1421,6 +1543,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "51223",
+    "source_row_index": "51223",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -1444,6 +1568,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "51223",
+    "source_row_index": "51223",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -1467,6 +1593,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "51223",
+    "source_row_index": "51223",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -1490,6 +1618,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "51223",
+    "source_row_index": "51223",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -1513,6 +1643,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "51223",
+    "source_row_index": "51223",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -1536,6 +1668,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "51223",
+    "source_row_index": "51223",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -1559,6 +1693,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "51223",
+    "source_row_index": "51223",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -1582,6 +1718,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "51223",
+    "source_row_index": "51223",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -1605,6 +1743,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "51223",
+    "source_row_index": "51223",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -1628,6 +1768,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "51223",
+    "source_row_index": "51223",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null

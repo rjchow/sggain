@@ -18,6 +18,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "183893",
+    "source_row_index": "183893",
+    "source_raw_properties_json": "{\"highway\": \"steps\", \"name\": \"Summit Path\"}",
     "highway": "steps",
     "path_name": "Summit Path",
     "trail_type": null
@@ -41,6 +43,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "183893",
+    "source_row_index": "183893",
+    "source_raw_properties_json": "{\"highway\": \"steps\", \"name\": \"Summit Path\"}",
     "highway": "steps",
     "path_name": "Summit Path",
     "trail_type": null
@@ -64,6 +68,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "183893",
+    "source_row_index": "183893",
+    "source_raw_properties_json": "{\"highway\": \"steps\", \"name\": \"Summit Path\"}",
     "highway": "steps",
     "path_name": "Summit Path",
     "trail_type": null
@@ -87,6 +93,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "183893",
+    "source_row_index": "183893",
+    "source_raw_properties_json": "{\"highway\": \"steps\", \"name\": \"Summit Path\"}",
     "highway": "steps",
     "path_name": "Summit Path",
     "trail_type": null
@@ -110,6 +118,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "183893",
+    "source_row_index": "183893",
+    "source_raw_properties_json": "{\"highway\": \"steps\", \"name\": \"Summit Path\"}",
     "highway": "steps",
     "path_name": "Summit Path",
     "trail_type": null
@@ -132,10 +142,12 @@
     "undirected_edge_id": "nparks_tracks_013589",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14404",
+    "source_feature_id": "12159",
+    "source_row_index": "14404",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"6057C74B70D43EC1\", \"OBJECTID\": 12159, \"PARK\": \"BUKIT TIMAH\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 160.836182170817, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "BUKIT TIMAH",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "loop_05000m_001",
@@ -155,10 +167,12 @@
     "undirected_edge_id": "nparks_tracks_013589",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14404",
+    "source_feature_id": "12159",
+    "source_row_index": "14404",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"6057C74B70D43EC1\", \"OBJECTID\": 12159, \"PARK\": \"BUKIT TIMAH\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 160.836182170817, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "BUKIT TIMAH",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "loop_05000m_001",
@@ -178,10 +192,12 @@
     "undirected_edge_id": "nparks_tracks_013589",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14404",
+    "source_feature_id": "12159",
+    "source_row_index": "14404",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"6057C74B70D43EC1\", \"OBJECTID\": 12159, \"PARK\": \"BUKIT TIMAH\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 160.836182170817, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "BUKIT TIMAH",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "loop_05000m_001",
@@ -201,10 +217,12 @@
     "undirected_edge_id": "nparks_tracks_013589",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14404",
+    "source_feature_id": "12159",
+    "source_row_index": "14404",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"6057C74B70D43EC1\", \"OBJECTID\": 12159, \"PARK\": \"BUKIT TIMAH\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 160.836182170817, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "BUKIT TIMAH",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "loop_05000m_001",
@@ -224,10 +242,12 @@
     "undirected_edge_id": "nparks_tracks_013589",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14404",
+    "source_feature_id": "12159",
+    "source_row_index": "14404",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"6057C74B70D43EC1\", \"OBJECTID\": 12159, \"PARK\": \"BUKIT TIMAH\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 160.836182170817, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "BUKIT TIMAH",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "loop_05000m_001",
@@ -247,10 +267,12 @@
     "undirected_edge_id": "nparks_tracks_013589",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14404",
+    "source_feature_id": "12159",
+    "source_row_index": "14404",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"6057C74B70D43EC1\", \"OBJECTID\": 12159, \"PARK\": \"BUKIT TIMAH\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 160.836182170817, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "BUKIT TIMAH",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "loop_05000m_001",
@@ -270,10 +292,12 @@
     "undirected_edge_id": "nparks_tracks_013589",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14404",
+    "source_feature_id": "12159",
+    "source_row_index": "14404",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"6057C74B70D43EC1\", \"OBJECTID\": 12159, \"PARK\": \"BUKIT TIMAH\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 160.836182170817, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "BUKIT TIMAH",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "loop_05000m_001",
@@ -293,10 +317,12 @@
     "undirected_edge_id": "nparks_tracks_013589",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14404",
+    "source_feature_id": "12159",
+    "source_row_index": "14404",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"6057C74B70D43EC1\", \"OBJECTID\": 12159, \"PARK\": \"BUKIT TIMAH\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 160.836182170817, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "BUKIT TIMAH",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "loop_05000m_001",
@@ -316,10 +342,12 @@
     "undirected_edge_id": "nparks_tracks_013589",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14404",
+    "source_feature_id": "12159",
+    "source_row_index": "14404",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"6057C74B70D43EC1\", \"OBJECTID\": 12159, \"PARK\": \"BUKIT TIMAH\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 160.836182170817, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "BUKIT TIMAH",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "loop_05000m_001",
@@ -339,10 +367,12 @@
     "undirected_edge_id": "nparks_tracks_013589",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14404",
+    "source_feature_id": "12159",
+    "source_row_index": "14404",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"6057C74B70D43EC1\", \"OBJECTID\": 12159, \"PARK\": \"BUKIT TIMAH\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 160.836182170817, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "BUKIT TIMAH",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "loop_05000m_001",
@@ -362,10 +392,12 @@
     "undirected_edge_id": "nparks_tracks_013589",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14404",
+    "source_feature_id": "12159",
+    "source_row_index": "14404",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"6057C74B70D43EC1\", \"OBJECTID\": 12159, \"PARK\": \"BUKIT TIMAH\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 160.836182170817, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "BUKIT TIMAH",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "loop_05000m_001",
@@ -385,10 +417,12 @@
     "undirected_edge_id": "nparks_tracks_013589",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14404",
+    "source_feature_id": "12159",
+    "source_row_index": "14404",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"6057C74B70D43EC1\", \"OBJECTID\": 12159, \"PARK\": \"BUKIT TIMAH\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 160.836182170817, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "BUKIT TIMAH",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "loop_05000m_001",
@@ -408,10 +442,12 @@
     "undirected_edge_id": "nparks_tracks_013589",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14404",
+    "source_feature_id": "12159",
+    "source_row_index": "14404",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"6057C74B70D43EC1\", \"OBJECTID\": 12159, \"PARK\": \"BUKIT TIMAH\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 160.836182170817, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "BUKIT TIMAH",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "loop_05000m_001",
@@ -431,10 +467,12 @@
     "undirected_edge_id": "nparks_tracks_013589",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14404",
+    "source_feature_id": "12159",
+    "source_row_index": "14404",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"6057C74B70D43EC1\", \"OBJECTID\": 12159, \"PARK\": \"BUKIT TIMAH\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 160.836182170817, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "BUKIT TIMAH",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "loop_05000m_001",
@@ -454,10 +492,12 @@
     "undirected_edge_id": "nparks_tracks_013589",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14404",
+    "source_feature_id": "12159",
+    "source_row_index": "14404",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"6057C74B70D43EC1\", \"OBJECTID\": 12159, \"PARK\": \"BUKIT TIMAH\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 160.836182170817, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "BUKIT TIMAH",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "loop_05000m_001",
@@ -477,10 +517,12 @@
     "undirected_edge_id": "nparks_tracks_013589",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14404",
+    "source_feature_id": "12159",
+    "source_row_index": "14404",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"6057C74B70D43EC1\", \"OBJECTID\": 12159, \"PARK\": \"BUKIT TIMAH\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 160.836182170817, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "BUKIT TIMAH",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "loop_05000m_001",
@@ -500,10 +542,12 @@
     "undirected_edge_id": "nparks_tracks_013589",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14404",
+    "source_feature_id": "12159",
+    "source_row_index": "14404",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"6057C74B70D43EC1\", \"OBJECTID\": 12159, \"PARK\": \"BUKIT TIMAH\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 160.836182170817, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "BUKIT TIMAH",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "loop_05000m_001",
@@ -524,6 +568,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "71121",
+    "source_row_index": "71121",
+    "source_raw_properties_json": "{\"highway\": \"footway\", \"name\": \"Summit Path\"}",
     "highway": "footway",
     "path_name": "Summit Path",
     "trail_type": null
@@ -547,6 +593,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "71121",
+    "source_row_index": "71121",
+    "source_raw_properties_json": "{\"highway\": \"footway\", \"name\": \"Summit Path\"}",
     "highway": "footway",
     "path_name": "Summit Path",
     "trail_type": null
@@ -570,6 +618,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "71121",
+    "source_row_index": "71121",
+    "source_raw_properties_json": "{\"highway\": \"footway\", \"name\": \"Summit Path\"}",
     "highway": "footway",
     "path_name": "Summit Path",
     "trail_type": null
@@ -593,6 +643,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "71121",
+    "source_row_index": "71121",
+    "source_raw_properties_json": "{\"highway\": \"footway\", \"name\": \"Summit Path\"}",
     "highway": "footway",
     "path_name": "Summit Path",
     "trail_type": null
@@ -616,6 +668,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "71121",
+    "source_row_index": "71121",
+    "source_raw_properties_json": "{\"highway\": \"footway\", \"name\": \"Summit Path\"}",
     "highway": "footway",
     "path_name": "Summit Path",
     "trail_type": null
@@ -639,6 +693,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "71121",
+    "source_row_index": "71121",
+    "source_raw_properties_json": "{\"highway\": \"footway\", \"name\": \"Summit Path\"}",
     "highway": "footway",
     "path_name": "Summit Path",
     "trail_type": null
@@ -662,6 +718,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "71121",
+    "source_row_index": "71121",
+    "source_raw_properties_json": "{\"highway\": \"footway\", \"name\": \"Summit Path\"}",
     "highway": "footway",
     "path_name": "Summit Path",
     "trail_type": null
@@ -685,6 +743,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "71121",
+    "source_row_index": "71121",
+    "source_raw_properties_json": "{\"highway\": \"footway\", \"name\": \"Summit Path\"}",
     "highway": "footway",
     "path_name": "Summit Path",
     "trail_type": null
@@ -708,6 +768,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "71121",
+    "source_row_index": "71121",
+    "source_raw_properties_json": "{\"highway\": \"footway\", \"name\": \"Summit Path\"}",
     "highway": "footway",
     "path_name": "Summit Path",
     "trail_type": null
@@ -731,6 +793,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "183894",
+    "source_row_index": "183894",
+    "source_raw_properties_json": "{\"highway\": \"steps\", \"name\": \"Summit Path\"}",
     "highway": "steps",
     "path_name": "Summit Path",
     "trail_type": null
@@ -754,6 +818,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "183894",
+    "source_row_index": "183894",
+    "source_raw_properties_json": "{\"highway\": \"steps\", \"name\": \"Summit Path\"}",
     "highway": "steps",
     "path_name": "Summit Path",
     "trail_type": null
@@ -777,6 +843,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "183894",
+    "source_row_index": "183894",
+    "source_raw_properties_json": "{\"highway\": \"steps\", \"name\": \"Summit Path\"}",
     "highway": "steps",
     "path_name": "Summit Path",
     "trail_type": null
@@ -800,6 +868,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "183894",
+    "source_row_index": "183894",
+    "source_raw_properties_json": "{\"highway\": \"steps\", \"name\": \"Summit Path\"}",
     "highway": "steps",
     "path_name": "Summit Path",
     "trail_type": null

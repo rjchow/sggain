@@ -17,10 +17,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -40,10 +42,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -63,10 +67,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -86,10 +92,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -109,10 +117,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -132,10 +142,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -155,10 +167,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -178,10 +192,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -201,10 +217,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -224,10 +242,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -247,10 +267,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -270,10 +292,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -293,10 +317,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -316,10 +342,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -339,10 +367,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -362,10 +392,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -385,10 +417,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -408,10 +442,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -431,10 +467,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -454,10 +492,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -477,10 +517,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -500,10 +542,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -523,10 +567,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -546,10 +592,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -569,10 +617,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -592,10 +642,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -615,10 +667,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -638,10 +692,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -661,10 +717,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -684,10 +742,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -707,10 +767,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -730,10 +792,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -753,10 +817,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -776,10 +842,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -799,10 +867,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -822,10 +892,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -845,10 +917,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -868,10 +942,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -891,10 +967,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -914,10 +992,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -937,10 +1017,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -960,10 +1042,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -983,10 +1067,12 @@
     "undirected_edge_id": "nparks_tracks_001848",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "2004",
+    "source_feature_id": "2079",
+    "source_row_index": "2004",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103209\", \"INC_CRC\": \"F98B989D252E616C\", \"OBJECTID\": 2079, \"PARK\": \"FORT CANNING PARK\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 412.951395257056, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "FORT CANNING PARK",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "point_to_point_05000m_037",
@@ -1007,6 +1093,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "99800",
+    "source_row_index": "99800",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\", \"name\": \"Lewin Terrace\"}",
     "highway": "pedestrian",
     "path_name": "Lewin Terrace",
     "trail_type": null
@@ -1030,6 +1118,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "99800",
+    "source_row_index": "99800",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\", \"name\": \"Lewin Terrace\"}",
     "highway": "pedestrian",
     "path_name": "Lewin Terrace",
     "trail_type": null
@@ -1053,6 +1143,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "99800",
+    "source_row_index": "99800",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\", \"name\": \"Lewin Terrace\"}",
     "highway": "pedestrian",
     "path_name": "Lewin Terrace",
     "trail_type": null
@@ -1076,6 +1168,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "99800",
+    "source_row_index": "99800",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\", \"name\": \"Lewin Terrace\"}",
     "highway": "pedestrian",
     "path_name": "Lewin Terrace",
     "trail_type": null
@@ -1099,6 +1193,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "99800",
+    "source_row_index": "99800",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\", \"name\": \"Lewin Terrace\"}",
     "highway": "pedestrian",
     "path_name": "Lewin Terrace",
     "trail_type": null
@@ -1122,6 +1218,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "99800",
+    "source_row_index": "99800",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\", \"name\": \"Lewin Terrace\"}",
     "highway": "pedestrian",
     "path_name": "Lewin Terrace",
     "trail_type": null
@@ -1145,6 +1243,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "75127",
+    "source_row_index": "75127",
+    "source_raw_properties_json": "{\"highway\": \"footway\", \"name\": \"14th Century Walk\"}",
     "highway": "footway",
     "path_name": "14th Century Walk",
     "trail_type": null
@@ -1168,6 +1268,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "75127",
+    "source_row_index": "75127",
+    "source_raw_properties_json": "{\"highway\": \"footway\", \"name\": \"14th Century Walk\"}",
     "highway": "footway",
     "path_name": "14th Century Walk",
     "trail_type": null
@@ -1191,6 +1293,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "75127",
+    "source_row_index": "75127",
+    "source_raw_properties_json": "{\"highway\": \"footway\", \"name\": \"14th Century Walk\"}",
     "highway": "footway",
     "path_name": "14th Century Walk",
     "trail_type": null
@@ -1214,6 +1318,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "75127",
+    "source_row_index": "75127",
+    "source_raw_properties_json": "{\"highway\": \"footway\", \"name\": \"14th Century Walk\"}",
     "highway": "footway",
     "path_name": "14th Century Walk",
     "trail_type": null
@@ -1237,6 +1343,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "75127",
+    "source_row_index": "75127",
+    "source_raw_properties_json": "{\"highway\": \"footway\", \"name\": \"14th Century Walk\"}",
     "highway": "footway",
     "path_name": "14th Century Walk",
     "trail_type": null
@@ -1260,6 +1368,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "75127",
+    "source_row_index": "75127",
+    "source_raw_properties_json": "{\"highway\": \"footway\", \"name\": \"14th Century Walk\"}",
     "highway": "footway",
     "path_name": "14th Century Walk",
     "trail_type": null
@@ -1283,6 +1393,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "75127",
+    "source_row_index": "75127",
+    "source_raw_properties_json": "{\"highway\": \"footway\", \"name\": \"14th Century Walk\"}",
     "highway": "footway",
     "path_name": "14th Century Walk",
     "trail_type": null
@@ -1306,6 +1418,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "75127",
+    "source_row_index": "75127",
+    "source_raw_properties_json": "{\"highway\": \"footway\", \"name\": \"14th Century Walk\"}",
     "highway": "footway",
     "path_name": "14th Century Walk",
     "trail_type": null
@@ -1329,6 +1443,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "75127",
+    "source_row_index": "75127",
+    "source_raw_properties_json": "{\"highway\": \"footway\", \"name\": \"14th Century Walk\"}",
     "highway": "footway",
     "path_name": "14th Century Walk",
     "trail_type": null
@@ -1352,6 +1468,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "75127",
+    "source_row_index": "75127",
+    "source_raw_properties_json": "{\"highway\": \"footway\", \"name\": \"14th Century Walk\"}",
     "highway": "footway",
     "path_name": "14th Century Walk",
     "trail_type": null
@@ -1375,6 +1493,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "75126",
+    "source_row_index": "75126",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -1398,6 +1518,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "75126",
+    "source_row_index": "75126",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -1421,6 +1543,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "75126",
+    "source_row_index": "75126",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -1444,6 +1568,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "75126",
+    "source_row_index": "75126",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -1467,6 +1593,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "75126",
+    "source_row_index": "75126",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -1490,6 +1618,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "75126",
+    "source_row_index": "75126",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -1513,6 +1643,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "75126",
+    "source_row_index": "75126",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -1536,6 +1668,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "40423",
+    "source_row_index": "40423",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\"}",
     "highway": "pedestrian",
     "path_name": null,
     "trail_type": null
@@ -1559,6 +1693,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "40423",
+    "source_row_index": "40423",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\"}",
     "highway": "pedestrian",
     "path_name": null,
     "trail_type": null
@@ -1582,6 +1718,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "40423",
+    "source_row_index": "40423",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\"}",
     "highway": "pedestrian",
     "path_name": null,
     "trail_type": null
@@ -1605,6 +1743,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "40423",
+    "source_row_index": "40423",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\"}",
     "highway": "pedestrian",
     "path_name": null,
     "trail_type": null
@@ -1628,6 +1768,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "40423",
+    "source_row_index": "40423",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\"}",
     "highway": "pedestrian",
     "path_name": null,
     "trail_type": null
@@ -1651,6 +1793,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "40423",
+    "source_row_index": "40423",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\"}",
     "highway": "pedestrian",
     "path_name": null,
     "trail_type": null
@@ -1674,6 +1818,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "40423",
+    "source_row_index": "40423",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\"}",
     "highway": "pedestrian",
     "path_name": null,
     "trail_type": null
@@ -1697,6 +1843,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "40423",
+    "source_row_index": "40423",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\"}",
     "highway": "pedestrian",
     "path_name": null,
     "trail_type": null
@@ -1720,6 +1868,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "40423",
+    "source_row_index": "40423",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\"}",
     "highway": "pedestrian",
     "path_name": null,
     "trail_type": null
@@ -1743,6 +1893,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "40423",
+    "source_row_index": "40423",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\"}",
     "highway": "pedestrian",
     "path_name": null,
     "trail_type": null
@@ -1766,6 +1918,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "40423",
+    "source_row_index": "40423",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\"}",
     "highway": "pedestrian",
     "path_name": null,
     "trail_type": null
@@ -1789,6 +1943,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "40423",
+    "source_row_index": "40423",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\"}",
     "highway": "pedestrian",
     "path_name": null,
     "trail_type": null
@@ -1812,6 +1968,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "40423",
+    "source_row_index": "40423",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\"}",
     "highway": "pedestrian",
     "path_name": null,
     "trail_type": null
@@ -1835,6 +1993,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "40423",
+    "source_row_index": "40423",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\"}",
     "highway": "pedestrian",
     "path_name": null,
     "trail_type": null
@@ -1858,6 +2018,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "40423",
+    "source_row_index": "40423",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\"}",
     "highway": "pedestrian",
     "path_name": null,
     "trail_type": null
@@ -1881,6 +2043,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "40423",
+    "source_row_index": "40423",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\"}",
     "highway": "pedestrian",
     "path_name": null,
     "trail_type": null
@@ -1904,6 +2068,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "40423",
+    "source_row_index": "40423",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\"}",
     "highway": "pedestrian",
     "path_name": null,
     "trail_type": null
@@ -1927,6 +2093,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "40423",
+    "source_row_index": "40423",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\"}",
     "highway": "pedestrian",
     "path_name": null,
     "trail_type": null
@@ -1950,6 +2118,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "40423",
+    "source_row_index": "40423",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\"}",
     "highway": "pedestrian",
     "path_name": null,
     "trail_type": null
@@ -1973,6 +2143,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "40423",
+    "source_row_index": "40423",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\"}",
     "highway": "pedestrian",
     "path_name": null,
     "trail_type": null
@@ -1996,6 +2168,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "40423",
+    "source_row_index": "40423",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\"}",
     "highway": "pedestrian",
     "path_name": null,
     "trail_type": null
@@ -2019,6 +2193,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "40423",
+    "source_row_index": "40423",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\"}",
     "highway": "pedestrian",
     "path_name": null,
     "trail_type": null
@@ -2042,6 +2218,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "40423",
+    "source_row_index": "40423",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\"}",
     "highway": "pedestrian",
     "path_name": null,
     "trail_type": null
@@ -2065,6 +2243,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "40423",
+    "source_row_index": "40423",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\"}",
     "highway": "pedestrian",
     "path_name": null,
     "trail_type": null
@@ -2088,6 +2268,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "40423",
+    "source_row_index": "40423",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\"}",
     "highway": "pedestrian",
     "path_name": null,
     "trail_type": null
@@ -2111,6 +2293,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "40423",
+    "source_row_index": "40423",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\"}",
     "highway": "pedestrian",
     "path_name": null,
     "trail_type": null
@@ -2134,6 +2318,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "40423",
+    "source_row_index": "40423",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\"}",
     "highway": "pedestrian",
     "path_name": null,
     "trail_type": null
@@ -2157,6 +2343,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "40423",
+    "source_row_index": "40423",
+    "source_raw_properties_json": "{\"highway\": \"pedestrian\"}",
     "highway": "pedestrian",
     "path_name": null,
     "trail_type": null

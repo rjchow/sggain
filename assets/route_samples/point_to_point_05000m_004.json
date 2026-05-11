@@ -17,10 +17,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -40,10 +42,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -63,10 +67,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -86,10 +92,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -109,10 +117,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -132,10 +142,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -155,10 +167,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -178,10 +192,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -201,10 +217,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -224,10 +242,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -247,10 +267,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -270,10 +292,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -293,10 +317,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -316,10 +342,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -339,10 +367,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -362,10 +392,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -385,10 +417,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -408,10 +442,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -431,10 +467,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -454,10 +492,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -477,10 +517,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -500,10 +542,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -523,10 +567,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -546,10 +592,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -569,10 +617,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -592,10 +642,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -615,10 +667,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -638,10 +692,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -661,10 +717,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -684,10 +742,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -707,10 +767,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -730,10 +792,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -753,10 +817,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -776,10 +842,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -799,10 +867,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -822,10 +892,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -845,10 +917,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -868,10 +942,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -891,10 +967,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -914,10 +992,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -937,10 +1017,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -960,10 +1042,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -983,10 +1067,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1006,10 +1092,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1029,10 +1117,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1052,10 +1142,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1075,10 +1167,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1098,10 +1192,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1121,10 +1217,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1144,10 +1242,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1167,10 +1267,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1190,10 +1292,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1213,10 +1317,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1236,10 +1342,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1259,10 +1367,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1282,10 +1392,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1305,10 +1417,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1328,10 +1442,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1351,10 +1467,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1374,10 +1492,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1397,10 +1517,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1420,10 +1542,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1443,10 +1567,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1466,10 +1592,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1489,10 +1617,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1512,10 +1642,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1535,10 +1667,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1558,10 +1692,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1581,10 +1717,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1604,10 +1742,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1627,10 +1767,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1650,10 +1792,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1673,10 +1817,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1696,10 +1842,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1719,10 +1867,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1742,10 +1892,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1765,10 +1917,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1788,10 +1942,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1811,10 +1967,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1834,10 +1992,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1857,10 +2017,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1880,10 +2042,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1903,10 +2067,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1926,10 +2092,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1949,10 +2117,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1972,10 +2142,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -1995,10 +2167,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2018,10 +2192,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2041,10 +2217,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2064,10 +2242,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2087,10 +2267,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2110,10 +2292,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2133,10 +2317,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2156,10 +2342,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2179,10 +2367,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2202,10 +2392,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2225,10 +2417,12 @@
     "undirected_edge_id": "nparks_tracks_013503",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14308",
+    "source_feature_id": "12144",
+    "source_row_index": "14308",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"35D0DAC4E78E4A9B\", \"OBJECTID\": 12144, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 955.125280279272, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2248,10 +2442,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2271,10 +2467,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2294,10 +2492,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2317,10 +2517,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2340,10 +2542,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2363,10 +2567,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2386,10 +2592,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2409,10 +2617,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2432,10 +2642,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2455,10 +2667,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2478,10 +2692,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2501,10 +2717,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2524,10 +2742,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2547,10 +2767,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2570,10 +2792,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2593,10 +2817,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2616,10 +2842,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2639,10 +2867,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2662,10 +2892,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2685,10 +2917,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2708,10 +2942,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2731,10 +2967,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2754,10 +2992,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2777,10 +3017,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2800,10 +3042,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2823,10 +3067,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2846,10 +3092,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2869,10 +3117,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2892,10 +3142,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2915,10 +3167,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2938,10 +3192,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2961,10 +3217,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -2984,10 +3242,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3007,10 +3267,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3030,10 +3292,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3053,10 +3317,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3076,10 +3342,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3099,10 +3367,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3122,10 +3392,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3145,10 +3417,12 @@
     "undirected_edge_id": "central_nature_reserve_000410",
     "source_primary": "central_nature_reserve",
     "source_confidence": 0.95,
-    "source_feature_id": "360",
+    "source_feature_id": "57420",
+    "source_row_index": "360",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250131141838\", \"INC_CRC\": \"2864AC34E8F72E7A\", \"OBJECTID\": 57420, \"SHAPE.LEN\": 397.155965832936, \"TRAIL_NAME\": \"HSBC Tree Top Walk\", \"TRAIL_TYPE\": 26}",
     "highway": null,
-    "path_name": null,
-    "trail_type": 26.0
+    "path_name": "HSBC Tree Top Walk",
+    "trail_type": "26"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3168,10 +3442,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3191,10 +3467,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3214,10 +3492,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3237,10 +3517,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3260,10 +3542,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3283,10 +3567,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3306,10 +3592,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3329,10 +3617,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3352,10 +3642,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3375,10 +3667,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3398,10 +3692,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3421,10 +3717,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3444,10 +3742,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3467,10 +3767,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3490,10 +3792,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3513,10 +3817,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3536,10 +3842,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3559,10 +3867,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3582,10 +3892,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3605,10 +3917,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3628,10 +3942,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3651,10 +3967,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3674,10 +3992,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3697,10 +4017,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3720,10 +4042,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3743,10 +4067,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3766,10 +4092,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3789,10 +4117,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3812,10 +4142,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3835,10 +4167,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3858,10 +4192,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3881,10 +4217,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3904,10 +4242,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3927,10 +4267,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3950,10 +4292,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3973,10 +4317,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -3996,10 +4342,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -4019,10 +4367,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -4042,10 +4392,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -4065,10 +4417,12 @@
     "undirected_edge_id": "nparks_tracks_013504",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "14309",
+    "source_feature_id": "12145",
+    "source_row_index": "14309",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"N\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"N\", \"AMA_CATEGORY\": \"Walkers Only (Wheeling not possible)\", \"FMEL_UPD_D\": \"20250827103213\", \"INC_CRC\": \"2864AC34C039801E\", \"OBJECTID\": 12145, \"PARK\": \"MACRITCHIE\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 397.155965832936, \"TYPE\": \"Boardwalk/Trail\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "MACRITCHIE",
+    "trail_type": "Boardwalk/Trail"
   },
   {
     "route_id": "point_to_point_05000m_004",
@@ -4089,6 +4443,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7634",
+    "source_row_index": "7634",
+    "source_raw_properties_json": "{\"highway\": \"steps\", \"name\": \"HSBC Treetop Walk\"}",
     "highway": "steps",
     "path_name": "HSBC Treetop Walk",
     "trail_type": null
@@ -4112,6 +4468,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7634",
+    "source_row_index": "7634",
+    "source_raw_properties_json": "{\"highway\": \"steps\", \"name\": \"HSBC Treetop Walk\"}",
     "highway": "steps",
     "path_name": "HSBC Treetop Walk",
     "trail_type": null
@@ -4135,6 +4493,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7634",
+    "source_row_index": "7634",
+    "source_raw_properties_json": "{\"highway\": \"steps\", \"name\": \"HSBC Treetop Walk\"}",
     "highway": "steps",
     "path_name": "HSBC Treetop Walk",
     "trail_type": null
@@ -4158,6 +4518,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7634",
+    "source_row_index": "7634",
+    "source_raw_properties_json": "{\"highway\": \"steps\", \"name\": \"HSBC Treetop Walk\"}",
     "highway": "steps",
     "path_name": "HSBC Treetop Walk",
     "trail_type": null
@@ -4181,6 +4543,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7634",
+    "source_row_index": "7634",
+    "source_raw_properties_json": "{\"highway\": \"steps\", \"name\": \"HSBC Treetop Walk\"}",
     "highway": "steps",
     "path_name": "HSBC Treetop Walk",
     "trail_type": null
@@ -4204,6 +4568,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7634",
+    "source_row_index": "7634",
+    "source_raw_properties_json": "{\"highway\": \"steps\", \"name\": \"HSBC Treetop Walk\"}",
     "highway": "steps",
     "path_name": "HSBC Treetop Walk",
     "trail_type": null
@@ -4227,6 +4593,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7634",
+    "source_row_index": "7634",
+    "source_raw_properties_json": "{\"highway\": \"steps\", \"name\": \"HSBC Treetop Walk\"}",
     "highway": "steps",
     "path_name": "HSBC Treetop Walk",
     "trail_type": null
@@ -4250,6 +4618,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7634",
+    "source_row_index": "7634",
+    "source_raw_properties_json": "{\"highway\": \"steps\", \"name\": \"HSBC Treetop Walk\"}",
     "highway": "steps",
     "path_name": "HSBC Treetop Walk",
     "trail_type": null
@@ -4273,6 +4643,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7634",
+    "source_row_index": "7634",
+    "source_raw_properties_json": "{\"highway\": \"steps\", \"name\": \"HSBC Treetop Walk\"}",
     "highway": "steps",
     "path_name": "HSBC Treetop Walk",
     "trail_type": null
@@ -4296,6 +4668,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7634",
+    "source_row_index": "7634",
+    "source_raw_properties_json": "{\"highway\": \"steps\", \"name\": \"HSBC Treetop Walk\"}",
     "highway": "steps",
     "path_name": "HSBC Treetop Walk",
     "trail_type": null
@@ -4319,6 +4693,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7634",
+    "source_row_index": "7634",
+    "source_raw_properties_json": "{\"highway\": \"steps\", \"name\": \"HSBC Treetop Walk\"}",
     "highway": "steps",
     "path_name": "HSBC Treetop Walk",
     "trail_type": null
@@ -4342,6 +4718,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7634",
+    "source_row_index": "7634",
+    "source_raw_properties_json": "{\"highway\": \"steps\", \"name\": \"HSBC Treetop Walk\"}",
     "highway": "steps",
     "path_name": "HSBC Treetop Walk",
     "trail_type": null
@@ -4365,6 +4743,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7634",
+    "source_row_index": "7634",
+    "source_raw_properties_json": "{\"highway\": \"steps\", \"name\": \"HSBC Treetop Walk\"}",
     "highway": "steps",
     "path_name": "HSBC Treetop Walk",
     "trail_type": null
@@ -4388,6 +4768,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -4411,6 +4793,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -4434,6 +4818,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -4457,6 +4843,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -4480,6 +4868,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -4503,6 +4893,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -4526,6 +4918,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -4549,6 +4943,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -4572,6 +4968,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -4595,6 +4993,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -4618,6 +5018,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -4641,6 +5043,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -4664,6 +5068,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -4687,6 +5093,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -4710,6 +5118,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -4733,6 +5143,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -4756,6 +5168,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -4779,6 +5193,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -4802,6 +5218,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -4825,6 +5243,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -4848,6 +5268,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -4871,6 +5293,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -4894,6 +5318,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -4917,6 +5343,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -4940,6 +5368,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -4963,6 +5393,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -4986,6 +5418,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -5009,6 +5443,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -5032,6 +5468,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -5055,6 +5493,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null
@@ -5078,6 +5518,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "7640",
+    "source_row_index": "7640",
+    "source_raw_properties_json": "{\"highway\": \"path\", \"name\": \"Petaling Boardwalk\"}",
     "highway": "path",
     "path_name": "Petaling Boardwalk",
     "trail_type": null

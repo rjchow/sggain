@@ -3207,7 +3207,7 @@
         "gain_density_m_per_km": 49.95079610453615,
         "source_confidence": 0.9392857142857141,
         "warnings": [],
-        "display_name": "Bukit Timah Nature Reserve: South View Path - 5.57 km, 278 m gain"
+        "display_name": "Bukit Timah Nature Reserve: South View Path + Route 3 - 5.57 km, 278 m gain"
       }
     },
     {
@@ -5860,7 +5860,7 @@
         "gain_density_m_per_km": 59.64847265930115,
         "source_confidence": 0.9178571428571427,
         "warnings": [],
-        "display_name": "Bukit Timah Nature Reserve: South View Path - 4.36 km, 260 m gain"
+        "display_name": "Bukit Timah Nature Reserve: South View Path + Route 3 - 4.36 km, 260 m gain"
       }
     },
     {
@@ -8333,7 +8333,7 @@
         "gain_density_m_per_km": 47.230592517191674,
         "source_confidence": 0.9277777777777777,
         "warnings": [],
-        "display_name": "Bukit Timah Nature Reserve: Cave Path - 4.01 km, 190 m gain"
+        "display_name": "Bukit Timah Nature Reserve: Cave Path + Route 3 - 4.01 km, 190 m gain"
       }
     },
     {
@@ -9214,7 +9214,7 @@
         "gain_density_m_per_km": 24.32266340248771,
         "source_confidence": 0.8666666666666667,
         "warnings": [],
-        "display_name": "Dairy Farm Nature Park route - 5.07 km, 123 m gain"
+        "display_name": "Dairy Farm Nature Park: MANDAI + Gangsa Track 15 - 5.07 km, 123 m gain"
       }
     },
     {
@@ -9607,7 +9607,7 @@
         "gain_density_m_per_km": 48.59643632116132,
         "source_confidence": 0.85,
         "warnings": [],
-        "display_name": "MacRitchie: HSBC Treetop Walk + Petaling Boardwalk - 2.18 km, 106 m gain"
+        "display_name": "MacRitchie: MACRITCHIE + HSBC Tree Top Walk - 2.18 km, 106 m gain"
       }
     },
     {
@@ -10096,7 +10096,7 @@
         "gain_density_m_per_km": 39.14928890855501,
         "source_confidence": 0.9750000000000001,
         "warnings": [],
-        "display_name": "MacRitchie loop - 2.70 km, 106 m gain"
+        "display_name": "MacRitchie: MACRITCHIE + HSBC Tree Top Walk - 2.70 km, 106 m gain"
       }
     },
     {
@@ -10813,7 +10813,7 @@
         "gain_density_m_per_km": 20.825088853735586,
         "source_confidence": 0.9875,
         "warnings": [],
-        "display_name": "Dairy Farm Nature Park route - 4.70 km, 98 m gain"
+        "display_name": "Dairy Farm Nature Park: MANDAI + Gangsa Track 15 - 4.70 km, 98 m gain"
       }
     },
     {
@@ -11398,7 +11398,7 @@
         "gain_density_m_per_km": 24.207918654423803,
         "source_confidence": 0.975,
         "warnings": [],
-        "display_name": "Dairy Farm Nature Park loop - 3.73 km, 90 m gain"
+        "display_name": "Dairy Farm Nature Park: Gangsa Track 15 + MANDAI - 3.73 km, 90 m gain"
       }
     },
     {
@@ -13556,7 +13556,7 @@
         "gain_density_m_per_km": 9.07511783415493,
         "source_confidence": 0.8666666666666666,
         "warnings": [],
-        "display_name": "MacRitchie: MacRitchie Nature Trail - 9.33 km, 85 m gain"
+        "display_name": "MacRitchie: MACRITCHIE + MacRitchie Nature Trail - 9.33 km, 85 m gain"
       }
     },
     {
@@ -17932,7 +17932,7 @@
         "gain_density_m_per_km": 8.952331115769475,
         "source_confidence": 0.85,
         "warnings": [],
-        "display_name": "Changi route - 7.35 km, 66 m gain"
+        "display_name": "Changi: Loyang Park Connector + Pasir Ris PC - 7.35 km, 66 m gain"
       }
     },
     {
@@ -18374,7 +18374,7 @@
         "gain_density_m_per_km": 133.84897891594375,
         "source_confidence": 0.78,
         "warnings": [],
-        "display_name": "Bukit Timah Nature Reserve: Summit Path - 0.48 km, 64 m gain"
+        "display_name": "Bukit Timah Nature Reserve: Summit Path + Summit Step - 0.48 km, 64 m gain"
       }
     },
     {
@@ -18763,7 +18763,7 @@
         "gain_density_m_per_km": 88.3409778988111,
         "source_confidence": 0.93,
         "warnings": [],
-        "display_name": "Kent Ridge route - 0.72 km, 63 m gain"
+        "display_name": "Kent Ridge: KENT RIDGE PARK - 0.72 km, 63 m gain"
       }
     },
     {
@@ -19820,7 +19820,7 @@
         "gain_density_m_per_km": 12.770434806074496,
         "source_confidence": 0.7899999999999999,
         "warnings": [],
-        "display_name": "Changi Village: Jalan Durian - 4.87 km, 62 m gain"
+        "display_name": "Changi Village: PULAU UBIN EAST + Jalan Durian - 4.87 km, 62 m gain"
       }
     },
     {
@@ -20145,7 +20145,7 @@
         "gain_density_m_per_km": 102.09191625968816,
         "source_confidence": 0.72,
         "warnings": [],
-        "display_name": "Southern Ridges: Marang Trail - 0.58 km, 59 m gain"
+        "display_name": "Southern Ridges: Marang Trail + Mount Faber Park - 0.58 km, 59 m gain"
       }
     },
     {
@@ -22549,7 +22549,7 @@
         "gain_density_m_per_km": 16.764160971893656,
         "source_confidence": 0.86,
         "warnings": [],
-        "display_name": "Changi Village: Jalan Durian - 3.24 km, 54 m gain"
+        "display_name": "Changi Village: PULAU UBIN EAST + Jalan Durian - 3.24 km, 54 m gain"
       }
     },
     {
@@ -24662,7 +24662,7 @@
         "gain_density_m_per_km": 10.704583491361742,
         "source_confidence": 0.9,
         "warnings": [],
-        "display_name": "Changi route - 5.00 km, 53 m gain"
+        "display_name": "Changi: Loyang Park Connector - 5.00 km, 53 m gain"
       }
     },
     {
@@ -26589,7 +26589,7 @@
         "gain_density_m_per_km": 3.228255456812596,
         "source_confidence": 1.0,
         "warnings": [],
-        "display_name": "Southern Ridges to Kent Ridge route - 15.74 km, 51 m gain"
+        "display_name": "Southern Ridges to Kent Ridge: AYE (ALEXANDRA RD TO SOUTH BUONA VISTA RD) + RAIL CORRIDOR - 15.74 km, 51 m gain"
       }
     },
     {
@@ -27830,7 +27830,7 @@
         "gain_density_m_per_km": 3.899704075002663,
         "source_confidence": 1.0,
         "warnings": [],
-        "display_name": "Southern Ridges to Kent Ridge route - 13.03 km, 51 m gain"
+        "display_name": "Southern Ridges to Kent Ridge: AYE (ALEXANDRA RD TO SOUTH BUONA VISTA RD) + RAIL CORRIDOR - 13.03 km, 51 m gain"
       }
     },
     {
@@ -28719,7 +28719,7 @@
         "gain_density_m_per_km": 8.236034818291522,
         "source_confidence": 0.975,
         "warnings": [],
-        "display_name": "MacRitchie loop - 6.15 km, 51 m gain"
+        "display_name": "MacRitchie: MacRitchie Nature Trail + MACRITCHIE - 6.15 km, 51 m gain"
       }
     },
     {
@@ -31879,7 +31879,7 @@
         "gain_density_m_per_km": 29.68599616826115,
         "source_confidence": 0.93,
         "warnings": [],
-        "display_name": "Bishan-Ang Mo Kio route - 1.59 km, 47 m gain"
+        "display_name": "Bishan-Ang Mo Kio: ANG MO KIO AVE 5 (YCK RD TO CTE) + ANG MO KIO TOWN GARDEN WEST - 1.59 km, 47 m gain"
       }
     },
     {
@@ -34305,7 +34305,7 @@
         "gain_density_m_per_km": 5.674727937394418,
         "source_confidence": 0.9,
         "warnings": [],
-        "display_name": "Punggol route - 7.68 km, 44 m gain"
+        "display_name": "Punggol: Punggol Waterway - 7.68 km, 44 m gain"
       }
     },
     {
@@ -42003,7 +42003,7 @@
         "gain_density_m_per_km": 3.088409402361906,
         "source_confidence": 0.95,
         "warnings": [],
-        "display_name": "Seletar loop - 13.54 km, 42 m gain"
+        "display_name": "Seletar: Rowers Bay to TPE + Interim RIR - Jalan Kayu/Sengkang West Wat to Sengkang Riverside Park  - 13.54 km, 42 m gain"
       }
     },
     {
@@ -43572,7 +43572,7 @@
         "gain_density_m_per_km": 8.835198895163597,
         "source_confidence": 0.7699999999999999,
         "warnings": [],
-        "display_name": "Tampines route - 4.66 km, 41 m gain"
+        "display_name": "Tampines: Lorong Halus PC - 4.66 km, 41 m gain"
       }
     },
     {
@@ -45426,7 +45426,7 @@
         "gain_density_m_per_km": 8.814019222569396,
         "source_confidence": 0.95,
         "warnings": [],
-        "display_name": "Tampines loop - 4.60 km, 41 m gain"
+        "display_name": "Tampines: Lorong Halus PC - 4.60 km, 41 m gain"
       }
     },
     {
@@ -46573,7 +46573,7 @@
         "gain_density_m_per_km": 8.592706879510542,
         "source_confidence": 0.8999999999999999,
         "warnings": [],
-        "display_name": "MacRitchie: To.Tree.Top.Walk - 4.31 km, 37 m gain"
+        "display_name": "MacRitchie: MACRITCHIE + To.Tree.Top.Walk - 4.31 km, 37 m gain"
       }
     },
     {
@@ -47126,7 +47126,7 @@
         "gain_density_m_per_km": 54.77266898269202,
         "source_confidence": 0.9125,
         "warnings": [],
-        "display_name": "Pearl's Hill route - 0.67 km, 37 m gain"
+        "display_name": "Pearl's Hill: PEARL'S HILL CITY PK - 0.67 km, 37 m gain"
       }
     },
     {
@@ -48687,7 +48687,7 @@
         "gain_density_m_per_km": 8.83096465763606,
         "source_confidence": 0.8399999999999999,
         "warnings": [],
-        "display_name": "Admiralty route - 4.09 km, 36 m gain"
+        "display_name": "Admiralty: Woodlands Waterfront Park + WOODLANDS WATERFRONT PK - 4.09 km, 36 m gain"
       }
     },
     {
@@ -54920,7 +54920,7 @@
         "gain_density_m_per_km": 3.5894126139500635,
         "source_confidence": 0.95,
         "warnings": [],
-        "display_name": "Seletar loop - 9.91 km, 36 m gain"
+        "display_name": "Seletar: Rowers Bay to TPE - 9.91 km, 36 m gain"
       }
     },
     {
@@ -55777,7 +55777,7 @@
         "gain_density_m_per_km": 13.76397178368578,
         "source_confidence": 0.85,
         "warnings": [],
-        "display_name": "Admiralty route - 2.56 km, 35 m gain"
+        "display_name": "Admiralty: Woodlands Waterfront Park + Marsiling Park Connector - 2.56 km, 35 m gain"
       }
     },
     {
@@ -55934,7 +55934,7 @@
         "gain_density_m_per_km": 108.56044670535485,
         "source_confidence": 0.7374999999999999,
         "warnings": [],
-        "display_name": "Bukit Timah Nature Reserve: Summit Path - 0.32 km, 35 m gain"
+        "display_name": "Bukit Timah Nature Reserve: Summit Path + BUKIT TIMAH - 0.32 km, 35 m gain"
       }
     },
     {
@@ -60749,7 +60749,7 @@
         "gain_density_m_per_km": 3.929083372033107,
         "source_confidence": 0.9666666666666667,
         "warnings": [],
-        "display_name": "Seletar route - 8.58 km, 34 m gain"
+        "display_name": "Seletar: Rowers Bay to TPE + Interim RIR - Jalan Kayu/Sengkang West Wat to Sengkang Riverside Park  - 8.58 km, 34 m gain"
       }
     },
     {
@@ -62030,7 +62030,7 @@
         "gain_density_m_per_km": 35.83178446575086,
         "source_confidence": 0.72,
         "warnings": [],
-        "display_name": "Fort Canning: Lewin Terrace + 14th Century Walk - 0.90 km, 32 m gain"
+        "display_name": "Fort Canning: FORT CANNING PARK + Lewin Terrace - 0.90 km, 32 m gain"
       }
     },
     {
@@ -65133,7 +65133,7 @@
         "gain_density_m_per_km": 4.593043771470889,
         "source_confidence": 0.9,
         "warnings": [],
-        "display_name": "Punggol route - 6.61 km, 30 m gain"
+        "display_name": "Punggol: Punggol Waterway + Punggol Park Connector - 6.61 km, 30 m gain"
       }
     },
     {
@@ -66691,7 +66691,7 @@
         "gain_density_m_per_km": 23.92516627688289,
         "source_confidence": 1.0,
         "warnings": [],
-        "display_name": "Bishan-Ang Mo Kio loop - 1.26 km, 30 m gain"
+        "display_name": "Bishan-Ang Mo Kio: ANG MO KIO AVE 5 (YCK RD TO CTE) - 1.26 km, 30 m gain"
       }
     }
   ]

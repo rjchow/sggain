@@ -17,10 +17,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -40,10 +42,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -63,10 +67,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -86,10 +92,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -109,10 +117,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -132,10 +142,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -155,10 +167,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -178,10 +192,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -201,10 +217,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -224,10 +242,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -247,10 +267,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -270,10 +292,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -293,10 +317,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -316,10 +342,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -339,10 +367,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -362,10 +392,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -385,10 +417,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -408,10 +442,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -431,10 +467,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -454,10 +492,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -477,10 +517,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -500,10 +542,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -523,10 +567,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -546,10 +592,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -569,10 +617,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -592,10 +642,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -615,10 +667,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -638,10 +692,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -661,10 +717,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -684,10 +742,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -707,10 +767,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -730,10 +792,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -753,10 +817,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -776,10 +842,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -799,10 +867,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -822,10 +892,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -845,10 +917,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -868,10 +942,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -891,10 +967,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -914,10 +992,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -937,10 +1017,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -960,10 +1042,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -983,10 +1067,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1006,10 +1092,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1029,10 +1117,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1052,10 +1142,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1075,10 +1167,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1098,10 +1192,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1121,10 +1217,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1144,10 +1242,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1167,10 +1267,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1190,10 +1292,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1213,10 +1317,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1236,10 +1342,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1259,10 +1367,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1282,10 +1392,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1305,10 +1417,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1328,10 +1442,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1351,10 +1467,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1374,10 +1492,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1397,10 +1517,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1420,10 +1542,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1443,10 +1567,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1466,10 +1592,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1489,10 +1617,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1512,10 +1642,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1535,10 +1667,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1558,10 +1692,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1581,10 +1717,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1604,10 +1742,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1627,10 +1767,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1650,10 +1792,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1673,10 +1817,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1696,10 +1842,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1719,10 +1867,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1742,10 +1892,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1765,10 +1917,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1788,10 +1942,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1811,10 +1967,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1834,10 +1992,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1857,10 +2017,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1880,10 +2042,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1903,10 +2067,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1926,10 +2092,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1949,10 +2117,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1972,10 +2142,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -1995,10 +2167,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2018,10 +2192,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2041,10 +2217,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2064,10 +2242,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2087,10 +2267,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2110,10 +2292,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2133,10 +2317,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2156,10 +2342,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2179,10 +2367,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2202,10 +2392,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2225,10 +2417,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2248,10 +2442,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2271,10 +2467,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2294,10 +2492,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2317,10 +2517,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2340,10 +2542,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2363,10 +2567,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2386,10 +2592,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2409,10 +2617,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2432,10 +2642,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2455,10 +2667,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2478,10 +2692,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2501,10 +2717,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2524,10 +2742,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2547,10 +2767,12 @@
     "undirected_edge_id": "nparks_tracks_004635",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2570,10 +2792,12 @@
     "undirected_edge_id": "nparks_tracks_004636",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2593,10 +2817,12 @@
     "undirected_edge_id": "nparks_tracks_004636",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2616,10 +2842,12 @@
     "undirected_edge_id": "nparks_tracks_004636",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2639,10 +2867,12 @@
     "undirected_edge_id": "nparks_tracks_004636",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2662,10 +2892,12 @@
     "undirected_edge_id": "nparks_tracks_004636",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2685,10 +2917,12 @@
     "undirected_edge_id": "nparks_tracks_004636",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2708,10 +2942,12 @@
     "undirected_edge_id": "nparks_tracks_004636",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2731,10 +2967,12 @@
     "undirected_edge_id": "nparks_tracks_004636",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2754,10 +2992,12 @@
     "undirected_edge_id": "nparks_tracks_004636",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2777,10 +3017,12 @@
     "undirected_edge_id": "nparks_tracks_004636",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2800,10 +3042,12 @@
     "undirected_edge_id": "nparks_tracks_004636",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2823,10 +3067,12 @@
     "undirected_edge_id": "nparks_tracks_004636",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2846,10 +3092,12 @@
     "undirected_edge_id": "nparks_tracks_004636",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2869,10 +3117,12 @@
     "undirected_edge_id": "nparks_tracks_004636",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2892,10 +3142,12 @@
     "undirected_edge_id": "nparks_tracks_004636",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   },
   {
     "route_id": "loop_05000m_006",
@@ -2915,9 +3167,11 @@
     "undirected_edge_id": "nparks_tracks_004636",
     "source_primary": "nparks_tracks",
     "source_confidence": 1.0,
-    "source_feature_id": "4766",
+    "source_feature_id": "4062",
+    "source_row_index": "4766",
+    "source_raw_properties_json": "{\"ALLOW_CYCLING\": \"Y\", \"ALLOW_PMD\": \"N\", \"ALLOW_WALKING\": \"Y\", \"ALLOW_WHEELING\": \"Y\", \"AMA_CATEGORY\": \"Walkers + Cyclists\", \"FMEL_UPD_D\": \"20250827103210\", \"INC_CRC\": \"57C9116C0101DD54\", \"OBJECTID\": 4062, \"PARK\": \"ANG MO KIO AVE 5 (YCK RD TO CTE)\", \"PARK_TYPE\": \"Park\", \"PATH_WIDTH\": \"<2.5\", \"SHAPE.LEN\": 1971.14506494159, \"TYPE\": \"Footpath\"}",
     "highway": null,
-    "path_name": null,
-    "trail_type": null
+    "path_name": "ANG MO KIO AVE 5 (YCK RD TO CTE)",
+    "trail_type": "Footpath"
   }
 ]

@@ -17,9 +17,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -40,9 +42,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -63,9 +67,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -86,9 +92,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -109,9 +117,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -132,9 +142,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -155,9 +167,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -178,9 +192,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -201,9 +217,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -224,9 +242,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -247,9 +267,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -270,9 +292,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -293,9 +317,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -316,9 +342,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -339,9 +367,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -362,9 +392,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -385,9 +417,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -408,9 +442,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -431,9 +467,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -454,9 +492,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -477,9 +517,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -500,9 +542,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -523,9 +567,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -546,9 +592,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -569,9 +617,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -592,9 +642,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -615,9 +667,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -638,9 +692,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -661,9 +717,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -684,9 +742,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -707,9 +767,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -730,9 +792,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -753,9 +817,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -776,9 +842,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -799,9 +867,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -822,9 +892,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -845,9 +917,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -868,9 +942,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -891,9 +967,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -914,9 +992,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -937,9 +1017,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -960,9 +1042,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -983,9 +1067,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1006,9 +1092,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1029,9 +1117,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1052,9 +1142,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1075,9 +1167,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1098,9 +1192,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1121,9 +1217,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1144,9 +1242,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1167,9 +1267,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1190,9 +1292,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1213,9 +1317,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1236,9 +1342,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1259,9 +1367,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1282,9 +1392,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1305,9 +1417,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1328,9 +1442,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1351,9 +1467,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1374,9 +1492,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1397,9 +1517,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1420,9 +1542,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1443,9 +1567,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1466,9 +1592,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1489,9 +1617,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1512,9 +1642,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1535,9 +1667,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1558,9 +1692,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1581,9 +1717,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1604,9 +1742,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1627,9 +1767,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1650,9 +1792,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1673,9 +1817,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1696,9 +1842,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1719,9 +1867,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1742,9 +1892,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1765,9 +1917,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1788,9 +1942,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1811,9 +1967,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1834,9 +1992,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1857,9 +2017,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1880,9 +2042,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1903,9 +2067,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1926,9 +2092,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1949,9 +2117,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1972,9 +2142,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -1995,9 +2167,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2018,9 +2192,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2041,9 +2217,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2064,9 +2242,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2087,9 +2267,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2110,9 +2292,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2133,9 +2317,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2156,9 +2342,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2179,9 +2367,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2202,9 +2392,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2225,9 +2417,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2248,9 +2442,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2271,9 +2467,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2294,9 +2492,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2317,9 +2517,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2340,9 +2542,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2363,9 +2567,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2386,9 +2592,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2409,9 +2617,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2432,9 +2642,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2455,9 +2667,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2478,9 +2692,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2501,9 +2717,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2524,9 +2742,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2547,9 +2767,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2570,9 +2792,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2593,9 +2817,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2616,9 +2842,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2639,9 +2867,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2662,9 +2892,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2685,9 +2917,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2708,9 +2942,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2731,9 +2967,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2754,9 +2992,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2777,9 +3017,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2800,9 +3042,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2823,9 +3067,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2846,9 +3092,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2869,9 +3117,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2892,9 +3142,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2915,9 +3167,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2938,9 +3192,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2961,9 +3217,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -2984,9 +3242,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3007,9 +3267,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3030,9 +3292,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3053,9 +3317,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3076,9 +3342,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3099,9 +3367,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3122,9 +3392,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3145,9 +3417,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3168,9 +3442,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3191,9 +3467,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3214,9 +3492,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3237,9 +3517,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3260,9 +3542,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3283,9 +3567,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3306,9 +3592,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3329,9 +3617,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3352,9 +3642,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3375,9 +3667,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3398,9 +3692,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3421,9 +3717,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3444,9 +3742,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3467,9 +3767,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3490,9 +3792,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3513,9 +3817,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3536,9 +3842,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3559,9 +3867,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3582,9 +3892,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3605,9 +3917,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3628,9 +3942,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3651,9 +3967,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3674,9 +3992,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3697,9 +4017,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3720,9 +4042,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3743,9 +4067,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3766,9 +4092,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3789,9 +4117,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3812,9 +4142,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3835,9 +4167,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3858,9 +4192,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3881,9 +4217,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3904,9 +4242,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3927,9 +4267,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3950,9 +4292,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3973,9 +4317,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -3996,9 +4342,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4019,9 +4367,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4042,9 +4392,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4065,9 +4417,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4088,9 +4442,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4111,9 +4467,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4134,9 +4492,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4157,9 +4517,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4180,9 +4542,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4203,9 +4567,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4226,9 +4592,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4249,9 +4617,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4272,9 +4642,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4295,9 +4667,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4318,9 +4692,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4341,9 +4717,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4364,9 +4742,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4387,9 +4767,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4410,9 +4792,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4433,9 +4817,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4456,9 +4842,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4479,9 +4867,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4502,9 +4892,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4525,9 +4917,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4548,9 +4942,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4571,9 +4967,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4594,9 +4992,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4617,9 +5017,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4640,9 +5042,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4663,9 +5067,11 @@
     "undirected_edge_id": "park_connector_loop_001023",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "769",
+    "source_feature_id": "67665",
+    "source_row_index": "769",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"5D7E749B04D9DFA9\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67665, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 2010.3890308158}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4686,9 +5092,11 @@
     "undirected_edge_id": "park_connector_loop_000209",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "123",
+    "source_feature_id": "67867",
+    "source_row_index": "123",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"97985BC7D5B68939\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67867, \"PARK\": \"Woodlands Waterfront Park\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 9.98084372034749}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Woodlands Waterfront Park",
     "trail_type": null
   },
   {
@@ -4709,9 +5117,11 @@
     "undirected_edge_id": "park_connector_loop_000111",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "72",
+    "source_feature_id": "67816",
+    "source_row_index": "72",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"CCB589D75091014B\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67816, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 161.906001634274}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -4732,9 +5142,11 @@
     "undirected_edge_id": "park_connector_loop_000111",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "72",
+    "source_feature_id": "67816",
+    "source_row_index": "72",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"CCB589D75091014B\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67816, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 161.906001634274}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -4755,9 +5167,11 @@
     "undirected_edge_id": "park_connector_loop_000111",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "72",
+    "source_feature_id": "67816",
+    "source_row_index": "72",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"CCB589D75091014B\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67816, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 161.906001634274}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -4778,9 +5192,11 @@
     "undirected_edge_id": "park_connector_loop_000111",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "72",
+    "source_feature_id": "67816",
+    "source_row_index": "72",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"CCB589D75091014B\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67816, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 161.906001634274}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -4801,9 +5217,11 @@
     "undirected_edge_id": "park_connector_loop_000111",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "72",
+    "source_feature_id": "67816",
+    "source_row_index": "72",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"CCB589D75091014B\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67816, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 161.906001634274}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -4824,9 +5242,11 @@
     "undirected_edge_id": "park_connector_loop_000111",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "72",
+    "source_feature_id": "67816",
+    "source_row_index": "72",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"CCB589D75091014B\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67816, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 161.906001634274}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -4847,9 +5267,11 @@
     "undirected_edge_id": "park_connector_loop_000111",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "72",
+    "source_feature_id": "67816",
+    "source_row_index": "72",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"CCB589D75091014B\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67816, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 161.906001634274}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -4870,9 +5292,11 @@
     "undirected_edge_id": "park_connector_loop_000111",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "72",
+    "source_feature_id": "67816",
+    "source_row_index": "72",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"CCB589D75091014B\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67816, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 161.906001634274}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -4893,9 +5317,11 @@
     "undirected_edge_id": "park_connector_loop_000111",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "72",
+    "source_feature_id": "67816",
+    "source_row_index": "72",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"CCB589D75091014B\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67816, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 161.906001634274}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -4916,9 +5342,11 @@
     "undirected_edge_id": "park_connector_loop_000111",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "72",
+    "source_feature_id": "67816",
+    "source_row_index": "72",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"CCB589D75091014B\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67816, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 161.906001634274}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -4939,9 +5367,11 @@
     "undirected_edge_id": "park_connector_loop_000111",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "72",
+    "source_feature_id": "67816",
+    "source_row_index": "72",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"CCB589D75091014B\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67816, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 161.906001634274}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -4962,9 +5392,11 @@
     "undirected_edge_id": "park_connector_loop_000111",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "72",
+    "source_feature_id": "67816",
+    "source_row_index": "72",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"CCB589D75091014B\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67816, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 161.906001634274}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -4985,9 +5417,11 @@
     "undirected_edge_id": "park_connector_loop_000111",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "72",
+    "source_feature_id": "67816",
+    "source_row_index": "72",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"CCB589D75091014B\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67816, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 161.906001634274}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -5008,9 +5442,11 @@
     "undirected_edge_id": "park_connector_loop_000111",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "72",
+    "source_feature_id": "67816",
+    "source_row_index": "72",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"CCB589D75091014B\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67816, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 161.906001634274}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -5031,9 +5467,11 @@
     "undirected_edge_id": "park_connector_loop_000111",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "72",
+    "source_feature_id": "67816",
+    "source_row_index": "72",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"CCB589D75091014B\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67816, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 161.906001634274}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -5054,9 +5492,11 @@
     "undirected_edge_id": "park_connector_loop_000111",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "72",
+    "source_feature_id": "67816",
+    "source_row_index": "72",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"CCB589D75091014B\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67816, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 161.906001634274}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -5077,9 +5517,11 @@
     "undirected_edge_id": "park_connector_loop_000111",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "72",
+    "source_feature_id": "67816",
+    "source_row_index": "72",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"CCB589D75091014B\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67816, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 161.906001634274}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -5100,9 +5542,11 @@
     "undirected_edge_id": "park_connector_loop_000332",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "216",
+    "source_feature_id": "67110",
+    "source_row_index": "216",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"0DA3DC468E221F34\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67110, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 168.374141793831}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -5123,9 +5567,11 @@
     "undirected_edge_id": "park_connector_loop_000332",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "216",
+    "source_feature_id": "67110",
+    "source_row_index": "216",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"0DA3DC468E221F34\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67110, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 168.374141793831}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -5146,9 +5592,11 @@
     "undirected_edge_id": "park_connector_loop_000332",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "216",
+    "source_feature_id": "67110",
+    "source_row_index": "216",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"0DA3DC468E221F34\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67110, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 168.374141793831}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -5169,9 +5617,11 @@
     "undirected_edge_id": "park_connector_loop_000332",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "216",
+    "source_feature_id": "67110",
+    "source_row_index": "216",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"0DA3DC468E221F34\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67110, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 168.374141793831}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -5192,9 +5642,11 @@
     "undirected_edge_id": "park_connector_loop_000332",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "216",
+    "source_feature_id": "67110",
+    "source_row_index": "216",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"0DA3DC468E221F34\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67110, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 168.374141793831}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -5215,9 +5667,11 @@
     "undirected_edge_id": "park_connector_loop_000332",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "216",
+    "source_feature_id": "67110",
+    "source_row_index": "216",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"0DA3DC468E221F34\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67110, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 168.374141793831}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -5238,9 +5692,11 @@
     "undirected_edge_id": "park_connector_loop_000332",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "216",
+    "source_feature_id": "67110",
+    "source_row_index": "216",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"0DA3DC468E221F34\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67110, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 168.374141793831}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -5261,9 +5717,11 @@
     "undirected_edge_id": "park_connector_loop_000332",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "216",
+    "source_feature_id": "67110",
+    "source_row_index": "216",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"0DA3DC468E221F34\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67110, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 168.374141793831}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -5284,9 +5742,11 @@
     "undirected_edge_id": "park_connector_loop_000332",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "216",
+    "source_feature_id": "67110",
+    "source_row_index": "216",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"0DA3DC468E221F34\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67110, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 168.374141793831}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -5307,9 +5767,11 @@
     "undirected_edge_id": "park_connector_loop_000332",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "216",
+    "source_feature_id": "67110",
+    "source_row_index": "216",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"0DA3DC468E221F34\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67110, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 168.374141793831}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -5330,9 +5792,11 @@
     "undirected_edge_id": "park_connector_loop_000332",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "216",
+    "source_feature_id": "67110",
+    "source_row_index": "216",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"0DA3DC468E221F34\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67110, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 168.374141793831}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -5353,9 +5817,11 @@
     "undirected_edge_id": "park_connector_loop_000332",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "216",
+    "source_feature_id": "67110",
+    "source_row_index": "216",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"0DA3DC468E221F34\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67110, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 168.374141793831}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -5376,9 +5842,11 @@
     "undirected_edge_id": "park_connector_loop_000332",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "216",
+    "source_feature_id": "67110",
+    "source_row_index": "216",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"0DA3DC468E221F34\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67110, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 168.374141793831}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -5399,9 +5867,11 @@
     "undirected_edge_id": "park_connector_loop_000332",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "216",
+    "source_feature_id": "67110",
+    "source_row_index": "216",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"0DA3DC468E221F34\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67110, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 168.374141793831}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -5422,9 +5892,11 @@
     "undirected_edge_id": "park_connector_loop_000332",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "216",
+    "source_feature_id": "67110",
+    "source_row_index": "216",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"0DA3DC468E221F34\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67110, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 168.374141793831}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -5445,9 +5917,11 @@
     "undirected_edge_id": "park_connector_loop_000332",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "216",
+    "source_feature_id": "67110",
+    "source_row_index": "216",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"0DA3DC468E221F34\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67110, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 168.374141793831}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -5468,9 +5942,11 @@
     "undirected_edge_id": "park_connector_loop_000332",
     "source_primary": "park_connector_loop",
     "source_confidence": 0.9,
-    "source_feature_id": "216",
+    "source_feature_id": "67110",
+    "source_row_index": "216",
+    "source_raw_properties_json": "{\"FMEL_UPD_D\": \"20250122140539\", \"INC_CRC\": \"0DA3DC468E221F34\", \"MORE_INFO\": \"http://www.nparks.gov.sg/pcn\", \"OBJECTID\": 67110, \"PARK\": \"Marsiling Park Connector\", \"PCN_LOOP\": \"Northern Explorer Loop\", \"SHAPE.LEN\": 168.374141793831}",
     "highway": null,
-    "path_name": null,
+    "path_name": "Marsiling Park Connector",
     "trail_type": null
   },
   {
@@ -5492,6 +5968,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "248664",
+    "source_row_index": "248664",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -5515,6 +5993,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "248664",
+    "source_row_index": "248664",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -5538,6 +6018,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "248664",
+    "source_row_index": "248664",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -5561,6 +6043,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "248664",
+    "source_row_index": "248664",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -5584,6 +6068,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "248664",
+    "source_row_index": "248664",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -5607,6 +6093,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "248664",
+    "source_row_index": "248664",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -5630,6 +6118,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "248664",
+    "source_row_index": "248664",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -5653,6 +6143,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "248664",
+    "source_row_index": "248664",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -5676,6 +6168,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "248664",
+    "source_row_index": "248664",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -5699,6 +6193,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "248664",
+    "source_row_index": "248664",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -5722,6 +6218,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "248664",
+    "source_row_index": "248664",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -5745,6 +6243,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "248664",
+    "source_row_index": "248664",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -5768,6 +6268,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "248664",
+    "source_row_index": "248664",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -5791,6 +6293,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "248664",
+    "source_row_index": "248664",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -5814,6 +6318,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "248664",
+    "source_row_index": "248664",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -5837,6 +6343,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "248664",
+    "source_row_index": "248664",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -5860,6 +6368,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "248664",
+    "source_row_index": "248664",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -5883,6 +6393,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "248664",
+    "source_row_index": "248664",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -5906,6 +6418,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "248664",
+    "source_row_index": "248664",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -5929,6 +6443,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "248664",
+    "source_row_index": "248664",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
@@ -5952,6 +6468,8 @@
     "source_primary": "osm",
     "source_confidence": 0.65,
     "source_feature_id": "248664",
+    "source_row_index": "248664",
+    "source_raw_properties_json": "{\"highway\": \"footway\"}",
     "highway": "footway",
     "path_name": null,
     "trail_type": null
