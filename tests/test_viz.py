@@ -28,6 +28,7 @@ def _route_and_graph():
             "descent_rev_m": [20.0],
             "source_primary": ["fixture"],
             "source_confidence": [1.0],
+            "source_feature_id": ["fixture-row-7"],
             "highway": [float("nan")],
             "name": ["Summit Path"],
         },
@@ -96,6 +97,10 @@ def test_steep_sections_and_html_rendering(tmp_path):
     assert "Fixture" in detail_html
     assert "100.0% of route network" in detail_html
     assert "SLA National Map Line" in detail_html
+    assert "Source Records Used" in detail_html
+    assert '"source_feature_id": "fixture-row-7"' in detail_html
+    assert '"derived_edge_ids": [' in detail_html
+    assert "Source Diagnostics" not in detail_html
     assert "fetch('assets/" not in (tmp_path / "index.html").read_text()
     assert "ROUTE_GEOJSON" in (tmp_path / "index.html").read_text()
     assert "ROUTE_SAMPLES" in (tmp_path / "index.html").read_text()
@@ -109,6 +114,7 @@ def test_steep_sections_and_html_rendering(tmp_path):
 
     payload = json.loads((tmp_path / "assets" / "route_samples" / "r001.json").read_text())
     assert payload[0]["route_id"] == "r001"
+    assert payload[0]["source_feature_id"] == "fixture-row-7"
     summary = json.loads((tmp_path / "assets" / "route_summary.json").read_text())
     assert summary[0]["display_name"].startswith("Summit Path")
     assert "20 m gain" in summary[0]["display_name"]

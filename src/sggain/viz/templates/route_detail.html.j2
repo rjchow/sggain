@@ -18,6 +18,8 @@
     aside { background: white; border: 2px solid var(--ink); padding: 16px; }
     .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
     .grid div, .warning { border: 1px solid var(--ink); padding: 8px; }
+    details { border: 1px solid var(--ink); padding: 8px; margin: 8px 0; }
+    pre { white-space: pre-wrap; overflow-x: auto; font-size: 12px; background: #f4efe3; padding: 8px; }
     a { color: var(--clay); font-weight: bold; }
     @media (max-width: 900px) { main { grid-template-columns: 1fr; padding: 14px; } header { padding: 18px 14px; } }
   </style>
@@ -67,6 +69,18 @@
       Dataset ID: {{ source_attribution.elevation_source.dataset_id }}<br>
       <a href="{{ source_attribution.elevation_source.url }}">Source link</a>
     </p>
+    <h2>Source Records Used</h2>
+    {% if source_attribution.source_records %}
+      {% for record in source_attribution.source_records %}
+        <details>
+          <summary><b>{{ record.source_label }}</b> feature {{ record.source_feature_id }} - {{ "%.1f"|format(record.share_pct) }}%, {{ "%.0f"|format(record.distance_m) }} m</summary>
+          <p>Compact normalized source object used by this route. It includes only the relevant identifiers and routing attributes, plus the derived route edge IDs.</p>
+          <pre>{{ record | tojson(indent=2) }}</pre>
+        </details>
+      {% endfor %}
+    {% else %}
+      <p class="warning">No source records were available for this route.</p>
+    {% endif %}
     <h2>Warnings</h2>
     {% if route.warnings %}
       {% for warning in route.warnings %}<p class="warning">{{ warning }}</p>{% endfor %}
@@ -81,8 +95,6 @@
     {% else %}
       <p class="warning">No steep sections above threshold.</p>
     {% endif %}
-    <h2>Source Diagnostics</h2>
-    <p class="warning">Per-sample source fields are encoded in the generated JSON outputs for this route.</p>
   </aside>
 </main>
 <script>

@@ -54,8 +54,45 @@ SOURCE_METADATA: dict[str, dict[str, str | None]] = {
 def source_attribution_records(samples: list[dict[str, Any]]) -> dict[str, Any]:
     return {
         "path_sources": _path_source_records(samples),
+        "source_records": _source_records_used(samples),
         "elevation_source": _source_record("national_map_line"),
     }
+
+
+def _source_records_used(samples: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    grouped: dict[tuple[str, str], dict[str, Any]] = {}
+    total_distance = _total_sample_distance(samples)
+
+    for current, following in zip(samples, samples[1:], strict=False):
+        delta = max(0.0, _float(following.get("cum_distance_m")) - _float(current.get("cum_distance_m")))
+        if delta <= 0:
+            continue
+        source_key = _source_key(current.get("source_primary"))
+        source_feature_id = _source_feature_id(current)
+        group_key = (source_key, source_feature_id)
+        record = grouped.setdefault(
+            group_key,
+            {
+                "source_label": _source_record(source_key)["label"],
+                "source_primary": source_key,
+                "source_feature_id": source_feature_id,
+                "distance_m": 0.0,
+                "share_pct": 0.0,
+                "source_confidence": _float(current.get("source_confidence"), 0.5),
+                "derived_edge_ids": [],
+                "attributes": _compact_attributes(current),
+            },
+        )
+        record["distance_m"] += delta
+        edge_id = current.get("edge_id") or current.get("undirected_edge_id")
+        if edge_id and edge_id not in record["derived_edge_ids"]:
+            record["derived_edge_ids"].append(edge_id)
+
+    for record in grouped.values():
+        record["distance_m"] = round(record["distance_m"], 1)
+        record["share_pct"] = round((record["distance_m"] / total_distance) * 100, 1) if total_distance > 0 else 0.0
+
+    return sorted(grouped.values(), key=lambda item: (-item["distance_m"], item["source_primary"], item["source_feature_id"]))
 
 
 def _path_source_records(samples: list[dict[str, Any]]) -> list[dict[str, Any]]:
@@ -99,6 +136,38 @@ def _path_source_records(samples: list[dict[str, Any]]) -> list[dict[str, Any]]:
             }
         )
     return records
+
+
+def _total_sample_distance(samples: list[dict[str, Any]]) -> float:
+    if len(samples) < 2:
+        return 0.0
+    return max(0.0, _float(samples[-1].get("cum_distance_m")) - _float(samples[0].get("cum_distance_m")))
+
+
+def _source_feature_id(sample: dict[str, Any]) -> str:
+    value = sample.get("source_feature_id")
+    if value is None or str(value).strip().lower() in {"", "nan"}:
+        value = sample.get("edge_id") or sample.get("undirected_edge_id") or "unknown"
+    return str(value)
+
+
+def _compact_attributes(sample: dict[str, Any]) -> dict[str, Any]:
+    keys = [
+        "source_primary",
+        "source_feature_id",
+        "path_name",
+        "highway",
+        "trail_type",
+        "source_confidence",
+    ]
+    return {key: sample.get(key) for key in keys if _present(sample.get(key))}
+
+
+def _present(value: Any) -> bool:
+    if value is None:
+        return False
+    text = str(value).strip()
+    return bool(text) and text.lower() != "nan"
 
 
 def _source_record(source_key: str) -> dict[str, Any]:
