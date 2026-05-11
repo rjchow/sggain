@@ -92,6 +92,10 @@ def test_steep_sections_and_html_rendering(tmp_path):
     assert 'href="r001.gpx"' in detail_html
     assert 'href="r001.geojson"' in detail_html
     assert "../../routes/" not in detail_html
+    assert "Data Attribution" in detail_html
+    assert "Fixture" in detail_html
+    assert "100.0% of route network" in detail_html
+    assert "SLA National Map Line" in detail_html
     assert "fetch('assets/" not in (tmp_path / "index.html").read_text()
     assert "ROUTE_GEOJSON" in (tmp_path / "index.html").read_text()
     assert "ROUTE_SAMPLES" in (tmp_path / "index.html").read_text()

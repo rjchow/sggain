@@ -11,6 +11,7 @@ import pandas as pd
 
 from sggain.config import AppConfig
 from sggain.routing.search import RouteResult
+from sggain.viz.attribution import source_attribution_records
 from sggain.viz.data import build_route_samples, detect_steep_sections
 from sggain.viz.map_data import route_summary_records, routes_to_feature_collection
 
@@ -41,11 +42,13 @@ def render_visualization(routes: list[RouteResult], graph, output_dir: str | Pat
     tile_options = {"tile_url": tile_url, "tile_attribution": tile_attribution, "tile_max_zoom": tile_max_zoom}
     route_samples: dict[str, list[dict[str, Any]]] = {}
     steep_sections: dict[str, list[dict[str, Any]]] = {}
+    source_attributions: dict[str, dict[str, Any]] = {}
     for route in routes:
         samples = build_route_samples(route, graph, spacing_m=10)
         sample_records = _json_ready(samples.to_dict(orient="records"))
         route_samples[route.route_id] = sample_records
         steep_sections[route.route_id] = _json_ready(detect_steep_sections(samples, threshold))
+        source_attributions[route.route_id] = _json_ready(source_attribution_records(sample_records))
         (samples_dir / f"{route.route_id}.json").write_text(_dump_json(sample_records))
 
     summaries = _json_ready(route_summary_records(routes, route_samples))
@@ -75,6 +78,7 @@ def render_visualization(routes: list[RouteResult], graph, output_dir: str | Pat
                 route=summaries_by_id[route.route_id],
                 samples=route_samples[route.route_id],
                 steep_sections=steep_sections[route.route_id],
+                source_attribution=source_attributions[route.route_id],
                 title=summaries_by_id[route.route_id]["display_name"],
                 **tile_options,
             )

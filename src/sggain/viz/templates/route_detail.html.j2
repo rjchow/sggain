@@ -45,6 +45,28 @@
     </div>
     <h2>Downloads</h2>
     <p><a href="{{ route.route_id }}.gpx">GPX</a> · <a href="{{ route.route_id }}.geojson">GeoJSON</a></p>
+    <h2>Data Attribution</h2>
+    <h3>Route network</h3>
+    {% if source_attribution.path_sources %}
+      {% for source in source_attribution.path_sources %}
+        <p class="warning">
+          <b>{{ source.label }}</b><br>
+          {{ "%.1f"|format(source.share_pct) }}% of route network{% if source.distance_m > 0 %}, about {{ "%.0f"|format(source.distance_m) }} m{% endif %}; confidence {{ "%.2f"|format(source.confidence) }}.<br>
+          {{ source.publisher }}. {{ source.description }}
+          {% if source.dataset_id %}<br>Dataset ID: {{ source.dataset_id }}{% endif %}
+          {% if source.url %}<br><a href="{{ source.url }}">Source link</a>{% endif %}
+        </p>
+      {% endfor %}
+    {% else %}
+      <p class="warning">No route network source metadata available.</p>
+    {% endif %}
+    <h3>Elevation</h3>
+    <p class="warning">
+      <b>{{ source_attribution.elevation_source.label }}</b><br>
+      {{ source_attribution.elevation_source.publisher }}. {{ source_attribution.elevation_source.description }}<br>
+      Dataset ID: {{ source_attribution.elevation_source.dataset_id }}<br>
+      <a href="{{ source_attribution.elevation_source.url }}">Source link</a>
+    </p>
     <h2>Warnings</h2>
     {% if route.warnings %}
       {% for warning in route.warnings %}<p class="warning">{{ warning }}</p>{% endfor %}
@@ -59,8 +81,8 @@
     {% else %}
       <p class="warning">No steep sections above threshold.</p>
     {% endif %}
-    <h2>Sources</h2>
-    <p class="warning">Primary source diagnostics are encoded per sample and edge in generated JSON outputs.</p>
+    <h2>Source Diagnostics</h2>
+    <p class="warning">Per-sample source fields are encoded in the generated JSON outputs for this route.</p>
   </aside>
 </main>
 <script>
