@@ -39,3 +39,32 @@ def test_build_edge_node_tables_can_snap_nearby_endpoints_and_geometry():
     second = edges.loc[edges["name"] == "steps"].iloc[0]
     assert first.v == second.u
     assert list(second.geometry.coords)[0] == list(first.geometry.coords)[-1]
+
+
+def test_normalize_path_layer_preserves_raw_feature_lookup():
+    raw = gpd.GeoDataFrame(
+        {"OBJECTID": [57452], "TRAIL_NAME": ["Summit Step"], "TRAIL_TYPE": [1]},
+        geometry=[LineString([(103.7773, 1.3535), (103.7766, 1.3547)])],
+        crs="EPSG:4326",
+    )
+
+    paths = normalize_path_layer(raw, "central_nature_reserve", 0.95)
+
+    assert paths.iloc[0]["source_feature_id"] == "57452"
+    assert paths.iloc[0]["source_row_index"] == "0"
+    assert '"TRAIL_NAME": "Summit Step"' in paths.iloc[0]["source_raw_properties_json"]
+    assert '"OBJECTID": 57452' in paths.iloc[0]["source_raw_properties_json"]
+
+
+def test_build_edge_node_tables_uses_named_fallbacks_when_name_is_nan():
+    raw = gpd.GeoDataFrame(
+        {"name": [float("nan")], "TRAIL_NAME": ["Summit Step"], "TRAIL_TYPE": [1]},
+        geometry=[LineString([(0, 0), (10, 0)])],
+        crs="EPSG:3414",
+    )
+    paths = normalize_path_layer(raw, "central_nature_reserve", 0.95)
+
+    _nodes, edges = build_edge_node_tables(paths)
+
+    assert edges.iloc[0]["name"] == "Summit Step"
+    assert edges.iloc[0]["trail_type"] == "1"

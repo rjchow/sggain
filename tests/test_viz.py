@@ -29,6 +29,8 @@ def _route_and_graph():
             "source_primary": ["fixture"],
             "source_confidence": [1.0],
             "source_feature_id": ["fixture-row-7"],
+            "source_row_index": ["7"],
+            "source_raw_properties_json": ['{"OBJECTID": 77, "TRAIL_NAME": "Summit Path"}'],
             "highway": [float("nan")],
             "name": ["Summit Path"],
         },
@@ -99,7 +101,11 @@ def test_steep_sections_and_html_rendering(tmp_path):
     assert "SLA National Map Line" in detail_html
     assert "Source Records Used" in detail_html
     assert '"source_feature_id": "fixture-row-7"' in detail_html
-    assert '"derived_edge_ids": [' in detail_html
+    assert '"raw_row_index": "7"' in detail_html
+    assert '"OBJECTID": 77' in detail_html
+    assert '"TRAIL_NAME": "Summit Path"' in detail_html
+    assert '"internal_route_edge_ids": [' in detail_html
+    assert "will not appear in downloaded raw files" in detail_html
     assert '"latlon_bounds": {' in detail_html
     assert '"elevation_summary": {' in detail_html
     assert '"route_sample_points": [' in detail_html
@@ -121,6 +127,7 @@ def test_steep_sections_and_html_rendering(tmp_path):
     payload = json.loads((tmp_path / "assets" / "route_samples" / "r001.json").read_text())
     assert payload[0]["route_id"] == "r001"
     assert payload[0]["source_feature_id"] == "fixture-row-7"
+    assert payload[0]["source_row_index"] == "7"
     summary = json.loads((tmp_path / "assets" / "route_summary.json").read_text())
     assert summary[0]["display_name"].startswith("Summit Path")
     assert "20 m gain" in summary[0]["display_name"]

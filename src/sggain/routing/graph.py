@@ -62,7 +62,7 @@ def _add_directed_edge(graph: nx.MultiDiGraph, row, forward: bool) -> None:
         "source_primary": row.get("source_primary", "unknown"),
         "source_confidence": float(row.get("source_confidence", 0.5) or 0.5),
     }
-    for optional in ["highway", "name", "trail_type", "source_feature_id"]:
+    for optional in ["highway", "name", "trail_type", "source_feature_id", "source_row_index", "source_raw_properties_json"]:
         if optional in row and row[optional] is not None:
             data[optional] = row[optional]
     if forward:

@@ -63,6 +63,8 @@ def build_route_samples(route: RouteResult, graph, spacing_m: float = 10) -> pd.
                     "source_primary": edge.get("source_primary", "unknown"),
                     "source_confidence": float(edge.get("source_confidence", 0.5)),
                     "source_feature_id": edge.get("source_feature_id"),
+                    "source_row_index": edge.get("source_row_index"),
+                    "source_raw_properties_json": edge.get("source_raw_properties_json"),
                     "highway": edge.get("highway"),
                     "path_name": edge.get("name"),
                     "trail_type": edge.get("trail_type"),

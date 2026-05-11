@@ -1,6 +1,8 @@
 from __future__ import annotations
 
 from collections import defaultdict
+import json
+import math
 from pathlib import Path
 from typing import Any
 
@@ -57,10 +59,17 @@ def normalize_path_layer(gdf: gpd.GeoDataFrame, source_primary: str, source_conf
         for line in explode_lines(row.geometry):
             if line.length <= 0:
                 continue
-            record = row.drop(labels=["geometry"]).to_dict()
+            raw_record = row.drop(labels=["geometry"]).to_dict()
+            record = raw_record.copy()
             record["source_primary"] = source_primary
             record["source_confidence"] = float(source_confidence)
-            record["source_feature_id"] = str(record.get("id", index))
+            record["source_feature_id"] = _source_feature_id(raw_record, index)
+            record["source_row_index"] = str(index)
+            record["source_raw_properties_json"] = json.dumps(
+                _compact_source_properties(raw_record),
+                allow_nan=False,
+                sort_keys=True,
+            )
             record["geometry"] = line
             rows.append(record)
     return gpd.GeoDataFrame(rows, geometry="geometry", crs=SVY21)
@@ -105,9 +114,11 @@ def build_edge_node_tables(
                 "source_primary": source,
                 "source_confidence": float(row.get("source_confidence", 0.5) or 0.5),
                 "source_feature_id": row.get("source_feature_id"),
-                "highway": row.get("highway"),
-                "name": row.get("name") or row.get("TRAIL_NAME") or row.get("PARK") or row.get("PCN_LOOP"),
-                "trail_type": row.get("TRAIL_TYPE") or row.get("TYPE"),
+                "source_row_index": row.get("source_row_index"),
+                "source_raw_properties_json": row.get("source_raw_properties_json"),
+                "highway": _first_present(row.get("highway")),
+                "name": _first_present(row.get("name"), row.get("TRAIL_NAME"), row.get("PARK"), row.get("PCN_LOOP")),
+                "trail_type": _string_or_none(_first_present(row.get("TRAIL_TYPE"), row.get("TYPE"))),
                 "geometry": geometry,
             }
         )
@@ -135,6 +146,11 @@ def _node_intersections(paths: gpd.GeoDataFrame) -> gpd.GeoDataFrame:
                 "source_primary": best["source_primary"],
                 "source_confidence": best["source_confidence"],
                 "source_feature_id": best.get("source_feature_id"),
+                "source_row_index": best.get("source_row_index"),
+                "source_raw_properties_json": best.get("source_raw_properties_json"),
+                "highway": _first_present(best.get("highway")),
+                "name": _first_present(best.get("name"), best.get("TRAIL_NAME"), best.get("PARK"), best.get("PCN_LOOP")),
+                "trail_type": _string_or_none(_first_present(best.get("TRAIL_TYPE"), best.get("TYPE"))),
                 "geometry": segment,
             }
         )
@@ -200,6 +216,101 @@ def _truthy(value: Any) -> bool:
     if value is None or pd.isna(value):
         return False
     return str(value).strip().lower() in {"1", "true", "t", "yes", "y", "walk", "allowed"}
+
+
+def _source_feature_id(record: dict[str, Any], fallback_index: Any) -> str:
+    # Prefer stable IDs from the raw dataset. If none exists, keep the original
+    # row index separately from generated route edge IDs.
+    for key in ("OBJECTID", "objectid", "FID", "fid", "id", "ID", "osm_id", "osmid", "osm_way_id"):
+        value = record.get(key)
+        if _present(value):
+            return str(_json_scalar(value))
+    return str(fallback_index)
+
+
+def _compact_source_properties(record: dict[str, Any]) -> dict[str, Any]:
+    preferred_keys = [
+        "OBJECTID",
+        "objectid",
+        "FID",
+        "fid",
+        "id",
+        "ID",
+        "osm_id",
+        "osmid",
+        "osm_way_id",
+        "TRAIL_NAME",
+        "TRAIL_TYPE",
+        "ALLOW_WALKING",
+        "NAME",
+        "name",
+        "PARK",
+        "PCN_LOOP",
+        "TYPE",
+        "highway",
+        "access",
+        "foot",
+        "SHAPE.LEN",
+        "length",
+        "INC_CRC",
+        "FMEL_UPD_D",
+    ]
+    compact: dict[str, Any] = {}
+    for key in preferred_keys:
+        value = record.get(key)
+        if _present(value):
+            compact[key] = _json_scalar(value)
+
+    for key, value in record.items():
+        if len(compact) >= 20:
+            break
+        if key in compact or key in preferred_keys or not _present(value):
+            continue
+        scalar = _json_scalar(value)
+        if isinstance(scalar, str) and len(scalar) > 160:
+            continue
+        compact[key] = scalar
+    return compact
+
+
+def _present(value: Any) -> bool:
+    if value is None:
+        return False
+    if isinstance(value, float) and math.isnan(value):
+        return False
+    try:
+        if pd.isna(value):
+            return False
+    except (TypeError, ValueError):
+        pass
+    text = str(value).strip()
+    return bool(text) and text.lower() != "nan"
+
+
+def _first_present(*values: Any) -> Any:
+    for value in values:
+        if _present(value):
+            return value
+    return None
+
+
+def _string_or_none(value: Any) -> str | None:
+    if not _present(value):
+        return None
+    scalar = _json_scalar(value)
+    return str(scalar)
+
+
+def _json_scalar(value: Any) -> Any:
+    if hasattr(value, "item"):
+        value = value.item()
+    if isinstance(value, float) and value.is_integer():
+        return int(value)
+    if isinstance(value, int | float | str | bool):
+        return value
+    if isinstance(value, list | tuple):
+        return [_json_scalar(item) for item in value[:8]]
+    return str(value)
 
 
 def _find_downloaded_vector(raw_dir: Path, name: str) -> Path | None:
